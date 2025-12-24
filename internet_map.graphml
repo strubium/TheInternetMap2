@@ -1,0 +1,3953 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<graph id="G" edgedefault="directed">
+<node id="w2m9492ddv-dsn_algolia_net"/>
+<node id="diff_wikimedia_org"/>
+<node id="indieweb_social"/>
+<node id="developer_wikimedia_org"/>
+<node id="support_github_com"/>
+<node id="liamdevlabs_itch_io"/>
+<node id="martin-games_itch_io"/>
+<node id="sam2008_itch_io"/>
+<node id="www_fandom_com"/>
+<node id="app_daily_dev"/>
+<node id="ann_wikipedia_org"/>
+<node id="gan_wikipedia_org"/>
+<node id="cdo_wikipedia_org"/>
+<node id="sodaraptor_itch_io"/>
+<node id="bo_linkedin_com"/>
+<node id="worth-partnership_ec_europa_eu"/>
+<node id="my-dimension_com"/>
+<node id="kv_wikipedia_org"/>
+<node id="fo_wikipedia_org"/>
+<node id="ast_wikipedia_org"/>
+<node id="www_epiccenter_com"/>
+<node id="moonshot_hackclub_com"/>
+<node id="br_wikipedia_org"/>
+<node id="sam-thul_itch_io"/>
+<node id="investor_twitterinc_com"/>
+<node id="kaa_wikipedia_org"/>
+<node id="lfn_wikipedia_org"/>
+<node id="ku_wikipedia_org"/>
+<node id="www_apple_com"/>
+<node id="donate_wikimedia_org"/>
+<node id="so_wikipedia_org"/>
+<node id="bs_wikipedia_org"/>
+<node id="co_linkedin_com"/>
+<node id="brittney_pitas_com"/>
+<node id="alphapictoris_itch_io"/>
+<node id="koi_wikipedia_org"/>
+<node id="darelooks_itch_io"/>
+<node id="silversky-studio_itch_io"/>
+<node id="es_linkedin_com"/>
+<node id="jeanne444_itch_io"/>
+<node id="developer_linkedin_com"/>
+<node id="static_itch_io"/>
+<node id="instagram_com"/>
+<node id="www_edoeb_admin_ch"/>
+<node id="www_metacritic_com"/>
+<node id="sq_wikipedia_org"/>
+<node id="wiki_mozilla_org"/>
+<node id="ee_wikipedia_org"/>
+<node id="environment_ec_europa_eu"/>
+<node id="fonts_googleapis_com"/>
+<node id="dogs-understand_itch_io"/>
+<node id="wordpress_com"/>
+<node id="mrj_wikipedia_org"/>
+<node id="www_spydersempire_com"/>
+<node id="id_wikipedia_org"/>
+<node id="www_flickr_com"/>
+<node id="sb_scorecardresearch_com"/>
+<node id="academy_optimizely_com"/>
+<node id="tw_wikipedia_org"/>
+<node id="www_scifihifi_com"/>
+<node id="urania-games_itch_io"/>
+<node id="consolationchamps_com"/>
+<node id="0_gravatar_com"/>
+<node id="blog_x_com"/>
+<node id="ie_wikipedia_org"/>
+<node id="www_abookapart_com"/>
+<node id="os_wikipedia_org"/>
+<node id="th_linkedin_com"/>
+<node id="www_iht_com"/>
+<node id="aces_hackclub_com"/>
+<node id="za_wikipedia_org"/>
+<node id="social_holovaty_com"/>
+<node id="map-bms_wikipedia_org"/>
+<node id="ksh_wikipedia_org"/>
+<node id="humblepixel_itch_io"/>
+<node id="ty_wikipedia_org"/>
+<node id="vidas-salavejus_itch_io"/>
+<node id="or_wikipedia_org"/>
+<node id="www_consilium_europa_eu"/>
+<node id="arrow_fandom_com"/>
+<node id="mememachine_net"/>
+<node id="sm_wikipedia_org"/>
+<node id="googleblog_blogspot_com"/>
+<node id="github_blog"/>
+<node id="trainedmonkey_com"/>
+<node id="ohirakyou_itch_io"/>
+<node id="rittzler_itch_io"/>
+<node id="rsk_wikipedia_org"/>
+<node id="gv_wikipedia_org"/>
+<node id="aym_engel5_net"/>
+<node id="www_gnome-girl_com"/>
+<node id="terraria_fandom_com"/>
+<node id="joshua_com"/>
+<node id="www_politifact_com"/>
+<node id="meiri_itch_io"/>
+<node id="knc_wikipedia_org"/>
+<node id="www_brokenarrowskyrace_com"/>
+<node id="abhamra_com"/>
+<node id="github_careers"/>
+<node id="bar_wikipedia_org"/>
+<node id="haw_wikipedia_org"/>
+<node id="meta_wikimedia_org"/>
+<node id="s1_wp_com"/>
+<node id="www_zapisky_info"/>
+<node id="blogrolling_com"/>
+<node id="sr_wikipedia_org"/>
+<node id="strategic-technologies_europa_eu"/>
+<node id="www_reasonablyclever_com"/>
+<node id="ia_wikipedia_org"/>
+<node id="trello_com"/>
+<node id="udm_wikipedia_org"/>
+<node id="glazman_org"/>
+<node id="truebiger_itch_io"/>
+<node id="srn_wikipedia_org"/>
+<node id="mintcdn_com"/>
+<node id="bugzilla_mozilla_org"/>
+<node id="www_i-sako_com"/>
+<node id="irc_freenode_net"/>
+<node id="twitter_com"/>
+<node id="www_xadsacademy_com"/>
+<node id="ph_linkedin_com"/>
+<node id="inkblog_com"/>
+<node id="vls_wikipedia_org"/>
+<node id="redspringstudio_itch_io"/>
+<node id="ckb_wikipedia_org"/>
+<node id="www_clagnut_com"/>
+<node id="hadea_ec_europa_eu"/>
+<node id="penusbmic_itch_io"/>
+<node id="do_linkedin_com"/>
+<node id="figma_com"/>
+<node id="freidenker01_itch_io"/>
+<node id="youreurope_europa_eu"/>
+<node id="youtu_be"/>
+<node id="press_linkedin_com"/>
+<node id="cordis_europa_eu"/>
+<node id="thegreatescaper_itch_io"/>
+<node id="7nights_com"/>
+<node id="the-independent_com"/>
+<node id="ryze_com"/>
+<node id="bug_wikipedia_org"/>
+<node id="joint-research-centre_ec_europa_eu"/>
+<node id="sn_wikipedia_org"/>
+<node id="gu_wikipedia_org"/>
+<node id="www_netcrucible_com"/>
+<node id="www_dashes_com"/>
+<node id="en_wikivoyage_org"/>
+<node id="kromster80_itch_io"/>
+<node id="tr_linkedin_com"/>
+<node id="www_theregus_com"/>
+<node id="citizens_ec_europa_eu"/>
+<node id="bsky_app"/>
+<node id="www_liquid2k_com"/>
+<node id="www_buildingsmart_org"/>
+<node id="www_eurofleets_eu"/>
+<node id="bbc_com"/>
+<node id="cli_github_com"/>
+<node id="pcm_wikipedia_org"/>
+<node id="evhead_com"/>
+<node id="listen_tidal_com"/>
+<node id="cassisproject_com"/>
+<node id="lua_org"/>
+<node id="hixie_ch"/>
+<node id="sl_wikipedia_org"/>
+<node id="www_loobylu_com"/>
+<node id="medium_com"/>
+<node id="www_readinged_com"/>
+<node id="fr_wikipedia_org"/>
+<node id="sk_wikipedia_org"/>
+<node id="nap_wikipedia_org"/>
+<node id="www_theguardian_com"/>
+<node id="policy_medium_com"/>
+<node id="www_anitrapavka_com"/>
+<node id="au_linkedin_com"/>
+<node id="werxzy_itch_io"/>
+<node id="mni_wikipedia_org"/>
+<node id="sexeducation_fandom_com"/>
+<node id="abs_twimg_com"/>
+<node id="theguardian_com"/>
+<node id="www_unix-girl_com"/>
+<node id="mwl_wikipedia_org"/>
+<node id="www_mediawiki_org"/>
+<node id="babelfish_altavista_com"/>
+<node id="fj_wikipedia_org"/>
+<node id="bm_wikipedia_org"/>
+<node id="www_microcontentnews_com"/>
+<node id="api_x_com"/>
+<node id="www_blogstakes_com"/>
+<node id="european-union_europa_eu"/>
+<node id="ae_linkedin_com"/>
+<node id="simplebits_shop"/>
+<node id="defence-industry-space_ec_europa_eu"/>
+<node id="www_livejournal_com"/>
+<node id="typical_net"/>
+<node id="resnijars_itch_io"/>
+<node id="www_twitch_tv"/>
+<node id="tt_linkedin_com"/>
+<node id="om_wikipedia_org"/>
+<node id="mdf_wikipedia_org"/>
+<node id="www_404media_co"/>
+<node id="sinerider_com"/>
+<node id="fiu-vro_wikipedia_org"/>
+<node id="wuu_wikipedia_org"/>
+<node id="bayoudog_com"/>
+<node id="fonts_gstatic_com"/>
+<node id="opticraft_redstudio_dev"/>
+<node id="31math62_itch_io"/>
+<node id="mai_wikipedia_org"/>
+<node id="www_lwjgl_org"/>
+<node id="wrenkin_net"/>
+<node id="dk_linkedin_com"/>
+<node id="juicybeast_itch_io"/>
+<node id="radio_weblogs_com"/>
+<node id="maldo19_itch_io"/>
+<node id="summit_creativecommons_org"/>
+<node id="32bit_cafe"/>
+<node id="systemxemotion_itch_io"/>
+<node id="www_hollywoodandvine_com"/>
+<node id="hightouch_com"/>
+<node id="memory-alpha_fandom_com"/>
+<node id="www_ryze_com"/>
+<node id="min_wikipedia_org"/>
+<node id="qeresi_itch_io"/>
+<node id="www_ht04_org"/>
+<node id="esperanto_wiki"/>
+<node id="aminediro_com"/>
+<node id="deerspherestudios_itch_io"/>
+<node id="www_corti_com"/>
+<node id="www_gstatic_com"/>
+<node id="support_x_com"/>
+<node id="www_tiktok_com"/>
+<node id="terrycavanagh_itch_io"/>
+<node id="www_google-analytics_com"/>
+<node id="www_weblogger_ch"/>
+<node id="ss_wikipedia_org"/>
+<node id="37signals_com"/>
+<node id="wikimania_wikimedia_org"/>
+<node id="kus_wikipedia_org"/>
+<node id="civil-protection-humanitarian-aid_ec_europa_eu"/>
+<node id="www_leatheregg_com"/>
+<node id="yorickpeterse_com"/>
+<node id="me_dm"/>
+<node id="torigamedev_itch_io"/>
+<node id="digital-strategy_ec_europa_eu"/>
+<node id="no_wikipedia_org"/>
+<node id="iamthedj_com"/>
+<node id="rm_wikipedia_org"/>
+<node id="trv_wikipedia_org"/>
+<node id="eo_wikinews_org"/>
+<node id="jams_hackclub_com"/>
+<node id="www_camworld_com"/>
+<node id="teole_jfouffa_org"/>
+<node id="www_universalorlando_com"/>
+<node id="www_taral_net"/>
+<node id="mg_wikipedia_org"/>
+<node id="v-2_org"/>
+<node id="atypicalfaux_itch_io"/>
+<node id="su_wikipedia_org"/>
+<node id="ang_wikipedia_org"/>
+<node id="independentsday_org"/>
+<node id="krc_wikipedia_org"/>
+<node id="app_dover_com"/>
+<node id="eo_wikiquote_org"/>
+<node id="tay_wikipedia_org"/>
+<node id="mohaa07_itch_io"/>
+<node id="www_fastcompany_com"/>
+<node id="tdd_wikipedia_org"/>
+<node id="fonts_twitter_com"/>
+<node id="cdn_fanatical_com"/>
+<node id="www_globalbim_org"/>
+<node id="en_wikiversity_org"/>
+<node id="itch_io"/>
+<node id="sw_wikipedia_org"/>
+<node id="maybell_itch_io"/>
+<node id="tebex_io"/>
+<node id="een_ec_europa_eu"/>
+<node id="solo_to"/>
+<node id="delugedrop_itch_io"/>
+<node id="www_inria_fr"/>
+<node id="create_x_com"/>
+<node id="objective_mine_nu"/>
+<node id="www_manousek_net"/>
+<node id="datam_jrc_ec_europa_eu"/>
+<node id="www_rich2020_eu"/>
+<node id="dribbble_com"/>
+<node id="patmorita_itch_io"/>
+<node id="microformats_org"/>
+<node id="blog_linkedin_com"/>
+<node id="pizzapranks_itch_io"/>
+<node id="beyondtellerrand_com"/>
+<node id="sirmilkman_itch_io"/>
+<node id="sungnyemun_org"/>
+<node id="discord_gg"/>
+<node id="fi_linkedin_com"/>
+<node id="tet_wikipedia_org"/>
+<node id="ma_tt"/>
+<node id="www_blogger_com"/>
+<node id="weblogs_mozillazine_org"/>
+<node id="assets_hackclub_com"/>
+<node id="eliocapella_com"/>
+<node id="www_bjork_com"/>
+<node id="monsterhunter_fandom_com"/>
+<node id="michaelw_net"/>
+<node id="js-agent_newrelic_com"/>
+<node id="canada_explore_openaire_eu"/>
+<node id="tig_wikipedia_org"/>
+<node id="linkedin_com"/>
+<node id="www_amazon_com"/>
+<node id="www_instagram_com"/>
+<node id="netdiver_net"/>
+<node id="www_jish_nu"/>
+<node id="www_vadim_com"/>
+<node id="cy_wikipedia_org"/>
+<node id="www2005_org"/>
+<node id="www_classy_org"/>
+<node id="www_minjungkim_com"/>
+<node id="hackerone_com"/>
+<node id="delucat_itch_io"/>
+<node id="ci_itch_io"/>
+<node id="ami_wikipedia_org"/>
+<node id="webmention_io"/>
+<node id="nataku411_itch_io"/>
+<node id="indieauth_com"/>
+<node id="www_optimizely_com"/>
+<node id="public-buyers-community_ec_europa_eu"/>
+<node id="www_sgtstryker_com"/>
+<node id="cs_wikipedia_org"/>
+<node id="moonanagames_itch_io"/>
+<node id="roa-rup_wikipedia_org"/>
+<node id="harrypotter_fandom_com"/>
+<node id="www_kishore_org"/>
+<node id="xena-spectrale_itch_io"/>
+<node id="blogarama_com"/>
+<node id="am_wikipedia_org"/>
+<node id="exeuntpress_itch_io"/>
+<node id="status_x_com"/>
+<node id="thalamusdigital_itch_io"/>
+<node id="ak_wikipedia_org"/>
+<node id="www_nffa_eu"/>
+<node id="lucatheg_itch_io"/>
+<node id="barbwired_com"/>
+<node id="zh-yue_wikipedia_org"/>
+<node id="modus-interactive_itch_io"/>
+<node id="ne_wikipedia_org"/>
+<node id="bo_wikipedia_org"/>
+<node id="dansays_com"/>
+<node id="mos_wikipedia_org"/>
+<node id="adssettings_google_com"/>
+<node id="cu_wikipedia_org"/>
+<node id="dispenser_info_tm"/>
+<node id="business_x_com"/>
+<node id="theellinikon_com_gr"/>
+<node id="dataeuropa_gitlab_io"/>
+<node id="events_hackclub_com"/>
+<node id="pixel_wp_com"/>
+<node id="www_socialwrite_com"/>
+<node id="hk_linkedin_com"/>
+<node id="www_oaic_gov_au"/>
+<node id="red-studio-ragnarok_github_io"/>
+<node id="www_forestgreen_org"/>
+<node id="www_urbanpotato_net"/>
+<node id="www_threads_net"/>
+<node id="www_instapundit_com"/>
+<node id="www_razorsoft_net"/>
+<node id="t_co"/>
+<node id="createnewwiki-143_fandom_com"/>
+<node id="imsobadatnicknames_itch_io"/>
+<node id="www_clustercollaboration_eu"/>
+<node id="buymeacoffee_com"/>
+<node id="jv_wikipedia_org"/>
+<node id="merch_visualnovel_dev"/>
+<node id="cr_wikipedia_org"/>
+<node id="legal_overwolf_com"/>
+<node id="se_wikipedia_org"/>
+<node id="connect_facebook_net"/>
+<node id="www_williamgibsonbooks_com"/>
+<node id="pt_linkedin_com"/>
+<node id="legal_x_com"/>
+<node id="account_ycombinator_com"/>
+<node id="indieweb_org"/>
+<node id="bookface_ycombinator_com"/>
+<node id="hackclub_com"/>
+<node id="github-cloud_s3_amazonaws_com"/>
+<node id="www_harrumph_com"/>
+<node id="smn_wikipedia_org"/>
+<node id="shi_wikipedia_org"/>
+<node id="cdn_tailwindcss_com"/>
+<node id="jorel-simpson_itch_io"/>
+<node id="daniel_glazman_free_fr"/>
+<node id="kk_wikipedia_org"/>
+<node id="ca_linkedin_com"/>
+<node id="www_iloveraving_com"/>
+<node id="kl_wikipedia_org"/>
+<node id="rki_wikipedia_org"/>
+<node id="ff_wikipedia_org"/>
+<node id="www_jjg_net"/>
+<node id="nds_wikipedia_org"/>
+<node id="af_wikibooks_org"/>
+<node id="ec_europa_eu"/>
+<node id="powerdive_itch_io"/>
+<node id="www_manton_org"/>
+<node id="www_bradbice_com"/>
+<node id="ross_typepad_com"/>
+<node id="ftp_isi_edu"/>
+<node id="www_dollarshort_org"/>
+<node id="bdr_wikipedia_org"/>
+<node id="marketing_x_com"/>
+<node id="upload_wikimedia_org"/>
+<node id="www_kurcula_com"/>
+<node id="bg_wikipedia_org"/>
+<node id="github_community"/>
+<node id="ee_linkedin_com"/>
+<node id="ps_wikipedia_org"/>
+<node id="creativecommons_org"/>
+<node id="incubator_wikimedia_org"/>
+<node id="www_startrek_com"/>
+<node id="jm_linkedin_com"/>
+<node id="ar_wikipedia_org"/>
+<node id="mnw_wikipedia_org"/>
+<node id="gh_linkedin_com"/>
+<node id="barddro_itch_io"/>
+<node id="teagher_itch_io"/>
+<node id="www_djdenise_com"/>
+<node id="www_blogwise_com"/>
+<node id="soe_stanford_edu"/>
+<node id="wa_wikipedia_org"/>
+<node id="zone41_net"/>
+<node id="www_keithba_net"/>
+<node id="projects_research-and-innovation_ec_europa_eu"/>
+<node id="mzn_wikipedia_org"/>
+<node id="papercookies_itch_io"/>
+<node id="system-erasure_itch_io"/>
+<node id="mk_wikipedia_org"/>
+<node id="www_caeciliana_ch"/>
+<node id="armandah_itch_io"/>
+<node id="sd_wikipedia_org"/>
+<node id="ijsm_org"/>
+<node id="friendster_com"/>
+<node id="euraxess_ec_europa_eu"/>
+<node id="prikarin_itch_io"/>
+<node id="www_githubstatus_com"/>
+<node id="pcd_wikipedia_org"/>
+<node id="www_newscred_com"/>
+<node id="data_consilium_europa_eu"/>
+<node id="noeye-soft_itch_io"/>
+<node id="optout_networkadvertising_org"/>
+<node id="business_twitter_com"/>
+<node id="www_rheinhessenarchiv_de"/>
+<node id="www_huffingtonpost_com"/>
+<node id="bleacherreport_com"/>
+<node id="th_bing_com"/>
+<node id="indexxx_itch_io"/>
+<node id="ln_hixie_ch"/>
+<node id="orkut_com"/>
+<node id="lt_wikipedia_org"/>
+<node id="recruitment_jrc_ec_europa_eu"/>
+<node id="audiovisual_ec_europa_eu"/>
+<node id="www_redditinc_com"/>
+<node id="plus_google_com"/>
+<node id="www_laze_net"/>
+<node id="milkyway_hackclub_com"/>
+<node id="diq_wikipedia_org"/>
+<node id="budts_be"/>
+<node id="im_linkedin_com"/>
+<node id="csb_wikipedia_org"/>
+<node id="members_linkedin_com"/>
+<node id="halleyscomment_blogspot_com"/>
+<node id="www_mozilla_org"/>
+<node id="gn_wikipedia_org"/>
+<node id="www_brewedfreshdaily_com"/>
+<node id="www_eban_org"/>
+<node id="www_bmi_com"/>
+<node id="img-s-msn-com_akamaized_net"/>
+<node id="alfredncy_itch_io"/>
+<node id="sh_wikipedia_org"/>
+<node id="fat_wikipedia_org"/>
+<node id="de_linkedin_com"/>
+<node id="sprig_hackclub_com"/>
+<node id="developer_twitter_com"/>
+<node id="eo_wikivoyage_org"/>
+<node id="es_wikipedia_org"/>
+<node id="zgh_wikipedia_org"/>
+<node id="av_wikipedia_org"/>
+<node id="cyreides_itch_io"/>
+<node id="pnb_wikipedia_org"/>
+<node id="dag_wikipedia_org"/>
+<node id="www_inhope_org"/>
+<node id="ml_wikipedia_org"/>
+<node id="www_stopdesign_com"/>
+<node id="www_simplegeek_com"/>
+<node id="technical-regulation-information-system_ec_europa_eu"/>
+<node id="www_gartner_com"/>
+<node id="kniebes_net"/>
+<node id="www_artistdirect_com"/>
+<node id="pag_wikipedia_org"/>
+<node id="sethf_com"/>
+<node id="www_phoronix_com"/>
+<node id="accounts_google_com"/>
+<node id="w3_org"/>
+<node id="agriculture_ec_europa_eu"/>
+<node id="pa_wikipedia_org"/>
+<node id="ant-san_itch_io"/>
+<node id="chicagoreader_com"/>
+<node id="sxsw_com"/>
+<node id="ssl_google-analytics_com"/>
+<node id="www_euncl_eu"/>
+<node id="shop_github_com"/>
+<node id="tl_wikipedia_org"/>
+<node id="www_imdb_com"/>
+<node id="www_wallpaper_com"/>
+<node id="www_useparallel_com"/>
+<node id="pipthepixie_tripod_com"/>
+<node id="anarodrigu_es"/>
+<node id="status_twitterstat_us"/>
+<node id="policies_google_com"/>
+<node id="af_wiktionary_org"/>
+<node id="eismea_ec_europa_eu"/>
+<node id="www_ebowwn_com"/>
+<node id="ilo_wikipedia_org"/>
+<node id="tcy_wikipedia_org"/>
+<node id="www_lexaloffle_com"/>
+<node id="spratt_itch_io"/>
+<node id="bryce-bucher_itch_io"/>
+<node id="www_bestkungfu_com"/>
+<node id="climate_ec_europa_eu"/>
+<node id="www_tweetcc_com"/>
+<node id="openbimforum_eu"/>
+<node id="asin_cc"/>
+<node id="desktop_github_com"/>
+<node id="www_little_org"/>
+<node id="dga_wikipedia_org"/>
+<node id="www_feedster_com"/>
+<node id="ef_fanatical_com"/>
+<node id="www_zeldman_com"/>
+<node id="fur_wikipedia_org"/>
+<node id="wikimediafoundation_org"/>
+<node id="ban_wikipedia_org"/>
+<node id="eo_wikipedia_org"/>
+<node id="en_wikinews_org"/>
+<node id="si_wikipedia_org"/>
+<node id="static-beta_curseforge_com"/>
+<node id="www_stubpass_com"/>
+<node id="www_powazek_com"/>
+<node id="www_discord_com"/>
+<node id="gregs-games_itch_io"/>
+<node id="gg_linkedin_com"/>
+<node id="en_wikipedia_org"/>
+<node id="www_tribe_net"/>
+<node id="www_xmlrpc_com"/>
+<node id="business_linkedin_com"/>
+<node id="commission_europa_eu"/>
+<node id="onepiece_fandom_com"/>
+<node id="marvels-spider-man_fandom_com"/>
+<node id="ansimuz_itch_io"/>
+<node id="headblender_com"/>
+<node id="uncharted_fandom_com"/>
+<node id="www_dwmommy_com"/>
+<node id="ammil_industries"/>
+<node id="serpexnessie_itch_io"/>
+<node id="skr_wikipedia_org"/>
+<node id="miro_medium_com"/>
+<node id="kg_wikipedia_org"/>
+<node id="support_fanatical_com"/>
+<node id="feverdreamjohnny_itch_io"/>
+<node id="www_panda_org"/>
+<node id="lizphair_com"/>
+<node id="wp_me"/>
+<node id="damowmow_com"/>
+<node id="dv_wikipedia_org"/>
+<node id="dev_x_com"/>
+<node id="tt_wikipedia_org"/>
+<node id="www_accessify_com"/>
+<node id="sdw_ecb_europa_eu"/>
+<node id="scrapbook_hackclub_com"/>
+<node id="an_wikipedia_org"/>
+<node id="www_deelan_com"/>
+<node id="code_google_com"/>
+<node id="whatisthematrix_com"/>
+<node id="community_fandom_com"/>
+<node id="pbs_twimg_com"/>
+<node id="investeu_europa_eu"/>
+<node id="transparency_x_com"/>
+<node id="nds-nl_wikipedia_org"/>
+<node id="nrm_wikipedia_org"/>
+<node id="lld_wikipedia_org"/>
+<node id="chat_indieweb_org"/>
+<node id="learning-corner_learning_europa_eu"/>
+<node id="gor_wikipedia_org"/>
+<node id="zerotrickpony_com"/>
+<node id="samperson_itch_io"/>
+<node id="at_linkedin_com"/>
+<node id="fr4nc3sco4_itch_io"/>
+<node id="sah_wikipedia_org"/>
+<node id="pokemon_fandom_com"/>
+<node id="alt_wikipedia_org"/>
+<node id="lo_wikipedia_org"/>
+<node id="jq37_itch_io"/>
+<node id="gijoe_fandom_com"/>
+<node id="bxr_wikipedia_org"/>
+<node id="pl_linkedin_com"/>
+<node id="dubinko_info"/>
+<node id="is_wikipedia_org"/>
+<node id="bew_wikipedia_org"/>
+<node id="www_wired_com"/>
+<node id="www_cen_eu"/>
+<node id="billiebustup_itch_io"/>
+<node id="iba_wikipedia_org"/>
+<node id="www_ultimorender_com_ar"/>
+<node id="new_wikipedia_org"/>
+<node id="help_medium_com"/>
+<node id="danburzo_ro"/>
+<node id="help_dreamhost_com"/>
+<node id="legacy_curseforge_com"/>
+<node id="www_marcrettig_com"/>
+<node id="www_iprhelpdesk_eu"/>
+<node id="en_wikiquote_org"/>
+<node id="delta-cat-studio_itch_io"/>
+<node id="grok_com"/>
+<node id="wiki_creativecommons_org"/>
+<node id="frr_wikipedia_org"/>
+<node id="ig_wikipedia_org"/>
+<node id="peterjanes_ca"/>
+<node id="www_gotdotnet_com"/>
+<node id="luminescent_org"/>
+<node id="ng_linkedin_com"/>
+<node id="taldius_itch_io"/>
+<node id="ninja-muffin24_itch_io"/>
+<node id="guc_wikipedia_org"/>
+<node id="www_littleyellowdifferent_com"/>
+<node id="kr_linkedin_com"/>
+<node id="lankyleigh_itch_io"/>
+<node id="sa_wikipedia_org"/>
+<node id="rmy_wikipedia_org"/>
+<node id="ab_wikipedia_org"/>
+<node id="ti_wikipedia_org"/>
+<node id="pwn_wikipedia_org"/>
+<node id="momentum_insertdisc_com"/>
+<node id="han-tani_itch_io"/>
+<node id="www_netsensei_nl"/>
+<node id="www_nickfinck_com"/>
+<node id="wikisource_org"/>
+<node id="overwolf_com"/>
+<node id="www_datocms_com"/>
+<node id="ko_wikipedia_org"/>
+<node id="www_gamespot_com"/>
+<node id="vikimedio_telegramo_org"/>
+<node id="www_washingtonpost_com"/>
+<node id="ratking_itch_io"/>
+<node id="btm_wikipedia_org"/>
+<node id="economy-finance_ec_europa_eu"/>
+<node id="szl_wikipedia_org"/>
+<node id="story_news_yahoo_com"/>
+<node id="guw_wikipedia_org"/>
+<node id="www_rfc-editor_org"/>
+<node id="eepurl_com"/>
+<node id="st_wikipedia_org"/>
+<node id="www_ianjacobs_org"/>
+<node id="blog_medium_com"/>
+<node id="twotinydice_itch_io"/>
+<node id="ym_fi"/>
+<node id="ks_wikipedia_org"/>
+<node id="naruto_fandom_com"/>
+<node id="www_ecb_europa_eu"/>
+<node id="witcher_fandom_com"/>
+<node id="tw_linkedin_com"/>
+<node id="w_wiki"/>
+<node id="www_google_com"/>
+<node id="nl_wikipedia_org"/>
+<node id="fon_wikipedia_org"/>
+<node id="www_wordpress_org"/>
+<node id="pt_wikipedia_org"/>
+<node id="teacuppo_itch_io"/>
+<node id="af_wikiquote_org"/>
+<node id="ico_org_uk"/>
+<node id="www_boogenstein_com"/>
+<node id="www_la-grange_net"/>
+<node id="user-images_githubusercontent_com"/>
+<node id="www_holopin_io"/>
+<node id="www_notestips_com"/>
+<node id="careers_x_com"/>
+<node id="netrinos_com"/>
+<node id="www_aaronsw_com"/>
+<node id="www_blogchalking_tk"/>
+<node id="docs_github_com"/>
+<node id="lez_wikipedia_org"/>
+<node id="ik_wikipedia_org"/>
+<node id="www_menneveux_com"/>
+<node id="eulumdat_icu"/>
+<node id="ve_wikipedia_org"/>
+<node id="support_reddithelp_com"/>
+<node id="kab_wikipedia_org"/>
+<node id="www_micdropcomedysandiego_com"/>
+<node id="www_electrolicious_com"/>
+<node id="jamiebrownhill_itch_io"/>
+<node id="automattic_com"/>
+<node id="sv_linkedin_com"/>
+<node id="moot1n_itch_io"/>
+<node id="hif_wikipedia_org"/>
+<node id="support_overwolf_com"/>
+<node id="lnkd_in"/>
+<node id="eur-lex_europa_eu"/>
+<node id="af_wikipedia_org"/>
+<node id="outofdesk_netlify_app"/>
+<node id="www_stereototal_de"/>
+<node id="it_linkedin_com"/>
+<node id="sat_wikipedia_org"/>
+<node id="www_stumbleupon_com"/>
+<node id="www_cloudflarestatus_com"/>
+<node id="idly_org"/>
+<node id="ta_wikipedia_org"/>
+<node id="sfera2_sollab_eu"/>
+<node id="sink_itch_io"/>
+<node id="fosmo_youreurope_europa_eu"/>
+<node id="www_nytimes_com"/>
+<node id="cr_linkedin_com"/>
+<node id="employment-social-affairs_ec_europa_eu"/>
+<node id="www_subvert_com"/>
+<node id="blanu_net"/>
+<node id="potat0master_itch_io"/>
+<node id="dsb_wikipedia_org"/>
+<node id="kw_wikipedia_org"/>
+<node id="conferences_oreillynet_com"/>
+<node id="mrdoob_com"/>
+<node id="pl_wikipedia_org"/>
+<node id="culture_ec_europa_eu"/>
+<node id="astrangefool_itch_io"/>
+<node id="ru_linkedin_com"/>
+<node id="independent_co_uk"/>
+<node id="cv_wikipedia_org"/>
+<node id="authors_curseforge_com"/>
+<node id="www_infinitematrix_net"/>
+<node id="anp_wikipedia_org"/>
+<node id="azb_wikipedia_org"/>
+<node id="partner_github_com"/>
+<node id="bn_wikipedia_org"/>
+<node id="dwmommy_com"/>
+<node id="myheroacademia_fandom_com"/>
+<node id="vi_wikipedia_org"/>
+<node id="www_f8gear_com"/>
+<node id="pfl_wikipedia_org"/>
+<node id="zeldman_com"/>
+<node id="stefano-cagnani-3_itch_io"/>
+<node id="gnomzy_itch_io"/>
+<node id="tim-rachor_itch_io"/>
+<node id="pe_linkedin_com"/>
+<node id="dz_wikipedia_org"/>
+<node id="links_overwolf_com"/>
+<node id="zelda_fandom_com"/>
+<node id="goatee_net"/>
+<node id="io_wikipedia_org"/>
+<node id="tabithanikolai_itch_io"/>
+<node id="yarningspodcast_com"/>
+<node id="ultimorender_com_ar"/>
+<node id="vn_linkedin_com"/>
+<node id="bbc_wikipedia_org"/>
+<node id="www_leonanaess_com"/>
+<node id="mt_wikipedia_org"/>
+<node id="cosmicvoid_itch_io"/>
+<node id="api_twitter_com"/>
+<node id="facebook_com"/>
+<node id="esyverse_itch_io"/>
+<node id="szy_wikipedia_org"/>
+<node id="xania_org"/>
+<node id="www_alistapart_com"/>
+<node id="nusan_itch_io"/>
+<node id="www_roell_net"/>
+<node id="tyv_wikipedia_org"/>
+<node id="discover_wordpress_com"/>
+<node id="www_wadny_com"/>
+<node id="chromewebstore_google_com"/>
+<node id="www_7nights_com"/>
+<node id="twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid_onion"/>
+<node id="technovangelist_com"/>
+<node id="www_philmccluskey_com"/>
+<node id="brittney_typepad_com"/>
+<node id="mail_creativecommons_org"/>
+<node id="te_wikipedia_org"/>
+<node id="inh_wikipedia_org"/>
+<node id="blog_ui_com"/>
+<node id="provide_openaire_eu"/>
+<node id="mhr_wikipedia_org"/>
+<node id="www_brainoff_com"/>
+<node id="bau2_uibk_ac_at"/>
+<node id="dcextendeduniverse_fandom_com"/>
+<node id="www_mysql_com"/>
+<node id="kidachi_kazuhi_to"/>
+<node id="transport_ec_europa_eu"/>
+<node id="ka_wikipedia_org"/>
+<node id="ch_wikipedia_org"/>
+<node id="www_theverge_com"/>
+<node id="wmf_editthispage_com"/>
+<node id="hyw_wikipedia_org"/>
+<node id="gur_wikipedia_org"/>
+<node id="pixelshock_itch_io"/>
+<node id="developer_wordpress_com"/>
+<node id="www_scottandrew_com"/>
+<node id="taxation-customs_ec_europa_eu"/>
+<node id="curseforge-ideas_overwolf_com"/>
+<node id="social_dino_icu"/>
+<node id="uk_linkedin_com"/>
+<node id="www_jluster_org"/>
+<node id="shahine_com"/>
+<node id="cdn1_fpfis_tech_ec_europa_eu"/>
+<node id="bigpinkcookie_com"/>
+<node id="www_molly_com"/>
+<node id="www_cnn_com"/>
+<node id="www_wikimedia_org"/>
+<node id="www_bdzmap_com"/>
+<node id="torproject_org"/>
+<node id="pi_wikipedia_org"/>
+<node id="Cal_com"/>
+<node id="stopdesign_com"/>
+<node id="edition_cnn_com"/>
+<node id="siactro_itch_io"/>
+<node id="kadyellebee_etsy_com"/>
+<node id="www_alamedahacks_xyz"/>
+<node id="cdn_usefathom_com"/>
+<node id="logx_optimizely_com"/>
+<node id="gt_linkedin_com"/>
+<node id="rubeki_itch_io"/>
+<node id="www_rasterweb_net"/>
+<node id="www_mezzoblue_com"/>
+<node id="mezzoblue_com"/>
+<node id="cdn_optimizely_com"/>
+<node id="policy_trade_ec_europa_eu"/>
+<node id="monkeytype_com"/>
+<node id="sg_linkedin_com"/>
+<node id="www_mattwaite_com"/>
+<node id="www_jayfarrar_net"/>
+<node id="www_hypnagogica_com"/>
+<node id="www_wheretheressmoke_net"/>
+<node id="eduardscarpato_itch_io"/>
+<node id="zu_wikipedia_org"/>
+<node id="ted_europa_eu"/>
+<node id="psytronik_itch_io"/>
+<node id="eml_wikipedia_org"/>
+<node id="www_technorati_com"/>
+<node id="www_ericmeyeroncss_com"/>
+<node id="zooperdan_itch_io"/>
+<node id="monitor-industrial-ecosystems_ec_europa_eu"/>
+<node id="pam_wikipedia_org"/>
+<node id="tg_wikipedia_org"/>
+<node id="games_jmir_org"/>
+<node id="jam_wikipedia_org"/>
+<node id="www_raubacapeu_net"/>
+<node id="tweetdeck_twitter_com"/>
+<node id="eo_wikibooks_org"/>
+<node id="cl_linkedin_com"/>
+<node id="theoldgamemaker_itch_io"/>
+<node id="archive_org"/>
+<node id="eubim_eu"/>
+<node id="www_runconverge_com"/>
+<node id="thelastofus_fandom_com"/>
+<node id="www_youtube_com"/>
+<node id="ba_wikipedia_org"/>
+<node id="sco_wikipedia_org"/>
+<node id="www_bing_com"/>
+<node id="about_fandom_com"/>
+<node id="www_roguelibrarian_com"/>
+<node id="war_wikipedia_org"/>
+<node id="veen_com"/>
+<node id="digital-web_com"/>
+<node id="www_optery_com"/>
+<node id="forms_gle"/>
+<node id="www_lemonde_fr"/>
+<node id="discreteinfinity_itch_io"/>
+<node id="ce_wikipedia_org"/>
+<node id="az_wikipedia_org"/>
+<node id="op_europa_eu"/>
+<node id="ady_wikipedia_org"/>
+<node id="melonjam_gamedevclub_tech"/>
+<node id="mastodon_gamedev_place"/>
+<node id="li_wikipedia_org"/>
+<node id="www_sxsw_com"/>
+<node id="unit_bjork_com"/>
+<node id="arstechnica_com"/>
+<node id="bookface-static_ycombinator_com"/>
+<node id="yi_wikipedia_org"/>
+<node id="www_wikidata_org"/>
+<node id="intricateplot_blogspot_com"/>
+<node id="www_telepopmusik_com"/>
+<node id="camo_githubusercontent_com"/>
+<node id="publications_jrc_ec_europa_eu"/>
+<node id="legal_twitter_com"/>
+<node id="weatherpixie_com"/>
+<node id="syl_wikipedia_org"/>
+<node id="pandiongames_itch_io"/>
+<node id="pixieslime_itch_io"/>
+<node id="als_wikipedia_org"/>
+<node id="studios_curseforge_com"/>
+<node id="fallencranberrystudio_itch_io"/>
+<node id="cn_linkedin_com"/>
+<node id="outreach_wikimedia_org"/>
+<node id="starwars_fandom_com"/>
+<node id="publish_x_com"/>
+<node id="doc_weblogs_com"/>
+<node id="www_djangobook_com"/>
+<node id="marvel_fandom_com"/>
+<node id="kadyellebee_com"/>
+<node id="ur_wikipedia_org"/>
+<node id="privacyportal-cdn_onetrust_com"/>
+<node id="zea_wikipedia_org"/>
+<node id="tok_wikipedia_org"/>
+<node id="kokororeflections_itch_io"/>
+<node id="dougal_gunters_org"/>
+<node id="www_metafilter_com"/>
+<node id="ton_twimg_com"/>
+<node id="japhthor_com"/>
+<node id="www_douglasp_com"/>
+<node id="rob_crabapples_net"/>
+<node id="brand_linkedin_com"/>
+<node id="www_koncepcebim_cz"/>
+<node id="pirillo_com"/>
+<node id="robinknits_prettyposies_com"/>
+<node id="ln_wikipedia_org"/>
+<node id="crh_wikipedia_org"/>
+<node id="ms_wikipedia_org"/>
+<node id="en_wikibooks_org"/>
+<node id="x_com"/>
+<node id="yaman-studios_itch_io"/>
+<node id="sachajudd_com"/>
+<node id="lmo_wikipedia_org"/>
+<node id="ehronlime_itch_io"/>
+<node id="mr_wikipedia_org"/>
+<node id="better-auth_com"/>
+<node id="video_twimg_com"/>
+<node id="johnvanderhoef_itch_io"/>
+<node id="validator_w3_org"/>
+<node id="yoda_zoy_org"/>
+<node id="scn_wikipedia_org"/>
+<node id="coffeecorner_org"/>
+<node id="www_php_net"/>
+<node id="pa_linkedin_com"/>
+<node id="ch_linkedin_com"/>
+<node id="www_chrisjdavis_org"/>
+<node id="eu_wikipedia_org"/>
+<node id="www_cenelec_eu"/>
+<node id="www_openaire_eu"/>
+<node id="sarahjaneavory_itch_io"/>
+<node id="mx_linkedin_com"/>
+<node id="hsb_wikipedia_org"/>
+<node id="sherko_itch_io"/>
+<node id="ru_wikipedia_org"/>
+<node id="www_last_fm"/>
+<node id="brad_livejournal_com"/>
+<node id="lv_linkedin_com"/>
+<node id="dty_wikipedia_org"/>
+<node id="blog_twitter_com"/>
+<node id="aecm_eu"/>
+<node id="oc_wikipedia_org"/>
+<node id="bopuc_levendis_com"/>
+<node id="chris_pirillo_com"/>
+<node id="mozdawg_blogspot_com"/>
+<node id="ohhelloana_blog"/>
+<node id="www_w3_org"/>
+<node id="www_ljworld_com"/>
+<node id="simplebits_com"/>
+<node id="www_budts_be"/>
+<node id="walletwallet_alen_ro"/>
+<node id="www_x_com"/>
+<node id="wearenotsheep_com"/>
+<node id="tribe_net"/>
+<node id="github_githubassets_com"/>
+<node id="www_wikifunctions_org"/>
+<node id="www_creativecommons_org"/>
+<node id="ay_wikipedia_org"/>
+<node id="glk_wikipedia_org"/>
+<node id="bpy_wikipedia_org"/>
+<node id="editor_sprig_hackclub_com"/>
+<node id="makevisualnovels_itch_io"/>
+<node id="www_hesketh_com"/>
+<node id="pnt_wikipedia_org"/>
+<node id="developer_x_com"/>
+<node id="ke_linkedin_com"/>
+<node id="www_girlwonder_com"/>
+<node id="www_jenville_com"/>
+<node id="skills_github_com"/>
+<node id="tantek_com"/>
+<node id="www_miracleshopper_com"/>
+<node id="thp_itch_io"/>
+<node id="www_soundslice_com"/>
+<node id="ludicpen_itch_io"/>
+<node id="www_ticketseating_com"/>
+<node id="wakatime_com"/>
+<node id="holovaty_com"/>
+<node id="cbk-zam_wikipedia_org"/>
+<node id="knowledge4policy_ec_europa_eu"/>
+<node id="xh_wikipedia_org"/>
+<node id="startupschool_org"/>
+<node id="myv_wikipedia_org"/>
+<node id="ary_wikipedia_org"/>
+<node id="lg_wikipedia_org"/>
+<node id="www_mcgillicuddy_org"/>
+<node id="speechify_com"/>
+<node id="stats_wikimedia_org"/>
+<node id="pk_linkedin_com"/>
+<node id="www_lcs_mit_edu"/>
+<node id="micro_blog"/>
+<node id="awa_wikipedia_org"/>
+<node id="ravelry_com"/>
+<node id="ht_wikipedia_org"/>
+<node id="meryl_net"/>
+<node id="flavortown_hackclub_com"/>
+<node id="3dkyle_itch_io"/>
+<node id="github_com"/>
+<node id="learning_linkedin_com"/>
+<node id="workshops_hackclub_com"/>
+<node id="www_timeistight_com"/>
+<node id="www_ycombinator_com"/>
+<node id="www_orelie-bim_fr"/>
+<node id="djryan_tripod_com"/>
+<node id="midnight_hackclub_com"/>
+<node id="clustercollaboration_eu"/>
+<node id="kottke_org"/>
+<node id="c_msn_com"/>
+<node id="shn_wikipedia_org"/>
+<node id="micah-anderson_itch_io"/>
+<node id="ro_linkedin_com"/>
+<node id="studio-laaya_itch_io"/>
+<node id="ads_x_com"/>
+<node id="be_wikipedia_org"/>
+<node id="th_wikipedia_org"/>
+<node id="hr_wikipedia_org"/>
+<node id="www_ecb_int"/>
+<node id="www_nationalarchives_gov_uk"/>
+<node id="iamthedj_blogspot_com"/>
+<node id="shootingstarzycat_itch_io"/>
+<node id="molly_com"/>
+<node id="www_murphyhorner_com"/>
+<node id="tly_wikipedia_org"/>
+<node id="home-affairs_ec_europa_eu"/>
+<node id="www_rogerdarlington_co_uk"/>
+<node id="mastodon_social"/>
+<node id="tbray_org"/>
+<node id="linuxfr_org"/>
+<node id="www_macrumors_com"/>
+<node id="phys_org"/>
+<node id="monster-verse_fandom_com"/>
+<node id="prediction_cmab_optimizely_com"/>
+<node id="lifeofsmallbeer_co_uk"/>
+<node id="www_glazman_org"/>
+<node id="gl_wikipedia_org"/>
+<node id="fontawesome_com"/>
+<node id="vec_wikipedia_org"/>
+<node id="www_curseforge_com"/>
+<node id="html2png_dev"/>
+<node id="disney_fandom_com"/>
+<node id="overboundn_itch_io"/>
+<node id="tombraider_fandom_com"/>
+<node id="carziecat_itch_io"/>
+<node id="spectrum_ieee_org"/>
+<node id="co_wikipedia_org"/>
+<node id="www_depechemode_com"/>
+<node id="www_epo_org"/>
+<node id="commons_wikimedia_org"/>
+<node id="oldtownschool_org"/>
+<node id="services_github_com"/>
+<node id="www_jmail_world"/>
+<node id="blog_curseforge_com"/>
+<node id="br_linkedin_com"/>
+<node id="pap_wikipedia_org"/>
+<node id="www_doingbusiness_org"/>
+<node id="www_earlywarningeurope_eu"/>
+<node id="ie_linkedin_com"/>
+<node id="c_bing_com"/>
+<node id="se_linkedin_com"/>
+<node id="ads_twitter_com"/>
+<node id="www_lifestudent_com"/>
+<node id="certificate_creativecommons_org"/>
+<node id="privacy_x_com"/>
+<node id="docs_djangoproject_com"/>
+<node id="static_licdn_com"/>
+<node id="sheeshoo_com"/>
+<node id="jaymarksman_itch_io"/>
+<node id="it_wikipedia_org"/>
+<node id="www_nitot_com"/>
+<node id="hackathons_hackclub_com"/>
+<node id="the-boys_fandom_com"/>
+<node id="webgate_ec_europa_eu"/>
+<node id="www_buymeacoffee_com"/>
+<node id="avatar_fandom_com"/>
+<node id="kapso_ai"/>
+<node id="archiveprogram_github_com"/>
+<node id="il_linkedin_com"/>
+<node id="jobs_ashbyhq_com"/>
+<node id="technical-barriers-trade_ec_europa_eu"/>
+<node id="www_fanatical_com"/>
+<node id="bcl_wikipedia_org"/>
+<node id="eo_wiktionary_org"/>
+<node id="blog_helix_ml"/>
+<node id="bilgetbd_itch_io"/>
+<node id="jalammar_github_io"/>
+<node id="pages_optimizely_com"/>
+<node id="azure_microsoft_com"/>
+<node id="blo_gs"/>
+<node id="www_devhawk_net"/>
+<node id="shattered-pixel_itch_io"/>
+<node id="janeforshort_net"/>
+<node id="cazwolf_itch_io"/>
+<node id="competition-policy_ec_europa_eu"/>
+<node id="playables_itch_io"/>
+<node id="paul_love2tap_com"/>
+<node id="xoxo_zone"/>
+<node id="www_redditstatic_com"/>
+<node id="badcomputer0_itch_io"/>
+<node id="pdc_wikipedia_org"/>
+<node id="gretchen_pirillo_com"/>
+<node id="www_ametro_gr"/>
+<node id="rotheartgames_itch_io"/>
+<node id="qu_wikipedia_org"/>
+<node id="m9-games_itch_io"/>
+<node id="www_easypost_com"/>
+<node id="cz_linkedin_com"/>
+<node id="www_maverickrc_com"/>
+<node id="gchandbook_org"/>
+<node id="fr_linkedin_com"/>
+<node id="foundation_wikimedia_org"/>
+<node id="seliel-the-shaper_itch_io"/>
+<node id="en_wiktionary_org"/>
+<node id="gd_wikipedia_org"/>
+<node id="www_jamsadr_com"/>
+<node id="kcg_wikipedia_org"/>
+<node id="rw_wikipedia_org"/>
+<node id="nia_wikipedia_org"/>
+<node id="www_nvu_com"/>
+<node id="atj_wikipedia_org"/>
+<node id="jessey_net"/>
+<node id="www_pixelcharmer_com"/>
+<node id="blog_netwarriors_org"/>
+<node id="hack_godawari_edu_np"/>
+<node id="bitcoinmagazine_com"/>
+<node id="www_oecd_org"/>
+<node id="www_meyerweb_com"/>
+<node id="erablog_net"/>
+<node id="www_investeurope_eu"/>
+<node id="alexander-wiseman_itch_io"/>
+<node id="api_msn_com"/>
+<node id="www_perpetualbeta_com"/>
+<node id="ec_linkedin_com"/>
+<node id="tpi_wikipedia_org"/>
+<node id="webstandards_org"/>
+<node id="as_wikipedia_org"/>
+<node id="lists_wikimedia_org"/>
+<node id="to_wikipedia_org"/>
+<node id="titans_fandom_com"/>
+<node id="www_dellah_com"/>
+<node id="www_sleepbot_com"/>
+<node id="bh_wikipedia_org"/>
+<node id="la_wikipedia_org"/>
+<node id="www_LifeWithAlacrity_com"/>
+<node id="rustylake_itch_io"/>
+<node id="mullenweg_com"/>
+<node id="fy_wikipedia_org"/>
+<node id="publications_europa_eu"/>
+<node id="www_medium_com"/>
+<node id="gom_wikipedia_org"/>
+<node id="europa_eu"/>
+<node id="metagrrrl_com"/>
+<node id="www_eightypercent_net"/>
+<node id="laurent_le-brun_eu"/>
+<node id="bjn_wikipedia_org"/>
+<node id="inews_co_uk"/>
+<node id="www_nimbustier_net"/>
+<node id="www_kuro5hin_org"/>
+<node id="forms_hackclub_com"/>
+<node id="yatoimtop_itch_io"/>
+<node id="www_missingkids_org"/>
+<node id="gmpg_org"/>
+<node id="elthen_itch_io"/>
+<node id="seattletimes_nwsource_com"/>
+<node id="www_artels_be"/>
+<node id="media_x_com"/>
+<node id="webperso_easyconnect_fr"/>
+<node id="funnelstory_ai"/>
+<node id="sentry_io"/>
+<node id="redditinc_com"/>
+<node id="hackernews-readings-613604506318_us-west1_run_app"/>
+<node id="blog_holopin_io"/>
+<node id="data_europa_eu"/>
+<node id="meyerweb_com"/>
+<node id="kge_wikipedia_org"/>
+<node id="thattomhall_itch_io"/>
+<node id="protect-de_mimecast_com"/>
+<node id="lij_wikipedia_org"/>
+<node id="zh-min-nan_wikipedia_org"/>
+<node id="hak_wikipedia_org"/>
+<node id="gordgames_itch_io"/>
+<node id="research-innovation-community_ec_europa_eu"/>
+<node id="vfqd_itch_io"/>
+<node id="www_twitterflightschool_com"/>
+<node id="openfoodconference_eu"/>
+<node id="purechito_itch_io"/>
+<node id="ro_wikipedia_org"/>
+<node id="he_wikipedia_org"/>
+<node id="torshi88_itch_io"/>
+<node id="www_vni_lv"/>
+<node id="blk_wikipedia_org"/>
+<node id="www_pocketsoap_com"/>
+<node id="support_twitter_com"/>
+<node id="socialimpact_github_com"/>
+<node id="lbe_wikipedia_org"/>
+<node id="drive_google_com"/>
+<node id="www_monstro_com"/>
+<node id="www_euronews_net"/>
+<node id="glyph_medium_com"/>
+<node id="lv_wikipedia_org"/>
+<node id="lb_wikipedia_org"/>
+<node id="mi_wikipedia_org"/>
+<node id="brainstormsandraves_com"/>
+<node id="www_poeticgeek_net"/>
+<node id="www_poprocks_com"/>
+<node id="simon_incutio_com"/>
+<node id="jwz_livejournal_com"/>
+<node id="frp_wikipedia_org"/>
+<node id="kit_fontawesome_com"/>
+<node id="km_wikipedia_org"/>
+<node id="www_ianvisits_co_uk"/>
+<node id="awlencompasing_itch_io"/>
+<node id="pr_linkedin_com"/>
+<node id="jason_blogging_la"/>
+<node id="www_klynch_com"/>
+<node id="bi_wikipedia_org"/>
+<node id="vo_wikipedia_org"/>
+<node id="kn56k_itch_io"/>
+<node id="www_chris-crockett_com"/>
+<node id="nup_wikipedia_org"/>
+<node id="www_djangoproject_com"/>
+<node id="devcommunity_x_com"/>
+<node id="nov_wikipedia_org"/>
+<node id="jimmygrewal_com"/>
+<node id="maintainers_github_com"/>
+<node id="zh-classical_wikipedia_org"/>
+<node id="web_jrc_ec_europa_eu"/>
+<node id="pubsubhubbub_superfeedr_com"/>
+<node id="dmcaguy_itch_io"/>
+<node id="za_linkedin_com"/>
+<node id="xmf_wikipedia_org"/>
+<node id="igl_wikipedia_org"/>
+<node id="www_redipd_org"/>
+<node id="www_tvguide_com"/>
+<node id="matrix_fandom_com"/>
+<node id="finji_itch_io"/>
+<node id="mozilla_org"/>
+<node id="news_ycombinator_com"/>
+<node id="lixiangames_itch_io"/>
+<node id="reporting_clustercollaboration_eu"/>
+<node id="alperenkeles_com"/>
+<node id="epguides_com"/>
+<node id="joykeratif_itch_io"/>
+<node id="forum_hackliberty_org"/>
+<node id="docs_curseforge_com"/>
+<node id="splorp_com"/>
+<node id="stats_wp_com"/>
+<node id="ki_wikipedia_org"/>
+<node id="gist_github_com"/>
+<node id="tokens_indieauth_com"/>
+<node id="stanford_edu"/>
+<node id="kn_wikipedia_org"/>
+<node id="junk_metafilter_com"/>
+<node id="sc_wikipedia_org"/>
+<node id="single-market-economy_ec_europa_eu"/>
+<node id="www_oecd-ilibrary_org"/>
+<node id="dbaron_org"/>
+<node id="data_jrc_ec_europa_eu"/>
+<node id="www_rebeccablood_net"/>
+<node id="rn_wikipedia_org"/>
+<node id="dev_h2vx_com"/>
+<node id="modrinth_com"/>
+<node id="nah_wikipedia_org"/>
+<node id="zh_wikipedia_org"/>
+<node id="twitpic_com"/>
+<node id="hu_wikipedia_org"/>
+<node id="www_spies_com"/>
+<node id="twittercommunity_com"/>
+<node id="species_wikimedia_org"/>
+<node id="teambilly_com"/>
+<node id="simple_wikipedia_org"/>
+<node id="ebihime_itch_io"/>
+<node id="gpe_wikipedia_org"/>
+<node id="ballotpedia_org"/>
+<node id="chy_wikipedia_org"/>
+<node id="uy_linkedin_com"/>
+<node id="ubl_artistdirect_com"/>
+<node id="jbo_wikipedia_org"/>
+<node id="uz_wikipedia_org"/>
+<node id="gag_wikipedia_org"/>
+<node id="www_keio_ac_jp"/>
+<node id="www_acm_org"/>
+<node id="www_esrb_org"/>
+<node id="kenforest_itch_io"/>
+<node id="jp_linkedin_com"/>
+<node id="ext_wikipedia_org"/>
+<node id="www_subtraction_com"/>
+<node id="www_mediasparkles_com"/>
+<node id="assets_msn_com"/>
+<node id="no_linkedin_com"/>
+<node id="www_lunenburg_org"/>
+<node id="sg_wikipedia_org"/>
+<node id="ua_linkedin_com"/>
+<node id="wrensey_itch_io"/>
+<node id="food_ec_europa_eu"/>
+<node id="apply_hackclub_com"/>
+<node id="in_linkedin_com"/>
+<node id="graph_openaire_eu"/>
+<node id="ezra-szanton_itch_io"/>
+<node id="elvies_itch_io"/>
+<node id="tum_wikipedia_org"/>
+<node id="edgarmendoza_itch_io"/>
+<node id="glasscandlegames_itch_io"/>
+<node id="toolbox_hackclub_com"/>
+<node id="avatars_githubusercontent_com"/>
+<node id="deals_ycombinator_com"/>
+<node id="bat-smg_wikipedia_org"/>
+<node id="olo_wikipedia_org"/>
+<node id="nr_wikipedia_org"/>
+<node id="network_creativecommons_org"/>
+<node id="hy_wikipedia_org"/>
+<node id="utiazulay_itch_io"/>
+<node id="cdnjs_cloudflare_com"/>
+<node id="immigration-portal_ec_europa_eu"/>
+<node id="xiomberg_itch_io"/>
+<node id="ja_wikipedia_org"/>
+<node id="www_sellsbrothers_com"/>
+<node id="use_typekit_net"/>
+<node id="pearlyn_itch_io"/>
+<node id="www_etsi_org"/>
+<node id="mn_wikipedia_org"/>
+<node id="www_informit_com"/>
+<node id="boringsql_com"/>
+<node id="www_baytobreakers_com"/>
+<node id="ca_wikipedia_org"/>
+<node id="de_wikipedia_org"/>
+<node id="ts_wikipedia_org"/>
+<node id="outernet_hackclub_com"/>
+<node id="dreamventure_cloud"/>
+<node id="universalorlando_fandom_net"/>
+<node id="www_frejol_org"/>
+<node id="tn_wikipedia_org"/>
+<node id="theredkitchen_kdlb_com"/>
+<node id="www_craphound_com"/>
+<node id="brooker_co_za"/>
+<node id="links_net"/>
+<node id="optout_aboutads_info"/>
+<node id="cdn_jsdelivr_net"/>
+<node id="transition-pathways_europa_eu"/>
+<node id="www_ajc_com"/>
+<node id="tr_wikipedia_org"/>
+<node id="sme-week_ec_europa_eu"/>
+<node id="boingboing_net"/>
+<node id="cyberfuddle_com"/>
+<node id="photomatt_net"/>
+<node id="h2vx_com"/>
+<node id="el_wikipedia_org"/>
+<node id="world_optimizely_com"/>
+<node id="www_tantek_com"/>
+<node id="craftpix_net"/>
+<node id="nv_wikipedia_org"/>
+<node id="wavey-games_itch_io"/>
+<node id="have-your-say_ec_europa_eu"/>
+<node id="mad_wikipedia_org"/>
+<node id="be-tarask_wikipedia_org"/>
+<node id="legalrequests_x_com"/>
+<node id="search_creativecommons_org"/>
+<node id="fandom_zendesk_com"/>
+<node id="feedster_com"/>
+<node id="sfbaybloggers_com"/>
+<node id="research-and-innovation_ec_europa_eu"/>
+<node id="my_wikipedia_org"/>
+<node id="mortalkombat_fandom_com"/>
+<node id="pact-for-skills_ec_europa_eu"/>
+<node id="z_ai"/>
+<node id="www_workatastartup_com"/>
+<node id="www_hyperborea_org"/>
+<node id="www_karajan_org"/>
+<node id="events_indieweb_org"/>
+<node id="status_medium_com"/>
+<node id="bukkit_org"/>
+<node id="blot_hackclub_dev"/>
+<node id="xal_wikipedia_org"/>
+<node id="d4tuoctqmanu0_cloudfront_net"/>
+<node id="campfire-studio-games_itch_io"/>
+<node id="mydogmeg_net"/>
+<node id="ny_wikipedia_org"/>
+<node id="www_reddit_com"/>
+<node id="gcr_wikipedia_org"/>
+<node id="www_googletagmanager_com"/>
+<node id="be_linkedin_com"/>
+<node id="legalrequests_twitter_com"/>
+<node id="blueprint_hackclub_com"/>
+<node id="guauthoraguau_itch_io"/>
+<node id="my_linkedin_com"/>
+<node id="explore_openaire_eu"/>
+<node id="ve_linkedin_com"/>
+<node id="bcjordan_com"/>
+<node id="www_triptronix_net"/>
+<node id="spongebob_fandom_com"/>
+<node id="knifedemon_itch_io"/>
+<node id="sokpop_itch_io"/>
+<node id="panic_itch_io"/>
+<node id="microsoft_com"/>
+<node id="www_pocket-lint_com"/>
+<node id="fi_wikipedia_org"/>
+<node id="je_linkedin_com"/>
+<node id="kbp_wikipedia_org"/>
+<node id="tk_wikipedia_org"/>
+<node id="dtp_wikipedia_org"/>
+<node id="www_koi_ai"/>
+<node id="www_tanglebones_com"/>
+<node id="about_linkedin_com"/>
+<node id="azagamestudio_itch_io"/>
+<node id="minecraft_fandom_com"/>
+<node id="din_wikipedia_org"/>
+<node id="docs_x_com"/>
+<node id="meant-to-bee-studios_itch_io"/>
+<node id="opensource_creativecommons_org"/>
+<node id="www_dwellmag_com"/>
+<node id="thirdspiritgames_itch_io"/>
+<node id="sv_wikipedia_org"/>
+<node id="lu_linkedin_com"/>
+<node id="ducky-dev_itch_io"/>
+<node id="et_wikipedia_org"/>
+<node id="www_dataprivacyframework_gov"/>
+<node id="developers_google_com"/>
+<node id="about_x_com"/>
+<node id="vine_co"/>
+<node id="unpkg_com"/>
+<node id="da_wikipedia_org"/>
+<node id="crazygrouptrio_itch_io"/>
+<node id="www_dataprotection_ie"/>
+<node id="atharva-1535_itch_io"/>
+<node id="uk_wikipedia_org"/>
+<node id="www_43folders_com"/>
+<node id="cdn_solo_to"/>
+<node id="help_twitter_com"/>
+<node id="fizzd_itch_io"/>
+<node id="blog_sushubh_com"/>
+<node id="futurerebels_itch_io"/>
+<node id="wpvip_com"/>
+<node id="vep_wikipedia_org"/>
+<node id="open-research-europe_ec_europa_eu"/>
+<node id="arz_wikipedia_org"/>
+<node id="www_facebook_com"/>
+<node id="avk_wikipedia_org"/>
+<node id="nqo_wikipedia_org"/>
+<node id="chr_wikipedia_org"/>
+<node id="nn_wikipedia_org"/>
+<node id="www_rubhub_com"/>
+<node id="www_linkedin_com"/>
+<node id="log_handakte_de"/>
+<node id="auth_fandom_com"/>
+<node id="epstein-files-browser_vercel_app"/>
+<node id="apps_wordpress_com"/>
+<node id="yo_wikipedia_org"/>
+<node id="ltg_wikipedia_org"/>
+<node id="ha_wikipedia_org"/>
+<node id="play_google_com"/>
+<node id="pms_wikipedia_org"/>
+<node id="nz_linkedin_com"/>
+<node id="ace_wikipedia_org"/>
+<node id="totalementcretin_apinc_org"/>
+<node id="julienreszka_github_io"/>
+<node id="wo_wikipedia_org"/>
+<node id="k10k_net"/>
+<node id="fed_brid_gy"/>
+<node id="stq_wikipedia_org"/>
+<node id="xn--sr8hvo_ws"/>
+<node id="diveintomark_org"/>
+<node id="w3c_github_io"/>
+<node id="santiago-garcia_itch_io"/>
+<node id="ceb_wikipedia_org"/>
+<node id="aperture_p3k_io"/>
+<node id="dangen-entertainment_itch_io"/>
+<node id="oofteriz_itch_io"/>
+<node id="kryogenix_org"/>
+<node id="raymondafcripps_itch_io"/>
+<node id="www_mozillazine_org"/>
+<node id="www_eubim_eu"/>
+<node id="support_curseforge_com"/>
+<node id="iu_wikipedia_org"/>
+<node id="www_megnut_com"/>
+<node id="aottg2_itch_io"/>
+<node id="www_bradlands_com"/>
+<node id="www_mcornick_org"/>
+<node id="pespmc1_vub_ac_be"/>
+<node id="www_dreamhost_com"/>
+<node id="www_timothychambers_net"/>
+<node id="www_valleyhacks_org"/>
+<node id="d1a6zytsvzb7ig_cloudfront_net"/>
+<node id="arc_wikipedia_org"/>
+<node id="eo_wikisource_org"/>
+<node id="asean_org"/>
+<node id="lad_wikipedia_org"/>
+<node id="rue_wikipedia_org"/>
+<node id="ug_wikipedia_org"/>
+<node id="accessify_com"/>
+<node id="lyrics_freesoftwarearchive_com"/>
+<node id="www_padawan_info"/>
+<node id="dual-shocked-music_itch_io"/>
+<node id="kc00l_itch_io"/>
+<node id="ar_linkedin_com"/>
+<node id="ga_wikipedia_org"/>
+<node id="preferencecenter_x_com"/>
+<node id="apps_apple_com"/>
+<node id="www_tomshardware_com"/>
+<node id="storageapis_wordpress_com"/>
+<node id="rubhub_com"/>
+<node id="hakuenstudio_itch_io"/>
+<node id="www_stupidfool_org"/>
+<node id="wayback_archive-it_org"/>
+<node id="impromptu-games_itch_io"/>
+<node id="european-digital-innovation-hubs_ec_europa_eu"/>
+<node id="www_sifry_com"/>
+<node id="underconsideration_com"/>
+<node id="zw_linkedin_com"/>
+<node id="www_kathleenedwards_com"/>
+<node id="brocbois_itch_io"/>
+<node id="panel_dreamhost_com"/>
+<node id="en_wikisource_org"/>
+<node id="a_wholelottanothing_org"/>
+<node id="roa-tara_wikipedia_org"/>
+<node id="help_x_com"/>
+<node id="nl_linkedin_com"/>
+<node id="privacy_org_nz"/>
+<node id="liberascio_telegramo_org"/>
+<node id="health_ec_europa_eu"/>
+<node id="epeus_blogspot_com"/>
+<node id="id_linkedin_com"/>
+<node id="djangoinjune_com"/>
+<node id="steamcommunity_com"/>
+<node id="support_optimizely_com"/>
+<node id="pixelcharmer_com"/>
+<node id="www_journalspace_com"/>
+<node id="yapi_run"/>
+<node id="warrrkus_itch_io"/>
+<node id="www_thattomhall_com"/>
+<node id="www_smashingmagazine_com"/>
+<node id="nso_wikipedia_org"/>
+<node id="genshin-impact_fandom_com"/>
+<node id="wordpress_org"/>
+<node id="securitylab_github_com"/>
+<node id="www_patreon_com"/>
+<node id="www_almaren_ch"/>
+<node id="gembit_itch_io"/>
+<node id="www_vandervossen_net"/>
+<node id="code_jquery_com"/>
+<node id="hn-wrapped_kadoa_com"/>
+<node id="resources_github_com"/>
+<node id="servicios_infoleg_gob_ar"/>
+<node id="fa_wikipedia_org"/>
+<node id="kbd_wikipedia_org"/>
+<node id="lori_lockergnome_com"/>
+<node id="nitropay_com"/>
+<node id="kiwidreams-01_itch_io"/>
+<node id="got_wikipedia_org"/>
+<node id="www_msn_com"/>
+<node id="hi_wikipedia_org"/>
+<node id="boardgamegeek_com"/>
+<node id="communitynotes_twitter_com"/>
+<node id="www_paranoidfish_org"/>
+<node id="www_digital-web_com"/>
+<node id="ky_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="hsb_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="ig_wikipedia_org"/>
+<edge source="research-and-innovation_ec_europa_eu" target="recruitment_jrc_ec_europa_eu"/>
+<edge source="github_com" target="services_github_com"/>
+<edge source="research-and-innovation_ec_europa_eu" target="www_iprhelpdesk_eu"/>
+<edge source="eo_wikipedia_org" target="wuu_wikipedia_org"/>
+<edge source="www_ycombinator_com" target="www_instagram_com"/>
+<edge source="eo_wikipedia_org" target="gom_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="ee_wikipedia_org"/>
+<edge source="gmpg_org" target="blo_gs"/>
+<edge source="www_linkedin_com" target="brand_linkedin_com"/>
+<edge source="www_curseforge_com" target="www_instagram_com"/>
+<edge source="itch_io" target="glasscandlegames_itch_io"/>
+<edge source="en_wikipedia_org" target="iba_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="upload_wikimedia_org"/>
+<edge source="help_x_com" target="create_x_com"/>
+<edge source="en_wikipedia_org" target="din_wikipedia_org"/>
+<edge source="help_x_com" target="adssettings_google_com"/>
+<edge source="eo_wikipedia_org" target="tr_wikipedia_org"/>
+<edge source="itch_io" target="raymondafcripps_itch_io"/>
+<edge source="en_wikipedia_org" target="es_wikipedia_org"/>
+<edge source="docs_x_com" target="developer_x_com"/>
+<edge source="eo_wikipedia_org" target="ca_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="nv_wikipedia_org"/>
+<edge source="github_com" target="support_github_com"/>
+<edge source="itch_io" target="alexander-wiseman_itch_io"/>
+<edge source="www_medium_com" target="www_gstatic_com"/>
+<edge source="holovaty_com" target="djangoinjune_com"/>
+<edge source="eo_wikipedia_org" target="fr_wikipedia_org"/>
+<edge source="single-market-economy_ec_europa_eu" target="www_google_com"/>
+<edge source="help_twitter_com" target="create_x_com"/>
+<edge source="en_wikipedia_org" target="an_wikipedia_org"/>
+<edge source="gmpg_org" target="www_menneveux_com"/>
+<edge source="tantek_com" target="dansays_com"/>
+<edge source="blog_x_com" target="investor_twitterinc_com"/>
+<edge source="gmpg_org" target="momentum_insertdisc_com"/>
+<edge source="eo_wikipedia_org" target="bo_wikipedia_org"/>
+<edge source="www_mezzoblue_com" target="help_dreamhost_com"/>
+<edge source="single-market-economy_ec_europa_eu" target="youtu_be"/>
+<edge source="itch_io" target="psytronik_itch_io"/>
+<edge source="en_wikipedia_org" target="kn_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="wuu_wikipedia_org"/>
+<edge source="tantek_com" target="blog_holopin_io"/>
+<edge source="eo_wikipedia_org" target="pa_wikipedia_org"/>
+<edge source="immigration-portal_ec_europa_eu" target="european-union_europa_eu"/>
+<edge source="ico_org_uk" target="www_youtube_com"/>
+<edge source="itch_io" target="elvies_itch_io"/>
+<edge source="eo_wikipedia_org" target="no_wikipedia_org"/>
+<edge source="www_linkedin_com" target="es_linkedin_com"/>
+<edge source="developer_x_com" target="publish_x_com"/>
+<edge source="docs_x_com" target="help_x_com"/>
+<edge source="tantek_com" target="intricateplot_blogspot_com"/>
+<edge source="tantek_com" target="www_poprocks_com"/>
+<edge source="eo_wikipedia_org" target="fa_wikipedia_org"/>
+<edge source="twitter_com" target="api_twitter_com"/>
+<edge source="creativecommons_org" target="fontawesome_com"/>
+<edge source="en_wikipedia_org" target="de_wikipedia_org"/>
+<edge source="single-market-economy_ec_europa_eu" target="pact-for-skills_ec_europa_eu"/>
+<edge source="en_wikipedia_org" target="chy_wikipedia_org"/>
+<edge source="gmpg_org" target="www_ultimorender_com_ar"/>
+<edge source="about_x_com" target="blog_x_com"/>
+<edge source="tantek_com" target="yoda_zoy_org"/>
+<edge source="eo_wikipedia_org" target="frr_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="dty_wikipedia_org"/>
+<edge source="help_x_com" target="investor_twitterinc_com"/>
+<edge source="www_linkedin_com" target="za_linkedin_com"/>
+<edge source="eo_wikipedia_org" target="ko_wikipedia_org"/>
+<edge source="www_linkedin_com" target="members_linkedin_com"/>
+<edge source="en_wikipedia_org" target="nl_wikipedia_org"/>
+<edge source="itch_io" target="dual-shocked-music_itch_io"/>
+<edge source="itch_io" target="thattomhall_itch_io"/>
+<edge source="itch_io" target="static_itch_io"/>
+<edge source="blog_x_com" target="business_twitter_com"/>
+<edge source="eo_wikipedia_org" target="xh_wikipedia_org"/>
+<edge source="data_europa_eu" target="www_youtube_com"/>
+<edge source="www_linkedin_com" target="kr_linkedin_com"/>
+<edge source="www_glazman_org" target="www_blogwise_com"/>
+<edge source="www_curseforge_com" target="curseforge-ideas_overwolf_com"/>
+<edge source="www_ycombinator_com" target="startupschool_org"/>
+<edge source="stats_wp_com" target="wp_me"/>
+<edge source="en_wikipedia_org" target="ang_wikipedia_org"/>
+<edge source="news_ycombinator_com" target="julienreszka_github_io"/>
+<edge source="ico_org_uk" target="ico_org_uk"/>
+<edge source="blog_x_com" target="help_twitter_com"/>
+<edge source="support_twitter_com" target="docs_x_com"/>
+<edge source="news_ycombinator_com" target="epstein-files-browser_vercel_app"/>
+<edge source="eo_wikipedia_org" target="th_wikipedia_org"/>
+<edge source="solo_to" target="cdn_solo_to"/>
+<edge source="business_x_com" target="abs_twimg_com"/>
+<edge source="x_com" target="twittercommunity_com"/>
+<edge source="itch_io" target="discord_gg"/>
+<edge source="support_twitter_com" target="transparency_x_com"/>
+<edge source="tantek_com" target="blanu_net"/>
+<edge source="en_wikipedia_org" target="en_wikinews_org"/>
+<edge source="www_linkedin_com" target="cr_linkedin_com"/>
+<edge source="help_x_com" target="privacy_x_com"/>
+<edge source="single-market-economy_ec_europa_eu" target="data_consilium_europa_eu"/>
+<edge source="hackclub_com" target="www_valleyhacks_org"/>
+<edge source="tantek_com" target="robinknits_prettyposies_com"/>
+<edge source="eo_wikipedia_org" target="kg_wikipedia_org"/>
+<edge source="itch_io" target="torigamedev_itch_io"/>
+<edge source="x_com" target="commission_europa_eu"/>
+<edge source="commission_europa_eu" target="www_redipd_org"/>
+<edge source="itch_io" target="aottg2_itch_io"/>
+<edge source="tantek_com" target="www_williamgibsonbooks_com"/>
+<edge source="eo_wikipedia_org" target="ti_wikipedia_org"/>
+<edge source="x_com" target="www_dataprivacyframework_gov"/>
+<edge source="news_ycombinator_com" target="www_runconverge_com"/>
+<edge source="help_x_com" target="optout_aboutads_info"/>
+<edge source="hackclub_com" target="hack_godawari_edu_np"/>
+<edge source="about_x_com" target="preferencecenter_x_com"/>
+<edge source="linkedin_com" target="ie_linkedin_com"/>
+<edge source="www_fandom_com" target="auth_fandom_com"/>
+<edge source="tantek_com" target="jwz_livejournal_com"/>
+<edge source="tantek_com" target="www_liquid2k_com"/>
+<edge source="gmpg_org" target="www_glazman_org"/>
+<edge source="tantek_com" target="www_infinitematrix_net"/>
+<edge source="itch_io" target="kn56k_itch_io"/>
+<edge source="itch_io" target="joykeratif_itch_io"/>
+<edge source="www_ycombinator_com" target="account_ycombinator_com"/>
+<edge source="en_wikipedia_org" target="tum_wikipedia_org"/>
+<edge source="tantek_com" target="teambilly_com"/>
+<edge source="en_wikipedia_org" target="crh_wikipedia_org"/>
+<edge source="itch_io" target="rubeki_itch_io"/>
+<edge source="x_com" target="video_twimg_com"/>
+<edge source="en_wikipedia_org" target="ba_wikipedia_org"/>
+<edge source="news_ycombinator_com" target="boringsql_com"/>
+<edge source="itch_io" target="ansimuz_itch_io"/>
+<edge source="linkedin_com" target="www_bing_com"/>
+<edge source="eo_wikipedia_org" target="www_wikifunctions_org"/>
+<edge source="linkedin_com" target="static_licdn_com"/>
+<edge source="tantek_com" target="evhead_com"/>
+<edge source="tantek_com" target="www_livejournal_com"/>
+<edge source="news_ycombinator_com" target="outofdesk_netlify_app"/>
+<edge source="single-market-economy_ec_europa_eu" target="eismea_ec_europa_eu"/>
+<edge source="eo_wikipedia_org" target="meta_wikimedia_org"/>
+<edge source="itch_io" target="mohaa07_itch_io"/>
+<edge source="www_fandom_com" target="fandom_zendesk_com"/>
+<edge source="en_wikipedia_org" target="co_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="mn_wikipedia_org"/>
+<edge source="tantek_com" target="www_wired_com"/>
+<edge source="tantek_com" target="www_kurcula_com"/>
+<edge source="solo_to" target="www_curseforge_com"/>
+<edge source="eubim_eu" target="www_orelie-bim_fr"/>
+<edge source="en_wikipedia_org" target="dag_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="se_wikipedia_org"/>
+<edge source="tantek_com" target="www_hesketh_com"/>
+<edge source="tantek_com" target="www_gnome-girl_com"/>
+<edge source="eo_wikipedia_org" target="pam_wikipedia_org"/>
+<edge source="itch_io" target="ci_itch_io"/>
+<edge source="eo_wikipedia_org" target="de_wikipedia_org"/>
+<edge source="www_oaic_gov_au" target="www_oaic_gov_au"/>
+<edge source="stopdesign_com" target="www_instagram_com"/>
+<edge source="tantek_com" target="www_notestips_com"/>
+<edge source="research-and-innovation_ec_europa_eu" target="projects_research-and-innovation_ec_europa_eu"/>
+<edge source="en_wikipedia_org" target="lg_wikipedia_org"/>
+<edge source="gmpg_org" target="diveintomark_org"/>
+<edge source="itch_io" target="purechito_itch_io"/>
+<edge source="news_ycombinator_com" target="github_com"/>
+<edge source="tantek_com" target="michaelw_net"/>
+<edge source="www_fandom_com" target="community_fandom_com"/>
+<edge source="eo_wikipedia_org" target="jbo_wikipedia_org"/>
+<edge source="gmpg_org" target="budts_be"/>
+<edge source="news_ycombinator_com" target="www_jmail_world"/>
+<edge source="developer_x_com" target="fonts_twitter_com"/>
+<edge source="eo_wikipedia_org" target="got_wikipedia_org"/>
+<edge source="tantek_com" target="weatherpixie_com"/>
+<edge source="tantek_com" target="www_jenville_com"/>
+<edge source="eo_wikipedia_org" target="bs_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="to_wikipedia_org"/>
+<edge source="x_com" target="policies_google_com"/>
+<edge source="creativecommons_org" target="summit_creativecommons_org"/>
+<edge source="www_fandom_com" target="www_fanatical_com"/>
+<edge source="en_wikipedia_org" target="mwl_wikipedia_org"/>
+<edge source="news_ycombinator_com" target="www_youtube_com"/>
+<edge source="www_w3_org" target="www_lcs_mit_edu"/>
+<edge source="single-market-economy_ec_europa_eu" target="environment_ec_europa_eu"/>
+<edge source="eo_wikipedia_org" target="bpy_wikipedia_org"/>
+<edge source="single-market-economy_ec_europa_eu" target="t_co"/>
+<edge source="en_wikipedia_org" target="el_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="tl_wikipedia_org"/>
+<edge source="tantek_com" target="www_maverickrc_com"/>
+<edge source="x_com" target="ads_x_com"/>
+<edge source="research-and-innovation_ec_europa_eu" target="hadea_ec_europa_eu"/>
+<edge source="gmpg_org" target="epeus_blogspot_com"/>
+<edge source="eo_wikipedia_org" target="sr_wikipedia_org"/>
+<edge source="itch_io" target="www_reddit_com"/>
+<edge source="itch_io" target="teagher_itch_io"/>
+<edge source="en_wikipedia_org" target="pap_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="ha_wikipedia_org"/>
+<edge source="news_ycombinator_com" target="abhamra_com"/>
+<edge source="itch_io" target="merch_visualnovel_dev"/>
+<edge source="tantek_com" target="headblender_com"/>
+<edge source="gmpg_org" target="microformats_org"/>
+<edge source="www_linkedin_com" target="ke_linkedin_com"/>
+<edge source="eo_wikipedia_org" target="wikimania_wikimedia_org"/>
+<edge source="itch_io" target="atharva-1535_itch_io"/>
+<edge source="single-market-economy_ec_europa_eu" target="reporting_clustercollaboration_eu"/>
+<edge source="github_com" target="www_youtube_com"/>
+<edge source="eo_wikipedia_org" target="ht_wikipedia_org"/>
+<edge source="solo_to" target="listen_tidal_com"/>
+<edge source="eo_wikipedia_org" target="yi_wikipedia_org"/>
+<edge source="solo_to" target="buymeacoffee_com"/>
+<edge source="en_wikipedia_org" target="xmf_wikipedia_org"/>
+<edge source="ec_europa_eu" target="ec_europa_eu"/>
+<edge source="itch_io" target="www_facebook_com"/>
+<edge source="www_medium_com" target="policy_medium_com"/>
+<edge source="research-and-innovation_ec_europa_eu" target="cordis_europa_eu"/>
+<edge source="www_fandom_com" target="monster-verse_fandom_com"/>
+<edge source="commission_europa_eu" target="ico_org_uk"/>
+<edge source="www_medium_com" target="www_google_com"/>
+<edge source="itch_io" target="panic_itch_io"/>
+<edge source="en_wikipedia_org" target="zh_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="ml_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="ann_wikipedia_org"/>
+<edge source="single-market-economy_ec_europa_eu" target="european-digital-innovation-hubs_ec_europa_eu"/>
+<edge source="en_wikipedia_org" target="bh_wikipedia_org"/>
+<edge source="www_curseforge_com" target="blog_curseforge_com"/>
+<edge source="news_ycombinator_com" target="jobs_ashbyhq_com"/>
+<edge source="en_wikipedia_org" target="meta_wikimedia_org"/>
+<edge source="eo_wikipedia_org" target="alt_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="km_wikipedia_org"/>
+<edge source="help_x_com" target="docs_x_com"/>
+<edge source="en_wikipedia_org" target="myv_wikipedia_org"/>
+<edge source="about_x_com" target="twittercommunity_com"/>
+<edge source="hackclub_com" target="www_alamedahacks_xyz"/>
+<edge source="developer_x_com" target="help_twitter_com"/>
+<edge source="en_wikipedia_org" target="mi_wikipedia_org"/>
+<edge source="www_newscred_com" target="cdn_optimizely_com"/>
+<edge source="www_fandom_com" target="www_tvguide_com"/>
+<edge source="gmpg_org" target="www_ryze_com"/>
+<edge source="www_glazman_org" target="glazman_org"/>
+<edge source="eo_wikipedia_org" target="krc_wikipedia_org"/>
+<edge source="twitter_com" target="business_twitter_com"/>
+<edge source="eo_wikipedia_org" target="www_youtube_com"/>
+<edge source="help_twitter_com" target="privacy_x_com"/>
+<edge source="eo_wikipedia_org" target="sc_wikipedia_org"/>
+<edge source="www_fandom_com" target="www_google-analytics_com"/>
+<edge source="tantek_com" target="www_imdb_com"/>
+<edge source="en_wikipedia_org" target="ru_wikipedia_org"/>
+<edge source="single-market-economy_ec_europa_eu" target="www_clustercollaboration_eu"/>
+<edge source="eubim_eu" target="www_linkedin_com"/>
+<edge source="tantek_com" target="bayoudog_com"/>
+<edge source="blog_x_com" target="abs_twimg_com"/>
+<edge source="news_ycombinator_com" target="lua_org"/>
+<edge source="gmpg_org" target="www_zapisky_info"/>
+<edge source="en_wikipedia_org" target="lad_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="lfn_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="mr_wikipedia_org"/>
+<edge source="itch_io" target="www_patreon_com"/>
+<edge source="www_medium_com" target="www_medium_com"/>
+<edge source="itch_io" target="samperson_itch_io"/>
+<edge source="tantek_com" target="www_ericmeyeroncss_com"/>
+<edge source="eo_wikipedia_org" target="atj_wikipedia_org"/>
+<edge source="itch_io" target="gordgames_itch_io"/>
+<edge source="github_com" target="modrinth_com"/>
+<edge source="eo_wikipedia_org" target="lb_wikipedia_org"/>
+<edge source="marketing_x_com" target="fonts_twitter_com"/>
+<edge source="itch_io" target="sarahjaneavory_itch_io"/>
+<edge source="support_twitter_com" target="about_x_com"/>
+<edge source="news_ycombinator_com" target="blog_ui_com"/>
+<edge source="www_curseforge_com" target="support_curseforge_com"/>
+<edge source="www_linkedin_com" target="ph_linkedin_com"/>
+<edge source="en_wikipedia_org" target="pam_wikipedia_org"/>
+<edge source="tantek_com" target="consolationchamps_com"/>
+<edge source="www_linkedin_com" target="static_licdn_com"/>
+<edge source="en_wikipedia_org" target="tig_wikipedia_org"/>
+<edge source="gmpg_org" target="www_wordpress_org"/>
+<edge source="eo_wikipedia_org" target="kab_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="am_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="tn_wikipedia_org"/>
+<edge source="www_curseforge_com" target="authors_curseforge_com"/>
+<edge source="tantek_com" target="ln_hixie_ch"/>
+<edge source="solo_to" target="modrinth_com"/>
+<edge source="developer_x_com" target="abs_twimg_com"/>
+<edge source="github_com" target="x_com"/>
+<edge source="eo_wikipedia_org" target="en_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="fa_wikipedia_org"/>
+<edge source="www_linkedin_com" target="tt_linkedin_com"/>
+<edge source="www_fanatical_com" target="www_fanatical_com"/>
+<edge source="en_wikipedia_org" target="sco_wikipedia_org"/>
+<edge source="itch_io" target="deerspherestudios_itch_io"/>
+<edge source="tantek_com" target="www_nimbustier_net"/>
+<edge source="itch_io" target="utiazulay_itch_io"/>
+<edge source="eo_wikipedia_org" target="tyv_wikipedia_org"/>
+<edge source="single-market-economy_ec_europa_eu" target="op_europa_eu"/>
+<edge source="eo_wikipedia_org" target="hi_wikipedia_org"/>
+<edge source="knowledge4policy_ec_europa_eu" target="europa_eu"/>
+<edge source="simplebits_com" target="simplebits_com"/>
+<edge source="news_ycombinator_com" target="z_ai"/>
+<edge source="en_wikipedia_org" target="ia_wikipedia_org"/>
+<edge source="tantek_com" target="blogarama_com"/>
+<edge source="tantek_com" target="bopuc_levendis_com"/>
+<edge source="en_wikipedia_org" target="gd_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="mnw_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="zea_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="liberascio_telegramo_org"/>
+<edge source="hackclub_com" target="blot_hackclub_dev"/>
+<edge source="eo_wikipedia_org" target="kus_wikipedia_org"/>
+<edge source="www_msn_com" target="c_msn_com"/>
+<edge source="www_linkedin_com" target="au_linkedin_com"/>
+<edge source="en_wikipedia_org" target="diq_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="zu_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="el_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="tcy_wikipedia_org"/>
+<edge source="gmpg_org" target="www_jluster_org"/>
+<edge source="stopdesign_com" target="www_43folders_com"/>
+<edge source="en_wikipedia_org" target="he_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="kk_wikipedia_org"/>
+<edge source="gmpg_org" target="www_pixelcharmer_com"/>
+<edge source="www_linkedin_com" target="co_linkedin_com"/>
+<edge source="eo_wikipedia_org" target="mos_wikipedia_org"/>
+<edge source="twitter_com" target="help_x_com"/>
+<edge source="tantek_com" target="epeus_blogspot_com"/>
+<edge source="eo_wikipedia_org" target="uk_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="wo_wikipedia_org"/>
+<edge source="itch_io" target="pandiongames_itch_io"/>
+<edge source="en_wikipedia_org" target="azb_wikipedia_org"/>
+<edge source="tantek_com" target="janeforshort_net"/>
+<edge source="eo_wikipedia_org" target="ja_wikipedia_org"/>
+<edge source="twitter_com" target="twitter_com"/>
+<edge source="knowledge4policy_ec_europa_eu" target="knowledge4policy_ec_europa_eu"/>
+<edge source="tantek_com" target="www_razorsoft_net"/>
+<edge source="itch_io" target="m9-games_itch_io"/>
+<edge source="en_wikipedia_org" target="species_wikimedia_org"/>
+<edge source="stopdesign_com" target="cdn_usefathom_com"/>
+<edge source="www_linkedin_com" target="learning_linkedin_com"/>
+<edge source="en_wikipedia_org" target="ur_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="gor_wikipedia_org"/>
+<edge source="hackerone_com" target="hackerone_com"/>
+<edge source="x_com" target="www_xadsacademy_com"/>
+<edge source="developer_x_com" target="careers_x_com"/>
+<edge source="www_fandom_com" target="matrix_fandom_com"/>
+<edge source="tantek_com" target="microformats_org"/>
+<edge source="tantek_com" target="www_devhawk_net"/>
+<edge source="eubim_eu" target="linkedin_com"/>
+<edge source="stopdesign_com" target="mrdoob_com"/>
+<edge source="eo_wikipedia_org" target="ku_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="creativecommons_org"/>
+<edge source="tantek_com" target="independentsday_org"/>
+<edge source="tantek_com" target="www_technorati_com"/>
+<edge source="eo_wikipedia_org" target="za_wikipedia_org"/>
+<edge source="help_twitter_com" target="transparency_x_com"/>
+<edge source="news_ycombinator_com" target="app_dover_com"/>
+<edge source="www_fandom_com" target="www_facebook_com"/>
+<edge source="stats_wp_com" target="s1_wp_com"/>
+<edge source="itch_io" target="ohirakyou_itch_io"/>
+<edge source="eo_wikipedia_org" target="dga_wikipedia_org"/>
+<edge source="tantek_com" target="cyberfuddle_com"/>
+<edge source="github_com" target="github_githubassets_com"/>
+<edge source="www_oaic_gov_au" target="cdn_jsdelivr_net"/>
+<edge source="gmpg_org" target="www_microcontentnews_com"/>
+<edge source="about_x_com" target="abs_twimg_com"/>
+<edge source="eo_wikipedia_org" target="qu_wikipedia_org"/>
+<edge source="research-and-innovation_ec_europa_eu" target="twitter_com"/>
+<edge source="kadyellebee_com" target="boardgamegeek_com"/>
+<edge source="hackclub_com" target="midnight_hackclub_com"/>
+<edge source="eo_wikipedia_org" target="min_wikipedia_org"/>
+<edge source="gmpg_org" target="www_kishore_org"/>
+<edge source="gmpg_org" target="www_loobylu_com"/>
+<edge source="gmpg_org" target="www_wheretheressmoke_net"/>
+<edge source="www_linkedin_com" target="se_linkedin_com"/>
+<edge source="itch_io" target="kromster80_itch_io"/>
+<edge source="blog_x_com" target="marketing_x_com"/>
+<edge source="itch_io" target="sam2008_itch_io"/>
+<edge source="www_oaic_gov_au" target="twitter_com"/>
+<edge source="en_wikipedia_org" target="ast_wikipedia_org"/>
+<edge source="about_x_com" target="create_x_com"/>
+<edge source="tantek_com" target="accessify_com"/>
+<edge source="x_com" target="blog_x_com"/>
+<edge source="itch_io" target="playables_itch_io"/>
+<edge source="single-market-economy_ec_europa_eu" target="clustercollaboration_eu"/>
+<edge source="en_wikipedia_org" target="be_wikipedia_org"/>
+<edge source="tantek_com" target="typical_net"/>
+<edge source="eo_wikipedia_org" target="x_com"/>
+<edge source="blog_x_com" target="publish_x_com"/>
+<edge source="single-market-economy_ec_europa_eu" target="www_etsi_org"/>
+<edge source="eo_wikipedia_org" target="arc_wikipedia_org"/>
+<edge source="tantek_com" target="www_anitrapavka_com"/>
+<edge source="en_wikipedia_org" target="pag_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="en_wikiversity_org"/>
+<edge source="eo_wikipedia_org" target="new_wikipedia_org"/>
+<edge source="help_x_com" target="grok_com"/>
+<edge source="www_ycombinator_com" target="www_linkedin_com"/>
+<edge source="gmpg_org" target="www_chris-crockett_com"/>
+<edge source="hackclub_com" target="aces_hackclub_com"/>
+<edge source="itch_io" target="darelooks_itch_io"/>
+<edge source="en_wikipedia_org" target="ks_wikipedia_org"/>
+<edge source="itch_io" target="delucat_itch_io"/>
+<edge source="gmpg_org" target="paul_love2tap_com"/>
+<edge source="en_wikipedia_org" target="vec_wikipedia_org"/>
+<edge source="stopdesign_com" target="kit_fontawesome_com"/>
+<edge source="www_glazman_org" target="linuxfr_org"/>
+<edge source="itch_io" target="kenforest_itch_io"/>
+<edge source="tantek_com" target="www_unix-girl_com"/>
+<edge source="eo_wikipedia_org" target="xal_wikipedia_org"/>
+<edge source="single-market-economy_ec_europa_eu" target="hadea_ec_europa_eu"/>
+<edge source="gmpg_org" target="www_creativecommons_org"/>
+<edge source="news_ycombinator_com" target="eulumdat_icu"/>
+<edge source="tantek_com" target="epguides_com"/>
+<edge source="gmpg_org" target="www2005_org"/>
+<edge source="en_wikipedia_org" target="ln_wikipedia_org"/>
+<edge source="itch_io" target="fallencranberrystudio_itch_io"/>
+<edge source="blog_x_com" target="create_x_com"/>
+<edge source="explore_openaire_eu" target="explore_openaire_eu"/>
+<edge source="support_twitter_com" target="marketing_x_com"/>
+<edge source="single-market-economy_ec_europa_eu" target="sme-week_ec_europa_eu"/>
+<edge source="www_oaic_gov_au" target="www_instagram_com"/>
+<edge source="www_reddit_com" target="redditinc_com"/>
+<edge source="single-market-economy_ec_europa_eu" target="www_ebowwn_com"/>
+<edge source="linkedin_com" target="brand_linkedin_com"/>
+<edge source="itch_io" target="systemxemotion_itch_io"/>
+<edge source="eo_wikipedia_org" target="te_wikipedia_org"/>
+<edge source="tantek_com" target="www_djdenise_com"/>
+<edge source="commission_europa_eu" target="civil-protection-humanitarian-aid_ec_europa_eu"/>
+<edge source="legalrequests_twitter_com" target="legalrequests_twitter_com"/>
+<edge source="data_jrc_ec_europa_eu" target="data_europa_eu"/>
+<edge source="blog_x_com" target="twitter_com"/>
+<edge source="eo_wikipedia_org" target="mzn_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="koi_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="pfl_wikipedia_org"/>
+<edge source="commission_europa_eu" target="commission_europa_eu"/>
+<edge source="en_wikipedia_org" target="www_wikidata_org"/>
+<edge source="eo_wikipedia_org" target="btm_wikipedia_org"/>
+<edge source="github_com" target="app_daily_dev"/>
+<edge source="www_timothychambers_net" target="www_instagram_com"/>
+<edge source="www_fandom_com" target="myheroacademia_fandom_com"/>
+<edge source="itch_io" target="resnijars_itch_io"/>
+<edge source="www_ycombinator_com" target="www_youtube_com"/>
+<edge source="tantek_com" target="radio_weblogs_com"/>
+<edge source="eo_wikipedia_org" target="bjn_wikipedia_org"/>
+<edge source="news_ycombinator_com" target="hackernews-readings-613604506318_us-west1_run_app"/>
+<edge source="www_linkedin_com" target="lnkd_in"/>
+<edge source="en_wikipedia_org" target="ltg_wikipedia_org"/>
+<edge source="gmpg_org" target="tribe_net"/>
+<edge source="eo_wikipedia_org" target="mwl_wikipedia_org"/>
+<edge source="single-market-economy_ec_europa_eu" target="www_consilium_europa_eu"/>
+<edge source="x_com" target="www_x_com"/>
+<edge source="tantek_com" target="indieweb_org"/>
+<edge source="eo_wikipedia_org" target="eo_wikinews_org"/>
+<edge source="eo_wikipedia_org" target="fat_wikipedia_org"/>
+<edge source="single-market-economy_ec_europa_eu" target="european-union_europa_eu"/>
+<edge source="tantek_com" target="www_klynch_com"/>
+<edge source="x_com" target="marketing_x_com"/>
+<edge source="tantek_com" target="objective_mine_nu"/>
+<edge source="eo_wikipedia_org" target="sat_wikipedia_org"/>
+<edge source="tantek_com" target="w_wiki"/>
+<edge source="eo_wikipedia_org" target="diq_wikipedia_org"/>
+<edge source="stats_wp_com" target="stats_wp_com"/>
+<edge source="blog_x_com" target="x_com"/>
+<edge source="eo_wikipedia_org" target="as_wikipedia_org"/>
+<edge source="gmpg_org" target="damowmow_com"/>
+<edge source="en_wikipedia_org" target="ab_wikipedia_org"/>
+<edge source="research-and-innovation_ec_europa_eu" target="www_instagram_com"/>
+<edge source="en_wikipedia_org" target="kg_wikipedia_org"/>
+<edge source="tantek_com" target="www_roguelibrarian_com"/>
+<edge source="tantek_com" target="32bit_cafe"/>
+<edge source="en_wikipedia_org" target="kcg_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="ar_wikipedia_org"/>
+<edge source="tantek_com" target="www_corti_com"/>
+<edge source="eo_wikipedia_org" target="nr_wikipedia_org"/>
+<edge source="www_linkedin_com" target="ve_linkedin_com"/>
+<edge source="holovaty_com" target="www_w3_org"/>
+<edge source="news_ycombinator_com" target="www_ianvisits_co_uk"/>
+<edge source="creativecommons_org" target="mastodon_social"/>
+<edge source="help_twitter_com" target="x_com"/>
+<edge source="itch_io" target="modus-interactive_itch_io"/>
+<edge source="single-market-economy_ec_europa_eu" target="publications_europa_eu"/>
+<edge source="single-market-economy_ec_europa_eu" target="youreurope_europa_eu"/>
+<edge source="stats_wp_com" target="wpvip_com"/>
+<edge source="news_ycombinator_com" target="hn-wrapped_kadoa_com"/>
+<edge source="www_fanatical_com" target="cdn_fanatical_com"/>
+<edge source="eo_wikipedia_org" target="vls_wikipedia_org"/>
+<edge source="gmpg_org" target="www_nvu_com"/>
+<edge source="github_com" target="www_githubstatus_com"/>
+<edge source="tantek_com" target="www_dashes_com"/>
+<edge source="news_ycombinator_com" target="eliocapella_com"/>
+<edge source="eo_wikipedia_org" target="yo_wikipedia_org"/>
+<edge source="help_x_com" target="twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid_onion"/>
+<edge source="tantek_com" target="lifeofsmallbeer_co_uk"/>
+<edge source="eo_wikipedia_org" target="nup_wikipedia_org"/>
+<edge source="research-and-innovation_ec_europa_eu" target="www_epo_org"/>
+<edge source="hackclub_com" target="apply_hackclub_com"/>
+<edge source="itch_io" target="makevisualnovels_itch_io"/>
+<edge source="eo_wikipedia_org" target="kge_wikipedia_org"/>
+<edge source="itch_io" target="sherko_itch_io"/>
+<edge source="eo_wikipedia_org" target="gan_wikipedia_org"/>
+<edge source="www_linkedin_com" target="de_linkedin_com"/>
+<edge source="hackclub_com" target="figma_com"/>
+<edge source="eo_wikipedia_org" target="ban_wikipedia_org"/>
+<edge source="commission_europa_eu" target="www_instagram_com"/>
+<edge source="www_medium_com" target="status_medium_com"/>
+<edge source="eo_wikipedia_org" target="www_facebook_com"/>
+<edge source="research-and-innovation_ec_europa_eu" target="www_youtube_com"/>
+<edge source="en_wikipedia_org" target="inh_wikipedia_org"/>
+<edge source="tantek_com" target="blog_netwarriors_org"/>
+<edge source="en_wikipedia_org" target="en_wikibooks_org"/>
+<edge source="en_wikipedia_org" target="tyv_wikipedia_org"/>
+<edge source="www_linkedin_com" target="fr_linkedin_com"/>
+<edge source="www_msn_com" target="www_bing_com"/>
+<edge source="en_wikipedia_org" target="gv_wikipedia_org"/>
+<edge source="commission_europa_eu" target="privacy_org_nz"/>
+<edge source="github_com" target="www_tiktok_com"/>
+<edge source="www_linkedin_com" target="nl_linkedin_com"/>
+<edge source="blog_x_com" target="help_x_com"/>
+<edge source="www_dataprivacyframework_gov" target="cdnjs_cloudflare_com"/>
+<edge source="eo_wikipedia_org" target="af_wikipedia_org"/>
+<edge source="x_com" target="t_co"/>
+<edge source="www_nationalarchives_gov_uk" target="www_nationalarchives_gov_uk"/>
+<edge source="tantek_com" target="www_dollarshort_org"/>
+<edge source="blog_x_com" target="about_x_com"/>
+<edge source="www_oaic_gov_au" target="www_facebook_com"/>
+<edge source="gmpg_org" target="dwmommy_com"/>
+<edge source="www_timothychambers_net" target="xn--sr8hvo_ws"/>
+<edge source="eo_wikipedia_org" target="iu_wikipedia_org"/>
+<edge source="help_twitter_com" target="careers_x_com"/>
+<edge source="en_wikipedia_org" target="ch_wikipedia_org"/>
+<edge source="www_gnome-girl_com" target="www_miracleshopper_com"/>
+<edge source="tantek_com" target="beyondtellerrand_com"/>
+<edge source="www_reddit_com" target="www_redditinc_com"/>
+<edge source="data_jrc_ec_europa_eu" target="data_jrc_ec_europa_eu"/>
+<edge source="en_wikipedia_org" target="ka_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="bar_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="frp_wikipedia_org"/>
+<edge source="tantek_com" target="micro_blog"/>
+<edge source="itch_io" target="sokpop_itch_io"/>
+<edge source="en_wikipedia_org" target="jv_wikipedia_org"/>
+<edge source="help_twitter_com" target="docs_x_com"/>
+<edge source="itch_io" target="martin-games_itch_io"/>
+<edge source="www_linkedin_com" target="business_linkedin_com"/>
+<edge source="blog_x_com" target="blog_x_com"/>
+<edge source="developer_x_com" target="about_x_com"/>
+<edge source="en_wikipedia_org" target="arz_wikipedia_org"/>
+<edge source="creativecommons_org" target="bsky_app"/>
+<edge source="tantek_com" target="www_threads_net"/>
+<edge source="en_wikipedia_org" target="min_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="ts_wikipedia_org"/>
+<edge source="itch_io" target="xiomberg_itch_io"/>
+<edge source="blog_x_com" target="policies_google_com"/>
+<edge source="blog_x_com" target="www_twitterflightschool_com"/>
+<edge source="news_ycombinator_com" target="arstechnica_com"/>
+<edge source="eo_wikipedia_org" target="rue_wikipedia_org"/>
+<edge source="immigration-portal_ec_europa_eu" target="immigration-portal_ec_europa_eu"/>
+<edge source="tantek_com" target="www_manousek_net"/>
+<edge source="tantek_com" target="www_stupidfool_org"/>
+<edge source="tantek_com" target="www_perpetualbeta_com"/>
+<edge source="tantek_com" target="story_news_yahoo_com"/>
+<edge source="itch_io" target="jorel-simpson_itch_io"/>
+<edge source="linkedin_com" target="about_linkedin_com"/>
+<edge source="eo_wikipedia_org" target="gu_wikipedia_org"/>
+<edge source="gmpg_org" target="www_rheinhessenarchiv_de"/>
+<edge source="single-market-economy_ec_europa_eu" target="monitor-industrial-ecosystems_ec_europa_eu"/>
+<edge source="commission_europa_eu" target="ec_europa_eu"/>
+<edge source="blo_gs" target="trainedmonkey_com"/>
+<edge source="gmpg_org" target="www_lifestudent_com"/>
+<edge source="help_x_com" target="twitpic_com"/>
+<edge source="tantek_com" target="anarodrigu_es"/>
+<edge source="en_wikipedia_org" target="nds_wikipedia_org"/>
+<edge source="x_com" target="docs_x_com"/>
+<edge source="eo_wikipedia_org" target="lij_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="smn_wikipedia_org"/>
+<edge source="hackclub_com" target="github_com"/>
+<edge source="tantek_com" target="www_amazon_com"/>
+<edge source="eo_wikipedia_org" target="guw_wikipedia_org"/>
+<edge source="gmpg_org" target="junk_metafilter_com"/>
+<edge source="tantek_com" target="www_bradlands_com"/>
+<edge source="github_com" target="github_com"/>
+<edge source="eo_wikipedia_org" target="lbe_wikipedia_org"/>
+<edge source="blog_x_com" target="blog_twitter_com"/>
+<edge source="www_fanatical_com" target="w2m9492ddv-dsn_algolia_net"/>
+<edge source="eo_wikipedia_org" target="mai_wikipedia_org"/>
+<edge source="tantek_com" target="www_electrolicious_com"/>
+<edge source="tantek_com" target="www_kathleenedwards_com"/>
+<edge source="en_wikipedia_org" target="avk_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="outreach_wikimedia_org"/>
+<edge source="en_wikipedia_org" target="fj_wikipedia_org"/>
+<edge source="linkedin_com" target="www_linkedin_com"/>
+<edge source="en_wikipedia_org" target="bug_wikipedia_org"/>
+<edge source="news_ycombinator_com" target="kapso_ai"/>
+<edge source="eo_wikipedia_org" target="sv_wikipedia_org"/>
+<edge source="news_ycombinator_com" target="zerotrickpony_com"/>
+<edge source="support_twitter_com" target="developer_x_com"/>
+<edge source="single-market-economy_ec_europa_eu" target="commission_europa_eu"/>
+<edge source="www_msn_com" target="c_bing_com"/>
+<edge source="en_wikipedia_org" target="cv_wikipedia_org"/>
+<edge source="tantek_com" target="www_urbanpotato_net"/>
+<edge source="www_fanatical_com" target="www_gstatic_com"/>
+<edge source="en_wikipedia_org" target="gag_wikipedia_org"/>
+<edge source="itch_io" target="kokororeflections_itch_io"/>
+<edge source="help_twitter_com" target="developer_x_com"/>
+<edge source="eo_wikipedia_org" target="blk_wikipedia_org"/>
+<edge source="tantek_com" target="www_ianjacobs_org"/>
+<edge source="www_fandom_com" target="apps_apple_com"/>
+<edge source="en_wikipedia_org" target="br_wikipedia_org"/>
+<edge source="help_x_com" target="optout_networkadvertising_org"/>
+<edge source="single-market-economy_ec_europa_eu" target="www_cen_eu"/>
+<edge source="www_linkedin_com" target="gt_linkedin_com"/>
+<edge source="en_wikipedia_org" target="tok_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="shn_wikipedia_org"/>
+<edge source="www_fandom_com" target="arrow_fandom_com"/>
+<edge source="eo_wikipedia_org" target="oc_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="ast_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="ga_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="et_wikipedia_org"/>
+<edge source="research-and-innovation_ec_europa_eu" target="datam_jrc_ec_europa_eu"/>
+<edge source="www_oaic_gov_au" target="fonts_googleapis_com"/>
+<edge source="en_wikipedia_org" target="os_wikipedia_org"/>
+<edge source="www_fandom_com" target="marvel_fandom_com"/>
+<edge source="itch_io" target="kiwidreams-01_itch_io"/>
+<edge source="www_fandom_com" target="www_instagram_com"/>
+<edge source="itch_io" target="seliel-the-shaper_itch_io"/>
+<edge source="tantek_com" target="iamthedj_blogspot_com"/>
+<edge source="tantek_com" target="ubl_artistdirect_com"/>
+<edge source="www_fandom_com" target="naruto_fandom_com"/>
+<edge source="en_wikipedia_org" target="mad_wikipedia_org"/>
+<edge source="single-market-economy_ec_europa_eu" target="www_eban_org"/>
+<edge source="www_linkedin_com" target="sv_linkedin_com"/>
+<edge source="www_curseforge_com" target="legacy_curseforge_com"/>
+<edge source="business_x_com" target="publish_x_com"/>
+<edge source="en_wikipedia_org" target="ig_wikipedia_org"/>
+<edge source="itch_io" target="www_lexaloffle_com"/>
+<edge source="eo_wikipedia_org" target="mr_wikipedia_org"/>
+<edge source="tantek_com" target="chat_indieweb_org"/>
+<edge source="eo_wikipedia_org" target="tcy_wikipedia_org"/>
+<edge source="www_ycombinator_com" target="news_ycombinator_com"/>
+<edge source="gmpg_org" target="holovaty_com"/>
+<edge source="itch_io" target="www_thattomhall_com"/>
+<edge source="t_co" target="dev_x_com"/>
+<edge source="eo_wikipedia_org" target="csb_wikipedia_org"/>
+<edge source="help_x_com" target="preferencecenter_x_com"/>
+<edge source="tantek_com" target="tokens_indieauth_com"/>
+<edge source="tantek_com" target="www_mcgillicuddy_org"/>
+<edge source="itch_io" target="edgarmendoza_itch_io"/>
+<edge source="en_wikipedia_org" target="ja_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="ary_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="pap_wikipedia_org"/>
+<edge source="news_ycombinator_com" target="www_pocket-lint_com"/>
+<edge source="www_eubim_eu" target="www_facebook_com"/>
+<edge source="www_medium_com" target="speechify_com"/>
+<edge source="itch_io" target="noeye-soft_itch_io"/>
+<edge source="en_wikipedia_org" target="qu_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="kbd_wikipedia_org"/>
+<edge source="itch_io" target="dmcaguy_itch_io"/>
+<edge source="eo_wikipedia_org" target="sw_wikipedia_org"/>
+<edge source="www_msn_com" target="assets_msn_com"/>
+<edge source="eo_wikipedia_org" target="cdo_wikipedia_org"/>
+<edge source="hackclub_com" target="www_youtube_com"/>
+<edge source="en_wikipedia_org" target="simple_wikipedia_org"/>
+<edge source="t_co" target="status_x_com"/>
+<edge source="immigration-portal_ec_europa_eu" target="x_com"/>
+<edge source="itch_io" target="warrrkus_itch_io"/>
+<edge source="itch_io" target="dangen-entertainment_itch_io"/>
+<edge source="en_wikipedia_org" target="www_mediawiki_org"/>
+<edge source="eo_wikipedia_org" target="gor_wikipedia_org"/>
+<edge source="www_linkedin_com" target="no_linkedin_com"/>
+<edge source="en_wikipedia_org" target="eml_wikipedia_org"/>
+<edge source="itch_io" target="www_esrb_org"/>
+<edge source="en_wikipedia_org" target="pwn_wikipedia_org"/>
+<edge source="intricateplot_blogspot_com" target="www_blogger_com"/>
+<edge source="www_linkedin_com" target="pa_linkedin_com"/>
+<edge source="tantek_com" target="soe_stanford_edu"/>
+<edge source="eo_wikipedia_org" target="dispenser_info_tm"/>
+<edge source="business_x_com" target="x_com"/>
+<edge source="gmpg_org" target="www_scifihifi_com"/>
+<edge source="eo_wikipedia_org" target="tly_wikipedia_org"/>
+<edge source="www_fandom_com" target="zelda_fandom_com"/>
+<edge source="en_wikipedia_org" target="sn_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="io_wikipedia_org"/>
+<edge source="gmpg_org" target="wordpress_org"/>
+<edge source="en_wikipedia_org" target="ny_wikipedia_org"/>
+<edge source="single-market-economy_ec_europa_eu" target="www_ecb_int"/>
+<edge source="gmpg_org" target="7nights_com"/>
+<edge source="stopdesign_com" target="www_tweetcc_com"/>
+<edge source="blog_x_com" target="business_x_com"/>
+<edge source="tantek_com" target="www_vadim_com"/>
+<edge source="www_curseforge_com" target="x_com"/>
+<edge source="tantek_com" target="www_f8gear_com"/>
+<edge source="ico_org_uk" target="facebook_com"/>
+<edge source="en_wikipedia_org" target="bi_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="ban_wikipedia_org"/>
+<edge source="digital-strategy_ec_europa_eu" target="ec_europa_eu"/>
+<edge source="tantek_com" target="xoxo_zone"/>
+<edge source="en_wikipedia_org" target="en_wikisource_org"/>
+<edge source="en_wikipedia_org" target="ksh_wikipedia_org"/>
+<edge source="commission_europa_eu" target="www_edoeb_admin_ch"/>
+<edge source="eo_wikipedia_org" target="lez_wikipedia_org"/>
+<edge source="single-market-economy_ec_europa_eu" target="www_facebook_com"/>
+<edge source="www_w3_org" target="www_inria_fr"/>
+<edge source="github_com" target="securitylab_github_com"/>
+<edge source="www_curseforge_com" target="bukkit_org"/>
+<edge source="gmpg_org" target="www_bradbice_com"/>
+<edge source="research-and-innovation_ec_europa_eu" target="www_etsi_org"/>
+<edge source="holovaty_com" target="googleblog_blogspot_com"/>
+<edge source="eubim_eu" target="www_eubim_eu"/>
+<edge source="en_wikipedia_org" target="sm_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="ff_wikipedia_org"/>
+<edge source="www_fandom_com" target="tombraider_fandom_com"/>
+<edge source="en_wikipedia_org" target="hsb_wikipedia_org"/>
+<edge source="gmpg_org" target="www_molly_com"/>
+<edge source="hackclub_com" target="events_hackclub_com"/>
+<edge source="en_wikipedia_org" target="new_wikipedia_org"/>
+<edge source="gmpg_org" target="www_budts_be"/>
+<edge source="business_x_com" target="create_x_com"/>
+<edge source="en_wikipedia_org" target="cbk-zam_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="si_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="fi_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="tig_wikipedia_org"/>
+<edge source="tantek_com" target="www_girlwonder_com"/>
+<edge source="itch_io" target="santiago-garcia_itch_io"/>
+<edge source="eo_wikipedia_org" target="ms_wikipedia_org"/>
+<edge source="gmpg_org" target="www_tribe_net"/>
+<edge source="www_gnome-girl_com" target="www_facebook_com"/>
+<edge source="tantek_com" target="daniel_glazman_free_fr"/>
+<edge source="eo_wikipedia_org" target="my_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="fon_wikipedia_org"/>
+<edge source="www_ycombinator_com" target="bookface-static_ycombinator_com"/>
+<edge source="x_com" target="preferencecenter_x_com"/>
+<edge source="tantek_com" target="jessey_net"/>
+<edge source="en_wikipedia_org" target="mzn_wikipedia_org"/>
+<edge source="tantek_com" target="weblogs_mozillazine_org"/>
+<edge source="eo_wikipedia_org" target="ay_wikipedia_org"/>
+<edge source="news_ycombinator_com" target="hightouch_com"/>
+<edge source="stopdesign_com" target="www_fastcompany_com"/>
+<edge source="en_wikipedia_org" target="ro_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="rmy_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="gcr_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="shi_wikipedia_org"/>
+<edge source="www_linkedin_com" target="lv_linkedin_com"/>
+<edge source="itch_io" target="ebihime_itch_io"/>
+<edge source="eo_wikipedia_org" target="nv_wikipedia_org"/>
+<edge source="legalrequests_twitter_com" target="x_com"/>
+<edge source="en_wikipedia_org" target="gan_wikipedia_org"/>
+<edge source="hackclub_com" target="blueprint_hackclub_com"/>
+<edge source="single-market-economy_ec_europa_eu" target="www_cenelec_eu"/>
+<edge source="x_com" target="www_jamsadr_com"/>
+<edge source="eo_wikipedia_org" target="fy_wikipedia_org"/>
+<edge source="tantek_com" target="www_padawan_info"/>
+<edge source="tantek_com" target="www_w3_org"/>
+<edge source="simplebits_com" target="bsky_app"/>
+<edge source="gmpg_org" target="www_philmccluskey_com"/>
+<edge source="gmpg_org" target="www_7nights_com"/>
+<edge source="gmpg_org" target="orkut_com"/>
+<edge source="eo_wikipedia_org" target="knc_wikipedia_org"/>
+<edge source="simplebits_com" target="mastodon_social"/>
+<edge source="commission_europa_eu" target="x_com"/>
+<edge source="www_fandom_com" target="avatar_fandom_com"/>
+<edge source="blog_x_com" target="www_linkedin_com"/>
+<edge source="itch_io" target="badcomputer0_itch_io"/>
+<edge source="en_wikipedia_org" target="lists_wikimedia_org"/>
+<edge source="gmpg_org" target="www_chrisjdavis_org"/>
+<edge source="tantek_com" target="www_blogstakes_com"/>
+<edge source="en_wikipedia_org" target="csb_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="lt_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="commons_wikimedia_org"/>
+<edge source="tantek_com" target="the-independent_com"/>
+<edge source="eo_wikipedia_org" target="ba_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="io_wikipedia_org"/>
+<edge source="www_ycombinator_com" target="www_facebook_com"/>
+<edge source="gmpg_org" target="www_netsensei_nl"/>
+<edge source="www_linkedin_com" target="developer_linkedin_com"/>
+<edge source="eo_wikipedia_org" target="cv_wikipedia_org"/>
+<edge source="www_fandom_com" target="www_fandom_com"/>
+<edge source="eo_wikipedia_org" target="li_wikipedia_org"/>
+<edge source="developer_x_com" target="privacy_x_com"/>
+<edge source="tantek_com" target="webstandards_org"/>
+<edge source="eubim_eu" target="www_buildingsmart_org"/>
+<edge source="www_fandom_com" target="monsterhunter_fandom_com"/>
+<edge source="twitter_com" target="t_co"/>
+<edge source="en_wikipedia_org" target="fon_wikipedia_org"/>
+<edge source="www_ycombinator_com" target="better-auth_com"/>
+<edge source="tantek_com" target="www_dwellmag_com"/>
+<edge source="tantek_com" target="www_manton_org"/>
+<edge source="en_wikipedia_org" target="en_wikipedia_org"/>
+<edge source="ico_org_uk" target="www_nationalarchives_gov_uk"/>
+<edge source="www_linkedin_com" target="www_linkedin_com"/>
+<edge source="en_wikipedia_org" target="scn_wikipedia_org"/>
+<edge source="help_x_com" target="x_com"/>
+<edge source="immigration-portal_ec_europa_eu" target="www_instagram_com"/>
+<edge source="en_wikipedia_org" target="lez_wikipedia_org"/>
+<edge source="tantek_com" target="www_sleepbot_com"/>
+<edge source="en_wikipedia_org" target="sh_wikipedia_org"/>
+<edge source="itch_io" target="rustylake_itch_io"/>
+<edge source="eo_wikipedia_org" target="ky_wikipedia_org"/>
+<edge source="tantek_com" target="www_rebeccablood_net"/>
+<edge source="gmpg_org" target="www_clagnut_com"/>
+<edge source="eo_wikipedia_org" target="mn_wikipedia_org"/>
+<edge source="tantek_com" target="goatee_net"/>
+<edge source="hackclub_com" target="sinerider_com"/>
+<edge source="business_x_com" target="status_twitterstat_us"/>
+<edge source="en_wikipedia_org" target="mdf_wikipedia_org"/>
+<edge source="gmpg_org" target="stopdesign_com"/>
+<edge source="eo_wikipedia_org" target="sq_wikipedia_org"/>
+<edge source="www_dataprivacyframework_gov" target="www_dataprivacyframework_gov"/>
+<edge source="en_wikipedia_org" target="gn_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="glk_wikipedia_org"/>
+<edge source="hackclub_com" target="forms_hackclub_com"/>
+<edge source="research-and-innovation_ec_europa_eu" target="digital-strategy_ec_europa_eu"/>
+<edge source="tantek_com" target="unit_bjork_com"/>
+<edge source="en_wikipedia_org" target="ki_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="rm_wikipedia_org"/>
+<edge source="www_newscred_com" target="ico_org_uk"/>
+<edge source="help_x_com" target="www_xadsacademy_com"/>
+<edge source="blo_gs" target="www_panda_org"/>
+<edge source="eo_wikipedia_org" target="eu_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="shi_wikipedia_org"/>
+<edge source="stats_wp_com" target="apps_wordpress_com"/>
+<edge source="eo_wikipedia_org" target="rm_wikipedia_org"/>
+<edge source="www_msn_com" target="th_bing_com"/>
+<edge source="en_wikipedia_org" target="srn_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="gpe_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="trv_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="az_wikipedia_org"/>
+<edge source="tantek_com" target="pipthepixie_tripod_com"/>
+<edge source="hackclub_com" target="moonshot_hackclub_com"/>
+<edge source="itch_io" target="armandah_itch_io"/>
+<edge source="gmpg_org" target="peterjanes_ca"/>
+<edge source="help_twitter_com" target="business_x_com"/>
+<edge source="eo_wikipedia_org" target="nl_wikipedia_org"/>
+<edge source="gmpg_org" target="friendster_com"/>
+<edge source="tantek_com" target="www_megnut_com"/>
+<edge source="eo_wikipedia_org" target="he_wikipedia_org"/>
+<edge source="blog_x_com" target="www_missingkids_org"/>
+<edge source="tantek_com" target="lyrics_freesoftwarearchive_com"/>
+<edge source="www_fandom_com" target="play_google_com"/>
+<edge source="stats_wp_com" target="fonts_gstatic_com"/>
+<edge source="www_glazman_org" target="hixie_ch"/>
+<edge source="eo_wikipedia_org" target="eo_wikipedia_org"/>
+<edge source="stats_wp_com" target="ssl_google-analytics_com"/>
+<edge source="help_x_com" target="blog_x_com"/>
+<edge source="www_newscred_com" target="www_optimizely_com"/>
+<edge source="en_wikipedia_org" target="ady_wikipedia_org"/>
+<edge source="kadyellebee_com" target="fonts_googleapis_com"/>
+<edge source="commission_europa_eu" target="audiovisual_ec_europa_eu"/>
+<edge source="eo_wikipedia_org" target="kv_wikipedia_org"/>
+<edge source="tantek_com" target="www_spies_com"/>
+<edge source="tantek_com" target="www_theverge_com"/>
+<edge source="gmpg_org" target="www_rasterweb_net"/>
+<edge source="tantek_com" target="www_sellsbrothers_com"/>
+<edge source="www_fandom_com" target="www_gamespot_com"/>
+<edge source="en_wikipedia_org" target="no_wikipedia_org"/>
+<edge source="www_linkedin_com" target="ee_linkedin_com"/>
+<edge source="www_msn_com" target="sb_scorecardresearch_com"/>
+<edge source="itch_io" target="brocbois_itch_io"/>
+<edge source="commission_europa_eu" target="citizens_ec_europa_eu"/>
+<edge source="itch_io" target="pearlyn_itch_io"/>
+<edge source="itch_io" target="prikarin_itch_io"/>
+<edge source="www_fandom_com" target="witcher_fandom_com"/>
+<edge source="eo_wikipedia_org" target="roa-tara_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="rsk_wikipedia_org"/>
+<edge source="ec_europa_eu" target="cdn1_fpfis_tech_ec_europa_eu"/>
+<edge source="www_linkedin_com" target="mx_linkedin_com"/>
+<edge source="help_twitter_com" target="grok_com"/>
+<edge source="en_wikipedia_org" target="wikimediafoundation_org"/>
+<edge source="eo_wikipedia_org" target="eml_wikipedia_org"/>
+<edge source="gmpg_org" target="aym_engel5_net"/>
+<edge source="blog_x_com" target="ballotpedia_org"/>
+<edge source="data_europa_eu" target="twitter_com"/>
+<edge source="gmpg_org" target="www_rubhub_com"/>
+<edge source="stopdesign_com" target="www_alistapart_com"/>
+<edge source="tantek_com" target="sheeshoo_com"/>
+<edge source="www_linkedin_com" target="ch_linkedin_com"/>
+<edge source="blog_x_com" target="communitynotes_twitter_com"/>
+<edge source="itch_io" target="ratking_itch_io"/>
+<edge source="linkedin_com" target="linkedin_com"/>
+<edge source="creativecommons_org" target="wiki_creativecommons_org"/>
+<edge source="eo_wikipedia_org" target="ha_wikipedia_org"/>
+<edge source="tantek_com" target="meryl_net"/>
+<edge source="itch_io" target="jamiebrownhill_itch_io"/>
+<edge source="tantek_com" target="xn--sr8hvo_ws"/>
+<edge source="itch_io" target="meant-to-bee-studios_itch_io"/>
+<edge source="www_linkedin_com" target="tr_linkedin_com"/>
+<edge source="gmpg_org" target="chris_pirillo_com"/>
+<edge source="en_wikipedia_org" target="pa_wikipedia_org"/>
+<edge source="help_x_com" target="t_co"/>
+<edge source="blo_gs" target="blo_gs"/>
+<edge source="business_x_com" target="help_twitter_com"/>
+<edge source="itch_io" target="rittzler_itch_io"/>
+<edge source="chris_pirillo_com" target="unpkg_com"/>
+<edge source="www_newscred_com" target="academy_optimizely_com"/>
+<edge source="help_twitter_com" target="help_twitter_com"/>
+<edge source="tantek_com" target="dubinko_info"/>
+<edge source="blo_gs" target="www_php_net"/>
+<edge source="eo_wikipedia_org" target="gv_wikipedia_org"/>
+<edge source="gmpg_org" target="gmpg_org"/>
+<edge source="stats_wp_com" target="developer_wordpress_com"/>
+<edge source="www_curseforge_com" target="www_reddit_com"/>
+<edge source="itch_io" target="www_youtube_com"/>
+<edge source="eo_wikipedia_org" target="igl_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="mk_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="pms_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="cu_wikipedia_org"/>
+<edge source="news_ycombinator_com" target="games_jmir_org"/>
+<edge source="eo_wikipedia_org" target="nds-nl_wikipedia_org"/>
+<edge source="single-market-economy_ec_europa_eu" target="culture_ec_europa_eu"/>
+<edge source="eo_wikipedia_org" target="awa_wikipedia_org"/>
+<edge source="gmpg_org" target="sungnyemun_org"/>
+<edge source="en_wikipedia_org" target="mhr_wikipedia_org"/>
+<edge source="itch_io" target="gembit_itch_io"/>
+<edge source="en_wikipedia_org" target="vep_wikipedia_org"/>
+<edge source="research-and-innovation_ec_europa_eu" target="www_euncl_eu"/>
+<edge source="www_fandom_com" target="titans_fandom_com"/>
+<edge source="en_wikipedia_org" target="mni_wikipedia_org"/>
+<edge source="github_com" target="skills_github_com"/>
+<edge source="en_wikipedia_org" target="rue_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="sd_wikipedia_org"/>
+<edge source="www_linkedin_com" target="pr_linkedin_com"/>
+<edge source="x_com" target="transparency_x_com"/>
+<edge source="itch_io" target="finji_itch_io"/>
+<edge source="eo_wikipedia_org" target="www_wikimedia_org"/>
+<edge source="itch_io" target="ant-san_itch_io"/>
+<edge source="gmpg_org" target="glazman_org"/>
+<edge source="www_fandom_com" target="universalorlando_fandom_net"/>
+<edge source="en_wikipedia_org" target="guc_wikipedia_org"/>
+<edge source="docs_x_com" target="docs_x_com"/>
+<edge source="chris_pirillo_com" target="pirillo_com"/>
+<edge source="single-market-economy_ec_europa_eu" target="web_jrc_ec_europa_eu"/>
+<edge source="itch_io" target="creativecommons_org"/>
+<edge source="tantek_com" target="www_netcrucible_com"/>
+<edge source="digital-strategy_ec_europa_eu" target="european-union_europa_eu"/>
+<edge source="news_ycombinator_com" target="spectrum_ieee_org"/>
+<edge source="tantek_com" target="events_indieweb_org"/>
+<edge source="eubim_eu" target="twitter_com"/>
+<edge source="research-and-innovation_ec_europa_eu" target="euraxess_ec_europa_eu"/>
+<edge source="hackclub_com" target="twitter_com"/>
+<edge source="x_com" target="help_x_com"/>
+<edge source="en_wikipedia_org" target="tk_wikipedia_org"/>
+<edge source="help_twitter_com" target="preferencecenter_x_com"/>
+<edge source="gmpg_org" target="wrenkin_net"/>
+<edge source="stopdesign_com" target="underconsideration_com"/>
+<edge source="eo_wikipedia_org" target="tok_wikipedia_org"/>
+<edge source="www_curseforge_com" target="www_tiktok_com"/>
+<edge source="eo_wikipedia_org" target="haw_wikipedia_org"/>
+<edge source="www_fandom_com" target="twitter_com"/>
+<edge source="developer_x_com" target="help_x_com"/>
+<edge source="en_wikipedia_org" target="nrm_wikipedia_org"/>
+<edge source="single-market-economy_ec_europa_eu" target="single-market-economy_ec_europa_eu"/>
+<edge source="eubim_eu" target="www_facebook_com"/>
+<edge source="eo_wikipedia_org" target="guc_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="sq_wikipedia_org"/>
+<edge source="tantek_com" target="www_depechemode_com"/>
+<edge source="www_linkedin_com" target="do_linkedin_com"/>
+<edge source="tantek_com" target="sethf_com"/>
+<edge source="eo_wikipedia_org" target="mhr_wikipedia_org"/>
+<edge source="www_linkedin_com" target="pt_linkedin_com"/>
+<edge source="github_com" target="solo_to"/>
+<edge source="eo_wikipedia_org" target="kw_wikipedia_org"/>
+<edge source="tantek_com" target="feedster_com"/>
+<edge source="www_gnome-girl_com" target="bleacherreport_com"/>
+<edge source="www_newscred_com" target="www_oaic_gov_au"/>
+<edge source="single-market-economy_ec_europa_eu" target="digital-strategy_ec_europa_eu"/>
+<edge source="tantek_com" target="veen_com"/>
+<edge source="www_fanatical_com" target="sentry_io"/>
+<edge source="www_linkedin_com" target="ec_linkedin_com"/>
+<edge source="stopdesign_com" target="www_wired_com"/>
+<edge source="docs_x_com" target="devcommunity_x_com"/>
+<edge source="en_wikipedia_org" target="bdr_wikipedia_org"/>
+<edge source="gmpg_org" target="molly_com"/>
+<edge source="x_com" target="about_x_com"/>
+<edge source="support_twitter_com" target="create_x_com"/>
+<edge source="developer_x_com" target="twittercommunity_com"/>
+<edge source="tantek_com" target="k10k_net"/>
+<edge source="eo_wikipedia_org" target="iba_wikipedia_org"/>
+<edge source="blog_x_com" target="www_inhope_org"/>
+<edge source="news_ycombinator_com" target="jalammar_github_io"/>
+<edge source="eo_wikipedia_org" target="ch_wikipedia_org"/>
+<edge source="research-and-innovation_ec_europa_eu" target="explore_openaire_eu"/>
+<edge source="tantek_com" target="netdiver_net"/>
+<edge source="en_wikipedia_org" target="fiu-vro_wikipedia_org"/>
+<edge source="github_com" target="discord_gg"/>
+<edge source="en_wikipedia_org" target="dv_wikipedia_org"/>
+<edge source="stats_wp_com" target="wordpress_com"/>
+<edge source="www_newscred_com" target="www_edoeb_admin_ch"/>
+<edge source="www_glazman_org" target="www_tantek_com"/>
+<edge source="gmpg_org" target="www_mcornick_org"/>
+<edge source="eo_wikipedia_org" target="kk_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="sn_wikipedia_org"/>
+<edge source="gmpg_org" target="www_ht04_org"/>
+<edge source="about_x_com" target="business_x_com"/>
+<edge source="gmpg_org" target="a_wholelottanothing_org"/>
+<edge source="www_linkedin_com" target="at_linkedin_com"/>
+<edge source="eo_wikipedia_org" target="eo_wikiquote_org"/>
+<edge source="eo_wikipedia_org" target="af_wikiquote_org"/>
+<edge source="hackclub_com" target="jams_hackclub_com"/>
+<edge source="eo_wikipedia_org" target="tpi_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="th_wikipedia_org"/>
+<edge source="www_newscred_com" target="ec_europa_eu"/>
+<edge source="itch_io" target="yaman-studios_itch_io"/>
+<edge source="en_wikipedia_org" target="bg_wikipedia_org"/>
+<edge source="tantek_com" target="bbc_com"/>
+<edge source="en_wikipedia_org" target="lbe_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="rn_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="ru_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="udm_wikipedia_org"/>
+<edge source="research-and-innovation_ec_europa_eu" target="ec_europa_eu"/>
+<edge source="eo_wikipedia_org" target="hr_wikipedia_org"/>
+<edge source="help_x_com" target="azure_microsoft_com"/>
+<edge source="x_com" target="support_x_com"/>
+<edge source="www_glazman_org" target="www_glazman_org"/>
+<edge source="www_fandom_com" target="pokemon_fandom_com"/>
+<edge source="eo_wikipedia_org" target="ml_wikipedia_org"/>
+<edge source="github_com" target="wakatime_com"/>
+<edge source="stopdesign_com" target="me_dm"/>
+<edge source="en_wikipedia_org" target="mai_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="sat_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="et_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="id_wikipedia_org"/>
+<edge source="tantek_com" target="www_frejol_org"/>
+<edge source="en_wikipedia_org" target="hak_wikipedia_org"/>
+<edge source="www_glazman_org" target="www_iht_com"/>
+<edge source="single-market-economy_ec_europa_eu" target="public-buyers-community_ec_europa_eu"/>
+<edge source="eo_wikipedia_org" target="an_wikipedia_org"/>
+<edge source="www_eubim_eu" target="eubim_eu"/>
+<edge source="eo_wikipedia_org" target="ro_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="szl_wikipedia_org"/>
+<edge source="about_x_com" target="grok_com"/>
+<edge source="itch_io" target="bryce-bucher_itch_io"/>
+<edge source="en_wikipedia_org" target="gom_wikipedia_org"/>
+<edge source="opticraft_redstudio_dev" target="github_com"/>
+<edge source="commission_europa_eu" target="research-and-innovation_ec_europa_eu"/>
+<edge source="www_fandom_com" target="www_universalorlando_com"/>
+<edge source="t_co" target="help_x_com"/>
+<edge source="tantek_com" target="www_artistdirect_com"/>
+<edge source="tantek_com" target="technovangelist_com"/>
+<edge source="simplebits_com" target="www_threads_net"/>
+<edge source="en_wikipedia_org" target="sl_wikipedia_org"/>
+<edge source="holovaty_com" target="www_soundslice_com"/>
+<edge source="business_x_com" target="business_x_com"/>
+<edge source="gmpg_org" target="brainstormsandraves_com"/>
+<edge source="www_fandom_com" target="starwars_fandom_com"/>
+<edge source="www_ycombinator_com" target="fonts_gstatic_com"/>
+<edge source="eo_wikipedia_org" target="nso_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="su_wikipedia_org"/>
+<edge source="eubim_eu" target="www_globalbim_org"/>
+<edge source="itch_io" target="atypicalfaux_itch_io"/>
+<edge source="www_curseforge_com" target="legal_overwolf_com"/>
+<edge source="en_wikipedia_org" target="ik_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="mrj_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="zh_wikipedia_org"/>
+<edge source="blo_gs" target="www_mysql_com"/>
+<edge source="research-and-innovation_ec_europa_eu" target="european-union_europa_eu"/>
+<edge source="creativecommons_org" target="www_classy_org"/>
+<edge source="eo_wikipedia_org" target="xmf_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="anp_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="frr_wikipedia_org"/>
+<edge source="itch_io" target="ezra-szanton_itch_io"/>
+<edge source="en_wikipedia_org" target="www_wikifunctions_org"/>
+<edge source="tantek_com" target="www_micdropcomedysandiego_com"/>
+<edge source="commission_europa_eu" target="economy-finance_ec_europa_eu"/>
+<edge source="itch_io" target="3dkyle_itch_io"/>
+<edge source="tantek_com" target="bau2_uibk_ac_at"/>
+<edge source="www_timothychambers_net" target="indieweb_social"/>
+<edge source="eo_wikipedia_org" target="br_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="az_wikipedia_org"/>
+<edge source="x_com" target="legal_x_com"/>
+<edge source="tantek_com" target="www_forestgreen_org"/>
+<edge source="eo_wikipedia_org" target="validator_w3_org"/>
+<edge source="digital-strategy_ec_europa_eu" target="digital-strategy_ec_europa_eu"/>
+<edge source="en_wikipedia_org" target="nup_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="vikimedio_telegramo_org"/>
+<edge source="www_glazman_org" target="www_euronews_net"/>
+<edge source="holovaty_com" target="www_ljworld_com"/>
+<edge source="tantek_com" target="pubsubhubbub_superfeedr_com"/>
+<edge source="tantek_com" target="github_com"/>
+<edge source="help_twitter_com" target="twittercommunity_com"/>
+<edge source="en_wikipedia_org" target="nds-nl_wikipedia_org"/>
+<edge source="tantek_com" target="www_nickfinck_com"/>
+<edge source="www_fandom_com" target="harrypotter_fandom_com"/>
+<edge source="en_wikipedia_org" target="ps_wikipedia_org"/>
+<edge source="news_ycombinator_com" target="walletwallet_alen_ro"/>
+<edge source="eo_wikipedia_org" target="mk_wikipedia_org"/>
+<edge source="eubim_eu" target="youtu_be"/>
+<edge source="digital-strategy_ec_europa_eu" target="twitter_com"/>
+<edge source="www_fandom_com" target="www_youtube_com"/>
+<edge source="en_wikipedia_org" target="outreach_wikimedia_org"/>
+<edge source="hackclub_com" target="hackclub_com"/>
+<edge source="eo_wikipedia_org" target="www_mediawiki_org"/>
+<edge source="en_wikipedia_org" target="ay_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="igl_wikipedia_org"/>
+<edge source="itch_io" target="indexxx_itch_io"/>
+<edge source="eo_wikipedia_org" target="pnt_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="fur_wikipedia_org"/>
+<edge source="help_x_com" target="microsoft_com"/>
+<edge source="en_wikipedia_org" target="sd_wikipedia_org"/>
+<edge source="tantek_com" target="www_hypnagogica_com"/>
+<edge source="www_linkedin_com" target="ie_linkedin_com"/>
+<edge source="www_linkedin_com" target="vn_linkedin_com"/>
+<edge source="eubim_eu" target="stats_wp_com"/>
+<edge source="en_wikipedia_org" target="fat_wikipedia_org"/>
+<edge source="gmpg_org" target="tantek_com"/>
+<edge source="www_curseforge_com" target="studios_curseforge_com"/>
+<edge source="eo_wikipedia_org" target="tk_wikipedia_org"/>
+<edge source="knowledge4policy_ec_europa_eu" target="commission_europa_eu"/>
+<edge source="eo_wikipedia_org" target="cbk-zam_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="stats_wikimedia_org"/>
+<edge source="www_curseforge_com" target="links_overwolf_com"/>
+<edge source="blo_gs" target="wordpress_com"/>
+<edge source="eo_wikipedia_org" target="rki_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="hak_wikipedia_org"/>
+<edge source="www_linkedin_com" target="about_linkedin_com"/>
+<edge source="www_glazman_org" target="www_theregus_com"/>
+<edge source="en_wikipedia_org" target="ty_wikipedia_org"/>
+<edge source="developer_x_com" target="create_x_com"/>
+<edge source="single-market-economy_ec_europa_eu" target="www_oecd_org"/>
+<edge source="tantek_com" target="mememachine_net"/>
+<edge source="intricateplot_blogspot_com" target="www_amazon_com"/>
+<edge source="research-and-innovation_ec_europa_eu" target="research-and-innovation_ec_europa_eu"/>
+<edge source="gmpg_org" target="www_caeciliana_ch"/>
+<edge source="en_wikipedia_org" target="ami_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="zea_wikipedia_org"/>
+<edge source="support_twitter_com" target="x_com"/>
+<edge source="eo_wikipedia_org" target="it_wikipedia_org"/>
+<edge source="x_com" target="abs_twimg_com"/>
+<edge source="single-market-economy_ec_europa_eu" target="aecm_eu"/>
+<edge source="research-and-innovation_ec_europa_eu" target="eur-lex_europa_eu"/>
+<edge source="eo_wikipedia_org" target="or_wikipedia_org"/>
+<edge source="tantek_com" target="www_bjork_com"/>
+<edge source="eo_wikipedia_org" target="bew_wikipedia_org"/>
+<edge source="help_x_com" target="abs_twimg_com"/>
+<edge source="gmpg_org" target="www_brainoff_com"/>
+<edge source="en_wikipedia_org" target="za_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="pnt_wikipedia_org"/>
+<edge source="www_w3_org" target="www_keio_ac_jp"/>
+<edge source="eo_wikipedia_org" target="rmy_wikipedia_org"/>
+<edge source="www_ycombinator_com" target="plus_google_com"/>
+<edge source="en_wikipedia_org" target="kv_wikipedia_org"/>
+<edge source="opticraft_redstudio_dev" target="opticraft_redstudio_dev"/>
+<edge source="x_com" target="business_x_com"/>
+<edge source="single-market-economy_ec_europa_eu" target="www_eubim_eu"/>
+<edge source="gmpg_org" target="kidachi_kazuhi_to"/>
+<edge source="intricateplot_blogspot_com" target="intricateplot_blogspot_com"/>
+<edge source="itch_io" target="sink_itch_io"/>
+<edge source="en_wikipedia_org" target="smn_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="gn_wikipedia_org"/>
+<edge source="gmpg_org" target="www_accessify_com"/>
+<edge source="eo_wikipedia_org" target="bug_wikipedia_org"/>
+<edge source="www_newscred_com" target="pages_optimizely_com"/>
+<edge source="gmpg_org" target="ross_typepad_com"/>
+<edge source="www_newscred_com" target="logx_optimizely_com"/>
+<edge source="blog_x_com" target="transparency_x_com"/>
+<edge source="solo_to" target="discord_gg"/>
+<edge source="tantek_com" target="www_sgtstryker_com"/>
+<edge source="business_x_com" target="transparency_x_com"/>
+<edge source="eo_wikipedia_org" target="af_wiktionary_org"/>
+<edge source="itch_io" target="tim-rachor_itch_io"/>
+<edge source="t_co" target="x_com"/>
+<edge source="research-and-innovation_ec_europa_eu" target="www_w3_org"/>
+<edge source="itch_io" target="bilgetbd_itch_io"/>
+<edge source="en_wikipedia_org" target="mnw_wikipedia_org"/>
+<edge source="help_twitter_com" target="investor_twitterinc_com"/>
+<edge source="www_linkedin_com" target="bo_linkedin_com"/>
+<edge source="en_wikipedia_org" target="kab_wikipedia_org"/>
+<edge source="gmpg_org" target="www_brewedfreshdaily_com"/>
+<edge source="tantek_com" target="www_scottandrew_com"/>
+<edge source="en_wikipedia_org" target="hi_wikipedia_org"/>
+<edge source="tantek_com" target="www_zeldman_com"/>
+<edge source="www_linkedin_com" target="www_bing_com"/>
+<edge source="en_wikipedia_org" target="developer_wikimedia_org"/>
+<edge source="tantek_com" target="asin_cc"/>
+<edge source="en_wikipedia_org" target="ext_wikipedia_org"/>
+<edge source="tantek_com" target="lizphair_com"/>
+<edge source="marketing_x_com" target="marketing_x_com"/>
+<edge source="help_x_com" target="about_x_com"/>
+<edge source="itch_io" target="guauthoraguau_itch_io"/>
+<edge source="hackclub_com" target="hackathons_hackclub_com"/>
+<edge source="x_com" target="www_dataprotection_ie"/>
+<edge source="gmpg_org" target="sxsw_com"/>
+<edge source="help_twitter_com" target="help_x_com"/>
+<edge source="tantek_com" target="www_kuro5hin_org"/>
+<edge source="itch_io" target="yatoimtop_itch_io"/>
+<edge source="tantek_com" target="chris_pirillo_com"/>
+<edge source="research-and-innovation_ec_europa_eu" target="commission_europa_eu"/>
+<edge source="www_msn_com" target="img-s-msn-com_akamaized_net"/>
+<edge source="single-market-economy_ec_europa_eu" target="ec_europa_eu"/>
+<edge source="stopdesign_com" target="www_linkedin_com"/>
+<edge source="en_wikipedia_org" target="alt_wikipedia_org"/>
+<edge source="developer_x_com" target="transparency_x_com"/>
+<edge source="commission_europa_eu" target="servicios_infoleg_gob_ar"/>
+<edge source="gmpg_org" target="wearenotsheep_com"/>
+<edge source="tantek_com" target="www_jish_nu"/>
+<edge source="itch_io" target="wavey-games_itch_io"/>
+<edge source="www_glazman_org" target="www_nitot_com"/>
+<edge source="www_fanatical_com" target="js-agent_newrelic_com"/>
+<edge source="stopdesign_com" target="stopdesign_com"/>
+<edge source="single-market-economy_ec_europa_eu" target="x_com"/>
+<edge source="tantek_com" target="www_craphound_com"/>
+<edge source="en_wikipedia_org" target="pnb_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="war_wikipedia_org"/>
+<edge source="www_linkedin_com" target="pl_linkedin_com"/>
+<edge source="www_curseforge_com" target="static-beta_curseforge_com"/>
+<edge source="eo_wikipedia_org" target="sk_wikipedia_org"/>
+<edge source="itch_io" target="ludicpen_itch_io"/>
+<edge source="itch_io" target="siactro_itch_io"/>
+<edge source="tantek_com" target="www_jjg_net"/>
+<edge source="eo_wikipedia_org" target="si_wikipedia_org"/>
+<edge source="digital-strategy_ec_europa_eu" target="commission_europa_eu"/>
+<edge source="en_wikipedia_org" target="nn_wikipedia_org"/>
+<edge source="www_linkedin_com" target="in_linkedin_com"/>
+<edge source="itch_io" target="exeuntpress_itch_io"/>
+<edge source="about_x_com" target="marketing_x_com"/>
+<edge source="itch_io" target="bsky_app"/>
+<edge source="holovaty_com" target="www_linkedin_com"/>
+<edge source="en_wikipedia_org" target="bcl_wikipedia_org"/>
+<edge source="chris_pirillo_com" target="fonts_googleapis_com"/>
+<edge source="eo_wikipedia_org" target="pfl_wikipedia_org"/>
+<edge source="commission_europa_eu" target="have-your-say_ec_europa_eu"/>
+<edge source="en_wikipedia_org" target="nr_wikipedia_org"/>
+<edge source="help_x_com" target="tweetdeck_twitter_com"/>
+<edge source="twitter_com" target="api_x_com"/>
+<edge source="eo_wikipedia_org" target="ny_wikipedia_org"/>
+<edge source="www_linkedin_com" target="br_linkedin_com"/>
+<edge source="tantek_com" target="www_cloudflarestatus_com"/>
+<edge source="eo_wikipedia_org" target="sl_wikipedia_org"/>
+<edge source="www_oaic_gov_au" target="au_linkedin_com"/>
+<edge source="en_wikipedia_org" target="bew_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="gl_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="pms_wikipedia_org"/>
+<edge source="tantek_com" target="www_flickr_com"/>
+<edge source="tantek_com" target="www_startrek_com"/>
+<edge source="single-market-economy_ec_europa_eu" target="data_europa_eu"/>
+<edge source="tantek_com" target="www_brokenarrowskyrace_com"/>
+<edge source="eo_wikipedia_org" target="hyw_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="nrm_wikipedia_org"/>
+<edge source="support_twitter_com" target="privacy_x_com"/>
+<edge source="en_wikipedia_org" target="ta_wikipedia_org"/>
+<edge source="news_ycombinator_com" target="storageapis_wordpress_com"/>
+<edge source="research-and-innovation_ec_europa_eu" target="joint-research-centre_ec_europa_eu"/>
+<edge source="business_x_com" target="careers_x_com"/>
+<edge source="en_wikipedia_org" target="ilo_wikipedia_org"/>
+<edge source="news_ycombinator_com" target="funnelstory_ai"/>
+<edge source="github_com" target="cli_github_com"/>
+<edge source="www_linkedin_com" target="press_linkedin_com"/>
+<edge source="tantek_com" target="fed_brid_gy"/>
+<edge source="tantek_com" target="www_karajan_org"/>
+<edge source="tantek_com" target="www_la-grange_net"/>
+<edge source="en_wikipedia_org" target="zgh_wikipedia_org"/>
+<edge source="single-market-economy_ec_europa_eu" target="agriculture_ec_europa_eu"/>
+<edge source="en_wikipedia_org" target="tly_wikipedia_org"/>
+<edge source="www_reddit_com" target="www_redditstatic_com"/>
+<edge source="itch_io" target="serpexnessie_itch_io"/>
+<edge source="developer_x_com" target="developer_x_com"/>
+<edge source="support_twitter_com" target="business_x_com"/>
+<edge source="gmpg_org" target="intricateplot_blogspot_com"/>
+<edge source="en_wikipedia_org" target="it_wikipedia_org"/>
+<edge source="itch_io" target="pixieslime_itch_io"/>
+<edge source="docs_x_com" target="x_com"/>
+<edge source="support_twitter_com" target="www_xadsacademy_com"/>
+<edge source="itch_io" target="discreteinfinity_itch_io"/>
+<edge source="holovaty_com" target="chicagoreader_com"/>
+<edge source="en_wikipedia_org" target="sv_wikipedia_org"/>
+<edge source="stopdesign_com" target="www_smashingmagazine_com"/>
+<edge source="about_x_com" target="transparency_x_com"/>
+<edge source="en_wikipedia_org" target="bm_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="ki_wikipedia_org"/>
+<edge source="itch_io" target="vidas-salavejus_itch_io"/>
+<edge source="immigration-portal_ec_europa_eu" target="commission_europa_eu"/>
+<edge source="holovaty_com" target="holovaty_com"/>
+<edge source="en_wikipedia_org" target="sw_wikipedia_org"/>
+<edge source="data_europa_eu" target="dataeuropa_gitlab_io"/>
+<edge source="en_wikipedia_org" target="shn_wikipedia_org"/>
+<edge source="news_ycombinator_com" target="netrinos_com"/>
+<edge source="gmpg_org" target="www_socialwrite_com"/>
+<edge source="tantek_com" target="www_dellah_com"/>
+<edge source="tantek_com" target="www_lifestudent_com"/>
+<edge source="eo_wikipedia_org" target="mg_wikipedia_org"/>
+<edge source="kadyellebee_com" target="www_facebook_com"/>
+<edge source="en_wikipedia_org" target="lld_wikipedia_org"/>
+<edge source="twitter_com" target="abs_twimg_com"/>
+<edge source="github_com" target="www_linkedin_com"/>
+<edge source="en_wikipedia_org" target="tay_wikipedia_org"/>
+<edge source="about_x_com" target="www_xadsacademy_com"/>
+<edge source="eo_wikipedia_org" target="developer_wikimedia_org"/>
+<edge source="help_x_com" target="status_twitterstat_us"/>
+<edge source="eubim_eu" target="theellinikon_com_gr"/>
+<edge source="creativecommons_org" target="network_creativecommons_org"/>
+<edge source="stopdesign_com" target="www_abookapart_com"/>
+<edge source="stats_wp_com" target="0_gravatar_com"/>
+<edge source="data_europa_eu" target="european-union_europa_eu"/>
+<edge source="en_wikipedia_org" target="pl_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="bn_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="pcm_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="lo_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="ty_wikipedia_org"/>
+<edge source="www_fandom_com" target="memory-alpha_fandom_com"/>
+<edge source="itch_io" target="awlencompasing_itch_io"/>
+<edge source="itch_io" target="jeanne444_itch_io"/>
+<edge source="research-and-innovation_ec_europa_eu" target="data_jrc_ec_europa_eu"/>
+<edge source="solo_to" target="bsky_app"/>
+<edge source="itch_io" target="freidenker01_itch_io"/>
+<edge source="itch_io" target="itch_io"/>
+<edge source="itch_io" target="twitter_com"/>
+<edge source="explore_openaire_eu" target="www_openaire_eu"/>
+<edge source="en_wikipedia_org" target="bat-smg_wikipedia_org"/>
+<edge source="gmpg_org" target="dougal_gunters_org"/>
+<edge source="en_wikipedia_org" target="en_wikiquote_org"/>
+<edge source="www_curseforge_com" target="trello_com"/>
+<edge source="en_wikipedia_org" target="sr_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="eo_wikisource_org"/>
+<edge source="eo_wikipedia_org" target="lg_wikipedia_org"/>
+<edge source="gmpg_org" target="www_paranoidfish_org"/>
+<edge source="en_wikipedia_org" target="ceb_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="mos_wikipedia_org"/>
+<edge source="gmpg_org" target="zone41_net"/>
+<edge source="tantek_com" target="www_hollywoodandvine_com"/>
+<edge source="en_wikipedia_org" target="ie_wikipedia_org"/>
+<edge source="www_reddit_com" target="support_reddithelp_com"/>
+<edge source="news_ycombinator_com" target="alperenkeles_com"/>
+<edge source="help_x_com" target="apps_apple_com"/>
+<edge source="en_wikipedia_org" target="szl_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="pl_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="kbp_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="tpi_wikipedia_org"/>
+<edge source="github_com" target="www_twitch_tv"/>
+<edge source="en_wikipedia_org" target="roa-tara_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="sg_wikipedia_org"/>
+<edge source="gmpg_org" target="www_hyperborea_org"/>
+<edge source="en_wikipedia_org" target="lo_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="ann_wikipedia_org"/>
+<edge source="creativecommons_org" target="www_linkedin_com"/>
+<edge source="publish_x_com" target="abs_twimg_com"/>
+<edge source="www_linkedin_com" target="uy_linkedin_com"/>
+<edge source="news_ycombinator_com" target="xania_org"/>
+<edge source="eo_wikipedia_org" target="zh-yue_wikipedia_org"/>
+<edge source="european-union_europa_eu" target="european-union_europa_eu"/>
+<edge source="en_wikipedia_org" target="eo_wikipedia_org"/>
+<edge source="support_twitter_com" target="investor_twitterinc_com"/>
+<edge source="en_wikipedia_org" target="rn_wikipedia_org"/>
+<edge source="grok_com" target="www_google-analytics_com"/>
+<edge source="business_x_com" target="blog_x_com"/>
+<edge source="eo_wikipedia_org" target="eo_wiktionary_org"/>
+<edge source="developer_x_com" target="investor_twitterinc_com"/>
+<edge source="single-market-economy_ec_europa_eu" target="www_linkedin_com"/>
+<edge source="news_ycombinator_com" target="forum_hackliberty_org"/>
+<edge source="kadyellebee_com" target="yarningspodcast_com"/>
+<edge source="eo_wikipedia_org" target="gur_wikipedia_org"/>
+<edge source="tantek_com" target="joshua_com"/>
+<edge source="hackclub_com" target="sprig_hackclub_com"/>
+<edge source="single-market-economy_ec_europa_eu" target="food_ec_europa_eu"/>
+<edge source="x_com" target="hackerone_com"/>
+<edge source="help_x_com" target="careers_x_com"/>
+<edge source="stats_wp_com" target="www_instagram_com"/>
+<edge source="support_twitter_com" target="support_twitter_com"/>
+<edge source="x_com" target="x_com"/>
+<edge source="support_twitter_com" target="blog_x_com"/>
+<edge source="news_ycombinator_com" target="laurent_le-brun_eu"/>
+<edge source="eo_wikipedia_org" target="www_wikidata_org"/>
+<edge source="gmpg_org" target="www_rogerdarlington_co_uk"/>
+<edge source="en_wikipedia_org" target="nqo_wikipedia_org"/>
+<edge source="tantek_com" target="www_douglasp_com"/>
+<edge source="www_linkedin_com" target="it_linkedin_com"/>
+<edge source="itch_io" target="jq37_itch_io"/>
+<edge source="itch_io" target="system-erasure_itch_io"/>
+<edge source="holovaty_com" target="docs_djangoproject_com"/>
+<edge source="single-market-economy_ec_europa_eu" target="publications_jrc_ec_europa_eu"/>
+<edge source="explore_openaire_eu" target="provide_openaire_eu"/>
+<edge source="gmpg_org" target="my-dimension_com"/>
+<edge source="en_wikipedia_org" target="uk_wikipedia_org"/>
+<edge source="itch_io" target="impromptu-games_itch_io"/>
+<edge source="en_wikipedia_org" target="olo_wikipedia_org"/>
+<edge source="developer_x_com" target="business_x_com"/>
+<edge source="eo_wikipedia_org" target="av_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="din_wikipedia_org"/>
+<edge source="x_com" target="api_twitter_com"/>
+<edge source="stopdesign_com" target="www_subtraction_com"/>
+<edge source="eo_wikipedia_org" target="ie_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="ps_wikipedia_org"/>
+<edge source="tantek_com" target="coffeecorner_org"/>
+<edge source="gmpg_org" target="metagrrrl_com"/>
+<edge source="x_com" target="careers_x_com"/>
+<edge source="en_wikipedia_org" target="tg_wikipedia_org"/>
+<edge source="itch_io" target="truebiger_itch_io"/>
+<edge source="commission_europa_eu" target="www_facebook_com"/>
+<edge source="itch_io" target="shootingstarzycat_itch_io"/>
+<edge source="itch_io" target="alphapictoris_itch_io"/>
+<edge source="stats_wp_com" target="play_google_com"/>
+<edge source="hackclub_com" target="melonjam_gamedevclub_tech"/>
+<edge source="itch_io" target="ninja-muffin24_itch_io"/>
+<edge source="en_wikipedia_org" target="ace_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="gd_wikipedia_org"/>
+<edge source="tantek_com" target="www_bmi_com"/>
+<edge source="solo_to" target="solo_to"/>
+<edge source="www_oaic_gov_au" target="www_linkedin_com"/>
+<edge source="en_wikipedia_org" target="tet_wikipedia_org"/>
+<edge source="www_linkedin_com" target="id_linkedin_com"/>
+<edge source="en_wikipedia_org" target="blk_wikipedia_org"/>
+<edge source="stopdesign_com" target="www_zeldman_com"/>
+<edge source="help_twitter_com" target="abs_twimg_com"/>
+<edge source="help_x_com" target="developer_twitter_com"/>
+<edge source="en_wikipedia_org" target="dtp_wikipedia_org"/>
+<edge source="hackclub_com" target="workshops_hackclub_com"/>
+<edge source="www_eubim_eu" target="twitter_com"/>
+<edge source="itch_io" target="barddro_itch_io"/>
+<edge source="itch_io" target="maybell_itch_io"/>
+<edge source="holovaty_com" target="code_google_com"/>
+<edge source="tantek_com" target="webperso_easyconnect_fr"/>
+<edge source="eo_wikipedia_org" target="kn_wikipedia_org"/>
+<edge source="tantek_com" target="instagram_com"/>
+<edge source="en_wikipedia_org" target="da_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="kaa_wikipedia_org"/>
+<edge source="help_x_com" target="marketing_x_com"/>
+<edge source="en_wikipedia_org" target="so_wikipedia_org"/>
+<edge source="holovaty_com" target="www_mattwaite_com"/>
+<edge source="www_fandom_com" target="spongebob_fandom_com"/>
+<edge source="eo_wikipedia_org" target="lmo_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="hu_wikipedia_org"/>
+<edge source="research-and-innovation_ec_europa_eu" target="x_com"/>
+<edge source="eo_wikipedia_org" target="uz_wikipedia_org"/>
+<edge source="itch_io" target="maldo19_itch_io"/>
+<edge source="eo_wikipedia_org" target="co_wikipedia_org"/>
+<edge source="gmpg_org" target="www_vandervossen_net"/>
+<edge source="about_x_com" target="developer_x_com"/>
+<edge source="legalrequests_twitter_com" target="t_co"/>
+<edge source="news_ycombinator_com" target="twitter_com"/>
+<edge source="eo_wikipedia_org" target="ckb_wikipedia_org"/>
+<edge source="gmpg_org" target="www_zeldman_com"/>
+<edge source="eo_wikipedia_org" target="species_wikimedia_org"/>
+<edge source="publish_x_com" target="ton_twimg_com"/>
+<edge source="blog_x_com" target="grok_com"/>
+<edge source="itch_io" target="urania-games_itch_io"/>
+<edge source="en_wikipedia_org" target="ff_wikipedia_org"/>
+<edge source="news_ycombinator_com" target="www_tomshardware_com"/>
+<edge source="github_com" target="docs_github_com"/>
+<edge source="eo_wikipedia_org" target="myv_wikipedia_org"/>
+<edge source="news_ycombinator_com" target="www_timothychambers_net"/>
+<edge source="data_jrc_ec_europa_eu" target="ec_europa_eu"/>
+<edge source="www_fanatical_com" target="accounts_google_com"/>
+<edge source="eubim_eu" target="ec_europa_eu"/>
+<edge source="itch_io" target="esyverse_itch_io"/>
+<edge source="www_fandom_com" target="createnewwiki-143_fandom_com"/>
+<edge source="support_twitter_com" target="careers_x_com"/>
+<edge source="en_wikipedia_org" target="arc_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="ace_wikipedia_org"/>
+<edge source="www_timothychambers_net" target="www_timothychambers_net"/>
+<edge source="research-and-innovation_ec_europa_eu" target="publications_jrc_ec_europa_eu"/>
+<edge source="www_curseforge_com" target="www_curseforge_com"/>
+<edge source="www_ycombinator_com" target="x_com"/>
+<edge source="en_wikipedia_org" target="om_wikipedia_org"/>
+<edge source="x_com" target="developer_x_com"/>
+<edge source="solo_to" target="www_reddit_com"/>
+<edge source="gmpg_org" target="ln_hixie_ch"/>
+<edge source="eo_wikipedia_org" target="pcd_wikipedia_org"/>
+<edge source="itch_io" target="redspringstudio_itch_io"/>
+<edge source="x_com" target="create_x_com"/>
+<edge source="support_twitter_com" target="help_x_com"/>
+<edge source="github_com" target="github-cloud_s3_amazonaws_com"/>
+<edge source="stats_wp_com" target="www_youtube_com"/>
+<edge source="itch_io" target="futurerebels_itch_io"/>
+<edge source="en_wikipedia_org" target="ms_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="su_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="lfn_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="ca_wikipedia_org"/>
+<edge source="gmpg_org" target="trainedmonkey_com"/>
+<edge source="single-market-economy_ec_europa_eu" target="www_youtube_com"/>
+<edge source="hackclub_com" target="scrapbook_hackclub_com"/>
+<edge source="digital-strategy_ec_europa_eu" target="www_facebook_com"/>
+<edge source="www_linkedin_com" target="dk_linkedin_com"/>
+<edge source="itch_io" target="moot1n_itch_io"/>
+<edge source="itch_io" target="patmorita_itch_io"/>
+<edge source="en_wikipedia_org" target="ku_wikipedia_org"/>
+<edge source="github_com" target="github_careers"/>
+<edge source="eo_wikipedia_org" target="dz_wikipedia_org"/>
+<edge source="itch_io" target="fr4nc3sco4_itch_io"/>
+<edge source="www_curseforge_com" target="support_overwolf_com"/>
+<edge source="github_com" target="www_gartner_com"/>
+<edge source="eo_wikipedia_org" target="bbc_wikipedia_org"/>
+<edge source="www_eubim_eu" target="www_linkedin_com"/>
+<edge source="blo_gs" target="developer_wordpress_com"/>
+<edge source="en_wikipedia_org" target="vi_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="ko_wikipedia_org"/>
+<edge source="legalrequests_twitter_com" target="help_x_com"/>
+<edge source="tantek_com" target="www_wheretheressmoke_net"/>
+<edge source="en_wikipedia_org" target="lb_wikipedia_org"/>
+<edge source="tantek_com" target="barbwired_com"/>
+<edge source="news_ycombinator_com" target="phys_org"/>
+<edge source="gmpg_org" target="mezzoblue_com"/>
+<edge source="www_linkedin_com" target="be_linkedin_com"/>
+<edge source="www_fandom_com" target="sexeducation_fandom_com"/>
+<edge source="itch_io" target="teacuppo_itch_io"/>
+<edge source="en_wikipedia_org" target="te_wikipedia_org"/>
+<edge source="github_com" target="www_curseforge_com"/>
+<edge source="www_linkedin_com" target="cl_linkedin_com"/>
+<edge source="stats_wp_com" target="pixel_wp_com"/>
+<edge source="gmpg_org" target="jessey_net"/>
+<edge source="itch_io" target="powerdive_itch_io"/>
+<edge source="news_ycombinator_com" target="news_ycombinator_com"/>
+<edge source="gmpg_org" target="photomatt_net"/>
+<edge source="tantek_com" target="photomatt_net"/>
+<edge source="itch_io" target="cosmicvoid_itch_io"/>
+<edge source="single-market-economy_ec_europa_eu" target="transport_ec_europa_eu"/>
+<edge source="help_x_com" target="play_google_com"/>
+<edge source="en_wikipedia_org" target="ug_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="ve_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="syl_wikipedia_org"/>
+<edge source="www_fandom_com" target="marvels-spider-man_fandom_com"/>
+<edge source="en_wikipedia_org" target="jam_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="nah_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="om_wikipedia_org"/>
+<edge source="www_gnome-girl_com" target="www_stubpass_com"/>
+<edge source="itch_io" target="penusbmic_itch_io"/>
+<edge source="en_wikipedia_org" target="kl_wikipedia_org"/>
+<edge source="www_linkedin_com" target="sg_linkedin_com"/>
+<edge source="itch_io" target="billiebustup_itch_io"/>
+<edge source="gmpg_org" target="iamthedj_com"/>
+<edge source="tantek_com" target="www_marcrettig_com"/>
+<edge source="eo_wikipedia_org" target="bm_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="ln_wikipedia_org"/>
+<edge source="www_glazman_org" target="tantek_com"/>
+<edge source="eo_wikipedia_org" target="bcl_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="inh_wikipedia_org"/>
+<edge source="business_x_com" target="marketing_x_com"/>
+<edge source="itch_io" target="sodaraptor_itch_io"/>
+<edge source="eo_wikipedia_org" target="azb_wikipedia_org"/>
+<edge source="gmpg_org" target="zeldman_com"/>
+<edge source="tantek_com" target="www_sifry_com"/>
+<edge source="single-market-economy_ec_europa_eu" target="climate_ec_europa_eu"/>
+<edge source="tantek_com" target="www_rfc-editor_org"/>
+<edge source="github_com" target="socialimpact_github_com"/>
+<edge source="blog_x_com" target="legalrequests_x_com"/>
+<edge source="eo_wikipedia_org" target="gl_wikipedia_org"/>
+<edge source="gmpg_org" target="rubhub_com"/>
+<edge source="tantek_com" target="www_blogwise_com"/>
+<edge source="www_linkedin_com" target="hk_linkedin_com"/>
+<edge source="business_x_com" target="preferencecenter_x_com"/>
+<edge source="tantek_com" target="gmpg_org"/>
+<edge source="kadyellebee_com" target="eepurl_com"/>
+<edge source="eo_wikipedia_org" target="ik_wikipedia_org"/>
+<edge source="itch_io" target="cazwolf_itch_io"/>
+<edge source="tantek_com" target="bigpinkcookie_com"/>
+<edge source="en_wikipedia_org" target="udm_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="nia_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="olo_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="zu_wikipedia_org"/>
+<edge source="tantek_com" target="indieauth_com"/>
+<edge source="github_com" target="maintainers_github_com"/>
+<edge source="eo_wikipedia_org" target="vo_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="tn_wikipedia_org"/>
+<edge source="commission_europa_eu" target="eur-lex_europa_eu"/>
+<edge source="holovaty_com" target="www_politifact_com"/>
+<edge source="en_wikipedia_org" target="hyw_wikipedia_org"/>
+<edge source="support_twitter_com" target="grok_com"/>
+<edge source="ico_org_uk" target="x_com"/>
+<edge source="immigration-portal_ec_europa_eu" target="www_facebook_com"/>
+<edge source="itch_io" target="ehronlime_itch_io"/>
+<edge source="eo_wikipedia_org" target="rsk_wikipedia_org"/>
+<edge source="itch_io" target="azagamestudio_itch_io"/>
+<edge source="blo_gs" target="automattic_com"/>
+<edge source="en_wikipedia_org" target="ne_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="ug_wikipedia_org"/>
+<edge source="www_curseforge_com" target="tebex_io"/>
+<edge source="en_wikipedia_org" target="vls_wikipedia_org"/>
+<edge source="business_x_com" target="ads_twitter_com"/>
+<edge source="single-market-economy_ec_europa_eu" target="research-and-innovation_ec_europa_eu"/>
+<edge source="eo_wikipedia_org" target="skr_wikipedia_org"/>
+<edge source="tantek_com" target="www_mediasparkles_com"/>
+<edge source="www_glazman_org" target="www_lemonde_fr"/>
+<edge source="eo_wikipedia_org" target="glk_wikipedia_org"/>
+<edge source="gmpg_org" target="www_google_com"/>
+<edge source="single-market-economy_ec_europa_eu" target="www_ecb_europa_eu"/>
+<edge source="en_wikipedia_org" target="wikimania_wikimedia_org"/>
+<edge source="help_x_com" target="transparency_x_com"/>
+<edge source="www_dataprivacyframework_gov" target="fonts_googleapis_com"/>
+<edge source="en_wikipedia_org" target="ti_wikipedia_org"/>
+<edge source="www_linkedin_com" target="ng_linkedin_com"/>
+<edge source="tantek_com" target="luminescent_org"/>
+<edge source="news_ycombinator_com" target="yapi_run"/>
+<edge source="business_x_com" target="twitter_com"/>
+<edge source="tantek_com" target="www_wallpaper_com"/>
+<edge source="tantek_com" target="twitter_com"/>
+<edge source="hackclub_com" target="outernet_hackclub_com"/>
+<edge source="stopdesign_com" target="www_huffingtonpost_com"/>
+<edge source="www_fandom_com" target="mortalkombat_fandom_com"/>
+<edge source="www_fandom_com" target="dcextendeduniverse_fandom_com"/>
+<edge source="en_wikipedia_org" target="cr_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="stats_wikimedia_org"/>
+<edge source="tantek_com" target="en_wikipedia_org"/>
+<edge source="itch_io" target="juicybeast_itch_io"/>
+<edge source="help_twitter_com" target="about_x_com"/>
+<edge source="eo_wikipedia_org" target="incubator_wikimedia_org"/>
+<edge source="gmpg_org" target="www_metafilter_com"/>
+<edge source="single-market-economy_ec_europa_eu" target="employment-social-affairs_ec_europa_eu"/>
+<edge source="news_ycombinator_com" target="aminediro_com"/>
+<edge source="tantek_com" target="www_eightypercent_net"/>
+<edge source="itch_io" target="qeresi_itch_io"/>
+<edge source="help_x_com" target="twittercommunity_com"/>
+<edge source="business_x_com" target="developer_x_com"/>
+<edge source="www_linkedin_com" target="uk_linkedin_com"/>
+<edge source="x_com" target="www_linkedin_com"/>
+<edge source="www_medium_com" target="blog_medium_com"/>
+<edge source="eo_wikipedia_org" target="dag_wikipedia_org"/>
+<edge source="itch_io" target="delugedrop_itch_io"/>
+<edge source="eo_wikipedia_org" target="mad_wikipedia_org"/>
+<edge source="research-and-innovation_ec_europa_eu" target="knowledge4policy_ec_europa_eu"/>
+<edge source="www_linkedin_com" target="ca_linkedin_com"/>
+<edge source="www_linkedin_com" target="th_linkedin_com"/>
+<edge source="eubim_eu" target="www_ametro_gr"/>
+<edge source="en_wikipedia_org" target="ss_wikipedia_org"/>
+<edge source="www_curseforge_com" target="www_discord_com"/>
+<edge source="itch_io" target="stefano-cagnani-3_itch_io"/>
+<edge source="itch_io" target="astrangefool_itch_io"/>
+<edge source="tantek_com" target="pixelcharmer_com"/>
+<edge source="itch_io" target="torshi88_itch_io"/>
+<edge source="eo_wikipedia_org" target="syl_wikipedia_org"/>
+<edge source="blog_x_com" target="careers_x_com"/>
+<edge source="www_mezzoblue_com" target="www_dreamhost_com"/>
+<edge source="chris_pirillo_com" target="cdn_tailwindcss_com"/>
+<edge source="en_wikipedia_org" target="rki_wikipedia_org"/>
+<edge source="single-market-economy_ec_europa_eu" target="health_ec_europa_eu"/>
+<edge source="single-market-economy_ec_europa_eu" target="fosmo_youreurope_europa_eu"/>
+<edge source="business_x_com" target="www_twitterflightschool_com"/>
+<edge source="commission_europa_eu" target="op_europa_eu"/>
+<edge source="research-and-innovation_ec_europa_eu" target="research-innovation-community_ec_europa_eu"/>
+<edge source="www_mezzoblue_com" target="panel_dreamhost_com"/>
+<edge source="support_twitter_com" target="preferencecenter_x_com"/>
+<edge source="tantek_com" target="www_digital-web_com"/>
+<edge source="tantek_com" target="www_raubacapeu_net"/>
+<edge source="hackclub_com" target="editor_sprig_hackclub_com"/>
+<edge source="research-and-innovation_ec_europa_eu" target="www_eurofleets_eu"/>
+<edge source="www_linkedin_com" target="cz_linkedin_com"/>
+<edge source="eo_wikipedia_org" target="eo_wikivoyage_org"/>
+<edge source="tantek_com" target="www_triptronix_net"/>
+<edge source="creativecommons_org" target="creativecommons_org"/>
+<edge source="itch_io" target="drive_google_com"/>
+<edge source="en_wikipedia_org" target="jbo_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="cs_wikipedia_org"/>
+<edge source="www_reddit_com" target="inews_co_uk"/>
+<edge source="eo_wikipedia_org" target="dv_wikipedia_org"/>
+<edge source="single-market-economy_ec_europa_eu" target="investeu_europa_eu"/>
+<edge source="eo_wikipedia_org" target="donate_wikimedia_org"/>
+<edge source="www_mezzoblue_com" target="d1a6zytsvzb7ig_cloudfront_net"/>
+<edge source="eo_wikipedia_org" target="kl_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="als_wikipedia_org"/>
+<edge source="tantek_com" target="www_sxsw_com"/>
+<edge source="developer_x_com" target="docs_x_com"/>
+<edge source="www_curseforge_com" target="www_youtube_com"/>
+<edge source="business_x_com" target="fonts_twitter_com"/>
+<edge source="itch_io" target="ducky-dev_itch_io"/>
+<edge source="news_ycombinator_com" target="brooker_co_za"/>
+<edge source="single-market-economy_ec_europa_eu" target="strategic-technologies_europa_eu"/>
+<edge source="www_glazman_org" target="www_la-grange_net"/>
+<edge source="itch_io" target="twotinydice_itch_io"/>
+<edge source="gmpg_org" target="www_dwmommy_com"/>
+<edge source="en_wikipedia_org" target="pcd_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="tt_wikipedia_org"/>
+<edge source="www_fandom_com" target="fonts_googleapis_com"/>
+<edge source="en_wikipedia_org" target="gpe_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="rw_wikipedia_org"/>
+<edge source="www_fandom_com" target="terraria_fandom_com"/>
+<edge source="www_fandom_com" target="www_linkedin_com"/>
+<edge source="help_x_com" target="help_twitter_com"/>
+<edge source="tantek_com" target="simon_incutio_com"/>
+<edge source="tantek_com" target="www_telepopmusik_com"/>
+<edge source="blog_x_com" target="www_newscred_com"/>
+<edge source="support_twitter_com" target="publish_x_com"/>
+<edge source="blog_x_com" target="privacy_x_com"/>
+<edge source="tantek_com" target="www_leonanaess_com"/>
+<edge source="grok_com" target="grok_com"/>
+<edge source="gmpg_org" target="kniebes_net"/>
+<edge source="www_linkedin_com" target="cn_linkedin_com"/>
+<edge source="gmpg_org" target="www_linkedin_com"/>
+<edge source="www_oaic_gov_au" target="fonts_gstatic_com"/>
+<edge source="tantek_com" target="mozilla_org"/>
+<edge source="solo_to" target="github_com"/>
+<edge source="single-market-economy_ec_europa_eu" target="www_doingbusiness_org"/>
+<edge source="eo_wikipedia_org" target="twitter_com"/>
+<edge source="en_wikipedia_org" target="chr_wikipedia_org"/>
+<edge source="developer_x_com" target="x_com"/>
+<edge source="www_newscred_com" target="support_optimizely_com"/>
+<edge source="tantek_com" target="independent_co_uk"/>
+<edge source="linkedin_com" target="im_linkedin_com"/>
+<edge source="blog_x_com" target="status_twitterstat_us"/>
+<edge source="github_com" target="partner_github_com"/>
+<edge source="eo_wikipedia_org" target="fiu-vro_wikipedia_org"/>
+<edge source="single-market-economy_ec_europa_eu" target="www_investeurope_eu"/>
+<edge source="eo_wikipedia_org" target="kaa_wikipedia_org"/>
+<edge source="www_newscred_com" target="www_newscred_com"/>
+<edge source="holovaty_com" target="www_djangoproject_com"/>
+<edge source="eo_wikipedia_org" target="als_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="sah_wikipedia_org"/>
+<edge source="tantek_com" target="www_holopin_io"/>
+<edge source="eo_wikipedia_org" target="esperanto_wiki"/>
+<edge source="eo_wikipedia_org" target="jam_wikipedia_org"/>
+<edge source="gmpg_org" target="www_artels_be"/>
+<edge source="kadyellebee_com" target="kadyellebee_com"/>
+<edge source="news_ycombinator_com" target="gchandbook_org"/>
+<edge source="gmpg_org" target="www_i-sako_com"/>
+<edge source="tantek_com" target="jimmygrewal_com"/>
+<edge source="eo_wikipedia_org" target="bar_wikipedia_org"/>
+<edge source="solo_to" target="www_last_fm"/>
+<edge source="developer_x_com" target="grok_com"/>
+<edge source="tantek_com" target="kadyellebee_com"/>
+<edge source="en_wikipedia_org" target="tr_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="kw_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="hif_wikipedia_org"/>
+<edge source="tantek_com" target="www_camworld_com"/>
+<edge source="gmpg_org" target="www_gnome-girl_com"/>
+<edge source="legalrequests_twitter_com" target="abs_twimg_com"/>
+<edge source="single-market-economy_ec_europa_eu" target="wayback_archive-it_org"/>
+<edge source="eo_wikipedia_org" target="sh_wikipedia_org"/>
+<edge source="single-market-economy_ec_europa_eu" target="europa_eu"/>
+<edge source="en_wikipedia_org" target="ary_wikipedia_org"/>
+<edge source="holovaty_com" target="github_com"/>
+<edge source="tantek_com" target="stanford_edu"/>
+<edge source="blo_gs" target="www_blogger_com"/>
+<edge source="commission_europa_eu" target="europa_eu"/>
+<edge source="stopdesign_com" target="use_typekit_net"/>
+<edge source="holovaty_com" target="www_djangobook_com"/>
+<edge source="single-market-economy_ec_europa_eu" target="policy_trade_ec_europa_eu"/>
+<edge source="eo_wikipedia_org" target="lld_wikipedia_org"/>
+<edge source="x_com" target="investor_twitterinc_com"/>
+<edge source="research-and-innovation_ec_europa_eu" target="open-research-europe_ec_europa_eu"/>
+<edge source="ico_org_uk" target="linkedin_com"/>
+<edge source="www_reddit_com" target="www_reddit_com"/>
+<edge source="en_wikipedia_org" target="ce_wikipedia_org"/>
+<edge source="single-market-economy_ec_europa_eu" target="technical-regulation-information-system_ec_europa_eu"/>
+<edge source="gmpg_org" target="jason_blogging_la"/>
+<edge source="creativecommons_org" target="mail_creativecommons_org"/>
+<edge source="business_x_com" target="about_x_com"/>
+<edge source="en_wikipedia_org" target="bxr_wikipedia_org"/>
+<edge source="single-market-economy_ec_europa_eu" target="taxation-customs_ec_europa_eu"/>
+<edge source="en_wikipedia_org" target="stq_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="my_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="srn_wikipedia_org"/>
+<edge source="www_w3_org" target="ftp_isi_edu"/>
+<edge source="tantek_com" target="conferences_oreillynet_com"/>
+<edge source="eubim_eu" target="forms_gle"/>
+<edge source="www_linkedin_com" target="zw_linkedin_com"/>
+<edge source="itch_io" target="wrensey_itch_io"/>
+<edge source="research-and-innovation_ec_europa_eu" target="www_linkedin_com"/>
+<edge source="eo_wikipedia_org" target="szy_wikipedia_org"/>
+<edge source="github_com" target="github_com"/>
+<edge source="marketing_x_com" target="business_x_com"/>
+<edge source="itch_io" target="overboundn_itch_io"/>
+<edge source="marketing_x_com" target="abs_twimg_com"/>
+<edge source="gmpg_org" target="ma_tt"/>
+<edge source="itch_io" target="silversky-studio_itch_io"/>
+<edge source="tantek_com" target="www_alistapart_com"/>
+<edge source="www_glazman_org" target="totalementcretin_apinc_org"/>
+<edge source="eo_wikipedia_org" target="ilo_wikipedia_org"/>
+<edge source="www_linkedin_com" target="my_linkedin_com"/>
+<edge source="en_wikipedia_org" target="szy_wikipedia_org"/>
+<edge source="github_com" target="www_buymeacoffee_com"/>
+<edge source="blo_gs" target="www_xmlrpc_com"/>
+<edge source="github_com" target="user-images_githubusercontent_com"/>
+<edge source="tantek_com" target="tbray_org"/>
+<edge source="twitter_com" target="video_twimg_com"/>
+<edge source="www_gnome-girl_com" target="www_ticketseating_com"/>
+<edge source="support_twitter_com" target="abs_twimg_com"/>
+<edge source="eo_wikipedia_org" target="mt_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="bo_wikipedia_org"/>
+<edge source="www_fanatical_com" target="ef_fanatical_com"/>
+<edge source="www_fanatical_com" target="connect_facebook_net"/>
+<edge source="itch_io" target="pizzapranks_itch_io"/>
+<edge source="grok_com" target="www_googletagmanager_com"/>
+<edge source="itch_io" target="lucatheg_itch_io"/>
+<edge source="eo_wikipedia_org" target="st_wikipedia_org"/>
+<edge source="developer_x_com" target="www_xadsacademy_com"/>
+<edge source="itch_io" target="dogs-understand_itch_io"/>
+<edge source="eo_wikipedia_org" target="wikisource_org"/>
+<edge source="gmpg_org" target="mullenweg_com"/>
+<edge source="tantek_com" target="splorp_com"/>
+<edge source="legalrequests_twitter_com" target="support_x_com"/>
+<edge source="en_wikipedia_org" target="fr_wikipedia_org"/>
+<edge source="simplebits_com" target="dribbble_com"/>
+<edge source="x_com" target="pbs_twimg_com"/>
+<edge source="gmpg_org" target="simplebits_com"/>
+<edge source="news_ycombinator_com" target="www_easypost_com"/>
+<edge source="www_glazman_org" target="www_raubacapeu_net"/>
+<edge source="support_twitter_com" target="help_twitter_com"/>
+<edge source="tantek_com" target="inkblog_com"/>
+<edge source="commission_europa_eu" target="immigration-portal_ec_europa_eu"/>
+<edge source="github_com" target="github_community"/>
+<edge source="about_x_com" target="privacy_x_com"/>
+<edge source="research-and-innovation_ec_europa_eu" target="www_rich2020_eu"/>
+<edge source="eo_wikipedia_org" target="fo_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="yi_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="zgh_wikipedia_org"/>
+<edge source="solo_to" target="www_youtube_com"/>
+<edge source="eo_wikipedia_org" target="ta_wikipedia_org"/>
+<edge source="about_x_com" target="docs_x_com"/>
+<edge source="gmpg_org" target="linkedin_com"/>
+<edge source="stopdesign_com" target="www_threads_net"/>
+<edge source="eo_wikipedia_org" target="bdr_wikipedia_org"/>
+<edge source="www_fandom_com" target="the-boys_fandom_com"/>
+<edge source="en_wikipedia_org" target="cs_wikipedia_org"/>
+<edge source="tantek_com" target="mydogmeg_net"/>
+<edge source="en_wikipedia_org" target="fur_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="iu_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="wa_wikipedia_org"/>
+<edge source="research-and-innovation_ec_europa_eu" target="www_nffa_eu"/>
+<edge source="help_twitter_com" target="blog_x_com"/>
+<edge source="news_ycombinator_com" target="www_nytimes_com"/>
+<edge source="en_wikipedia_org" target="guw_wikipedia_org"/>
+<edge source="x_com" target="help_twitter_com"/>
+<edge source="eubim_eu" target="eubim_eu"/>
+<edge source="en_wikipedia_org" target="to_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="en_wiktionary_org"/>
+<edge source="single-market-economy_ec_europa_eu" target="www_instagram_com"/>
+<edge source="en_wikipedia_org" target="as_wikipedia_org"/>
+<edge source="www_ycombinator_com" target="twitter_com"/>
+<edge source="business_x_com" target="www_xadsacademy_com"/>
+<edge source="www_fanatical_com" target="fonts_gstatic_com"/>
+<edge source="eo_wikipedia_org" target="zh-classical_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="zh-min-nan_wikipedia_org"/>
+<edge source="www_glazman_org" target="bugzilla_mozilla_org"/>
+<edge source="eo_wikipedia_org" target="vec_wikipedia_org"/>
+<edge source="solo_to" target="monkeytype_com"/>
+<edge source="en_wikipedia_org" target="bpy_wikipedia_org"/>
+<edge source="x_com" target="legal_twitter_com"/>
+<edge source="en_wikipedia_org" target="nso_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="gag_wikipedia_org"/>
+<edge source="opticraft_redstudio_dev" target="www_curseforge_com"/>
+<edge source="itch_io" target="gregs-games_itch_io"/>
+<edge source="en_wikipedia_org" target="sg_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="lt_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="en_wikiversity_org"/>
+<edge source="tantek_com" target="www_minjungkim_com"/>
+<edge source="itch_io" target="meiri_itch_io"/>
+<edge source="gmpg_org" target="doc_weblogs_com"/>
+<edge source="news_ycombinator_com" target="www_theguardian_com"/>
+<edge source="about_x_com" target="about_x_com"/>
+<edge source="www_fandom_com" target="thelastofus_fandom_com"/>
+<edge source="www_w3_org" target="www_youtube_com"/>
+<edge source="news_ycombinator_com" target="www_phoronix_com"/>
+<edge source="research-and-innovation_ec_europa_eu" target="data_europa_eu"/>
+<edge source="digital-strategy_ec_europa_eu" target="www_instagram_com"/>
+<edge source="en_wikipedia_org" target="fy_wikipedia_org"/>
+<edge source="news_ycombinator_com" target="bcjordan_com"/>
+<edge source="eo_wikipedia_org" target="kbp_wikipedia_org"/>
+<edge source="www_medium_com" target="help_medium_com"/>
+<edge source="gmpg_org" target="japhthor_com"/>
+<edge source="www_fandom_com" target="onepiece_fandom_com"/>
+<edge source="en_wikipedia_org" target="oc_wikipedia_org"/>
+<edge source="tantek_com" target="www_murphyhorner_com"/>
+<edge source="linkedin_com" target="lnkd_in"/>
+<edge source="itch_io" target="johnvanderhoef_itch_io"/>
+<edge source="en_wikipedia_org" target="krc_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="ka_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="cy_wikipedia_org"/>
+<edge source="itch_io" target="gnomzy_itch_io"/>
+<edge source="www_w3_org" target="www_w3_org"/>
+<edge source="en_wikipedia_org" target="vo_wikipedia_org"/>
+<edge source="github_com" target="github_blog"/>
+<edge source="en_wikipedia_org" target="creativecommons_org"/>
+<edge source="eo_wikipedia_org" target="ang_wikipedia_org"/>
+<edge source="blog_x_com" target="www_xadsacademy_com"/>
+<edge source="www_fanatical_com" target="support_fanatical_com"/>
+<edge source="en_wikipedia_org" target="ve_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="war_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="st_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="nds_wikipedia_org"/>
+<edge source="help_x_com" target="twitter_com"/>
+<edge source="eo_wikipedia_org" target="ltg_wikipedia_org"/>
+<edge source="www_timothychambers_net" target="micro_blog"/>
+<edge source="www_eubim_eu" target="gmpg_org"/>
+<edge source="tantek_com" target="whatisthematrix_com"/>
+<edge source="help_x_com" target="legalrequests_x_com"/>
+<edge source="gmpg_org" target="meyerweb_com"/>
+<edge source="en_wikipedia_org" target="af_wikipedia_org"/>
+<edge source="news_ycombinator_com" target="danburzo_ro"/>
+<edge source="eo_wikipedia_org" target="mdf_wikipedia_org"/>
+<edge source="itch_io" target="humblepixel_itch_io"/>
+<edge source="eo_wikipedia_org" target="bi_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="pi_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="lad_wikipedia_org"/>
+<edge source="linkedin_com" target="je_linkedin_com"/>
+<edge source="en_wikipedia_org" target="wikisource_org"/>
+<edge source="itch_io" target="vfqd_itch_io"/>
+<edge source="developer_x_com" target="marketing_x_com"/>
+<edge source="single-market-economy_ec_europa_eu" target="eur-lex_europa_eu"/>
+<edge source="www_linkedin_com" target="ua_linkedin_com"/>
+<edge source="tantek_com" target="babelfish_altavista_com"/>
+<edge source="tantek_com" target="halleyscomment_blogspot_com"/>
+<edge source="www_gnome-girl_com" target="www_stumbleupon_com"/>
+<edge source="research-and-innovation_ec_europa_eu" target="www_facebook_com"/>
+<edge source="eo_wikipedia_org" target="af_wikibooks_org"/>
+<edge source="about_x_com" target="help_twitter_com"/>
+<edge source="gmpg_org" target="www_w3_org"/>
+<edge source="en_wikipedia_org" target="ky_wikipedia_org"/>
+<edge source="hackclub_com" target="www_instagram_com"/>
+<edge source="tantek_com" target="www_little_org"/>
+<edge source="help_twitter_com" target="publish_x_com"/>
+<edge source="eo_wikipedia_org" target="es_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="so_wikipedia_org"/>
+<edge source="www_fandom_com" target="about_fandom_com"/>
+<edge source="commission_europa_eu" target="asean_org"/>
+<edge source="itch_io" target="thalamusdigital_itch_io"/>
+<edge source="eo_wikipedia_org" target="vi_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="be_wikipedia_org"/>
+<edge source="itch_io" target="theoldgamemaker_itch_io"/>
+<edge source="www_ycombinator_com" target="www_ycombinator_com"/>
+<edge source="eo_wikipedia_org" target="fj_wikipedia_org"/>
+<edge source="stats_wp_com" target="www_facebook_com"/>
+<edge source="en_wikipedia_org" target="or_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="ce_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="ks_wikipedia_org"/>
+<edge source="tantek_com" target="www_pocketsoap_com"/>
+<edge source="itch_io" target="werxzy_itch_io"/>
+<edge source="linkedin_com" target="es_linkedin_com"/>
+<edge source="itch_io" target="thegreatescaper_itch_io"/>
+<edge source="eubim_eu" target="www_koncepcebim_cz"/>
+<edge source="developer_x_com" target="devcommunity_x_com"/>
+<edge source="itch_io" target="shattered-pixel_itch_io"/>
+<edge source="gmpg_org" target="www_informit_com"/>
+<edge source="tantek_com" target="dev_h2vx_com"/>
+<edge source="data_europa_eu" target="data_europa_eu"/>
+<edge source="data_europa_eu" target="europa_eu"/>
+<edge source="en_wikipedia_org" target="eu_wikipedia_org"/>
+<edge source="gmpg_org" target="www_roell_net"/>
+<edge source="www_newscred_com" target="privacyportal-cdn_onetrust_com"/>
+<edge source="tantek_com" target="blog_sushubh_com"/>
+<edge source="business_x_com" target="twittercommunity_com"/>
+<edge source="tantek_com" target="www_powazek_com"/>
+<edge source="gmpg_org" target="www_technorati_com"/>
+<edge source="tantek_com" target="www_blogchalking_tk"/>
+<edge source="en_wikipedia_org" target="se_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="sc_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="haw_wikipedia_org"/>
+<edge source="tantek_com" target="www_deelan_com"/>
+<edge source="itch_io" target="oofteriz_itch_io"/>
+<edge source="data_jrc_ec_europa_eu" target="europa_eu"/>
+<edge source="itch_io" target="pixelshock_itch_io"/>
+<edge source="www_fandom_com" target="genshin-impact_fandom_com"/>
+<edge source="commission_europa_eu" target="european-union_europa_eu"/>
+<edge source="eo_wikipedia_org" target="hu_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="sa_wikipedia_org"/>
+<edge source="tantek_com" target="www_baytobreakers_com"/>
+<edge source="eo_wikipedia_org" target="lv_wikipedia_org"/>
+<edge source="itch_io" target="micah-anderson_itch_io"/>
+<edge source="eo_wikipedia_org" target="bh_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="ga_wikipedia_org"/>
+<edge source="itch_io" target="jaymarksman_itch_io"/>
+<edge source="en_wikipedia_org" target="av_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="kcg_wikipedia_org"/>
+<edge source="gmpg_org" target="www_tanglebones_com"/>
+<edge source="help_twitter_com" target="www_xadsacademy_com"/>
+<edge source="eo_wikipedia_org" target="wa_wikipedia_org"/>
+<edge source="single-market-economy_ec_europa_eu" target="www_oecd-ilibrary_org"/>
+<edge source="en_wikipedia_org" target="lv_wikipedia_org"/>
+<edge source="itch_io" target="alfredncy_itch_io"/>
+<edge source="blog_x_com" target="support_twitter_com"/>
+<edge source="kadyellebee_com" target="ravelry_com"/>
+<edge source="www_fandom_com" target="disney_fandom_com"/>
+<edge source="eo_wikipedia_org" target="pag_wikipedia_org"/>
+<edge source="eubim_eu" target="ym_fi"/>
+<edge source="eo_wikipedia_org" target="ia_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="jv_wikipedia_org"/>
+<edge source="tantek_com" target="tantek_com"/>
+<edge source="eubim_eu" target="openbimforum_eu"/>
+<edge source="news_ycombinator_com" target="archive_org"/>
+<edge source="business_x_com" target="investor_twitterinc_com"/>
+<edge source="eo_wikipedia_org" target="map-bms_wikipedia_org"/>
+<edge source="explore_openaire_eu" target="graph_openaire_eu"/>
+<edge source="solo_to" target="www_twitch_tv"/>
+<edge source="eo_wikipedia_org" target="ceb_wikipedia_org"/>
+<edge source="itch_io" target="lixiangames_itch_io"/>
+<edge source="single-market-economy_ec_europa_eu" target="ted_europa_eu"/>
+<edge source="about_x_com" target="careers_x_com"/>
+<edge source="digital-strategy_ec_europa_eu" target="www_youtube_com"/>
+<edge source="business_x_com" target="help_x_com"/>
+<edge source="research-and-innovation_ec_europa_eu" target="competition-policy_ec_europa_eu"/>
+<edge source="holovaty_com" target="www_washingtonpost_com"/>
+<edge source="itch_io" target="crazygrouptrio_itch_io"/>
+<edge source="help_x_com" target="www_apple_com"/>
+<edge source="itch_io" target="zooperdan_itch_io"/>
+<edge source="eo_wikipedia_org" target="crh_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="arz_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="mi_wikipedia_org"/>
+<edge source="stats_wp_com" target="x_com"/>
+<edge source="linkedin_com" target="gg_linkedin_com"/>
+<edge source="tantek_com" target="sachajudd_com"/>
+<edge source="itch_io" target="spratt_itch_io"/>
+<edge source="tantek_com" target="www_monstro_com"/>
+<edge source="eo_wikipedia_org" target="tw_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="skr_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="pnb_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="commons_wikimedia_org"/>
+<edge source="hackclub_com" target="flavortown_hackclub_com"/>
+<edge source="hackclub_com" target="milkyway_hackclub_com"/>
+<edge source="eo_wikipedia_org" target="nov_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="dz_wikipedia_org"/>
+<edge source="gmpg_org" target="idly_org"/>
+<edge source="hackclub_com" target="dreamventure_cloud"/>
+<edge source="en_wikipedia_org" target="ar_wikipedia_org"/>
+<edge source="gmpg_org" target="kadyellebee_com"/>
+<edge source="eo_wikipedia_org" target="frp_wikipedia_org"/>
+<edge source="itch_io" target="31math62_itch_io"/>
+<edge source="itch_io" target="hakuenstudio_itch_io"/>
+<edge source="blog_x_com" target="preferencecenter_x_com"/>
+<edge source="itch_io" target="taldius_itch_io"/>
+<edge source="eo_wikipedia_org" target="anp_wikipedia_org"/>
+<edge source="research-and-innovation_ec_europa_eu" target="single-market-economy_ec_europa_eu"/>
+<edge source="gmpg_org" target="blogrolling_com"/>
+<edge source="tantek_com" target="www_readinged_com"/>
+<edge source="linkedin_com" target="uk_linkedin_com"/>
+<edge source="eo_wikipedia_org" target="ksh_wikipedia_org"/>
+<edge source="tantek_com" target="www_littleyellowdifferent_com"/>
+<edge source="www_linkedin_com" target="eubim_eu"/>
+<edge source="www_ycombinator_com" target="Cal_com"/>
+<edge source="t_co" target="blog_x_com"/>
+<edge source="www_newscred_com" target="prediction_cmab_optimizely_com"/>
+<edge source="commission_europa_eu" target="www_linkedin_com"/>
+<edge source="help_x_com" target="developers_google_com"/>
+<edge source="www_linkedin_com" target="pk_linkedin_com"/>
+<edge source="tantek_com" target="theguardian_com"/>
+<edge source="tantek_com" target="diveintomark_org"/>
+<edge source="single-market-economy_ec_europa_eu" target="transition-pathways_europa_eu"/>
+<edge source="news_ycombinator_com" target="www_koi_ai"/>
+<edge source="en_wikipedia_org" target="gur_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="mrj_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="dtp_wikipedia_org"/>
+<edge source="www_linkedin_com" target="jm_linkedin_com"/>
+<edge source="news_ycombinator_com" target="www_404media_co"/>
+<edge source="gmpg_org" target="www_almaren_ch"/>
+<edge source="x_com" target="twitter_com"/>
+<edge source="en_wikipedia_org" target="pi_wikipedia_org"/>
+<edge source="x_com" target="status_twitterstat_us"/>
+<edge source="eo_wikipedia_org" target="ext_wikipedia_org"/>
+<edge source="itch_io" target="mastodon_gamedev_place"/>
+<edge source="eo_wikipedia_org" target="tet_wikipedia_org"/>
+<edge source="tantek_com" target="meyerweb_com"/>
+<edge source="eo_wikipedia_org" target="ady_wikipedia_org"/>
+<edge source="itch_io" target="potat0master_itch_io"/>
+<edge source="itch_io" target="imsobadatnicknames_itch_io"/>
+<edge source="eo_wikipedia_org" target="nap_wikipedia_org"/>
+<edge source="stopdesign_com" target="twitter_com"/>
+<edge source="eo_wikipedia_org" target="sco_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="yo_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="ht_wikipedia_org"/>
+<edge source="www_curseforge_com" target="docs_curseforge_com"/>
+<edge source="www_curseforge_com" target="nitropay_com"/>
+<edge source="help_twitter_com" target="marketing_x_com"/>
+<edge source="www_glazman_org" target="edition_cnn_com"/>
+<edge source="tantek_com" target="brad_livejournal_com"/>
+<edge source="en_wikipedia_org" target="pcm_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="bjn_wikipedia_org"/>
+<edge source="single-market-economy_ec_europa_eu" target="defence-industry-space_ec_europa_eu"/>
+<edge source="en_wikipedia_org" target="foundation_wikimedia_org"/>
+<edge source="tantek_com" target="teole_jfouffa_org"/>
+<edge source="tantek_com" target="www_stereototal_de"/>
+<edge source="en_wikipedia_org" target="be-tarask_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="zh-classical_wikipedia_org"/>
+<edge source="tantek_com" target="www_keithba_net"/>
+<edge source="about_x_com" target="x_com"/>
+<edge source="data_europa_eu" target="www_linkedin_com"/>
+<edge source="gmpg_org" target="irc_freenode_net"/>
+<edge source="about_x_com" target="publish_x_com"/>
+<edge source="eo_wikipedia_org" target="vep_wikipedia_org"/>
+<edge source="news_ycombinator_com" target="bitcoinmagazine_com"/>
+<edge source="www_linkedin_com" target="nz_linkedin_com"/>
+<edge source="www_linkedin_com" target="blog_linkedin_com"/>
+<edge source="github_com" target="camo_githubusercontent_com"/>
+<edge source="business_x_com" target="privacy_x_com"/>
+<edge source="help_x_com" target="vine_co"/>
+<edge source="news_ycombinator_com" target="yorickpeterse_com"/>
+<edge source="eo_wikipedia_org" target="dty_wikipedia_org"/>
+<edge source="single-market-economy_ec_europa_eu" target="technical-barriers-trade_ec_europa_eu"/>
+<edge source="gmpg_org" target="seattletimes_nwsource_com"/>
+<edge source="explore_openaire_eu" target="canada_explore_openaire_eu"/>
+<edge source="www_glazman_org" target="www_mozillazine_org"/>
+<edge source="itch_io" target="han-tani_itch_io"/>
+<edge source="x_com" target="media_x_com"/>
+<edge source="docs_x_com" target="d4tuoctqmanu0_cloudfront_net"/>
+<edge source="tantek_com" target="www_epiccenter_com"/>
+<edge source="itch_io" target="carziecat_itch_io"/>
+<edge source="eo_wikipedia_org" target="cr_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="hy_wikipedia_org"/>
+<edge source="data_europa_eu" target="ted_europa_eu"/>
+<edge source="en_wikipedia_org" target="roa-rup_wikipedia_org"/>
+<edge source="help_x_com" target="torproject_org"/>
+<edge source="knowledge4policy_ec_europa_eu" target="ec_europa_eu"/>
+<edge source="support_twitter_com" target="twittercommunity_com"/>
+<edge source="gmpg_org" target="www_LifeWithAlacrity_com"/>
+<edge source="www_linkedin_com" target="gh_linkedin_com"/>
+<edge source="tantek_com" target="erablog_net"/>
+<edge source="commission_europa_eu" target="learning-corner_learning_europa_eu"/>
+<edge source="eo_wikipedia_org" target="zh-min-nan_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="ami_wikipedia_org"/>
+<edge source="www_linkedin_com" target="pe_linkedin_com"/>
+<edge source="hackclub_com" target="assets_hackclub_com"/>
+<edge source="x_com" target="business_twitter_com"/>
+<edge source="en_wikipedia_org" target="trv_wikipedia_org"/>
+<edge source="tantek_com" target="www_leatheregg_com"/>
+<edge source="tantek_com" target="aperture_p3k_io"/>
+<edge source="solo_to" target="steamcommunity_com"/>
+<edge source="help_x_com" target="help_x_com"/>
+<edge source="holovaty_com" target="www_ajc_com"/>
+<edge source="news_ycombinator_com" target="www_macrumors_com"/>
+<edge source="www_gnome-girl_com" target="www_gnome-girl_com"/>
+<edge source="docs_x_com" target="mintcdn_com"/>
+<edge source="developer_x_com" target="blog_x_com"/>
+<edge source="en_wikipedia_org" target="bbc_wikipedia_org"/>
+<edge source="x_com" target="privacy_x_com"/>
+<edge source="tantek_com" target="h2vx_com"/>
+<edge source="www_linkedin_com" target="il_linkedin_com"/>
+<edge source="en_wikipedia_org" target="wo_wikipedia_org"/>
+<edge source="itch_io" target="moonanagames_itch_io"/>
+<edge source="www_linkedin_com" target="ae_linkedin_com"/>
+<edge source="eo_wikipedia_org" target="chy_wikipedia_org"/>
+<edge source="tantek_com" target="sxsw_com"/>
+<edge source="www_linkedin_com" target="fi_linkedin_com"/>
+<edge source="eo_wikipedia_org" target="am_wikipedia_org"/>
+<edge source="tantek_com" target="ohhelloana_blog"/>
+<edge source="eo_wikipedia_org" target="pdc_wikipedia_org"/>
+<edge source="stats_wp_com" target="automattic_com"/>
+<edge source="en_wikipedia_org" target="xh_wikipedia_org"/>
+<edge source="tantek_com" target="www_gotdotnet_com"/>
+<edge source="itch_io" target="cyreides_itch_io"/>
+<edge source="en_wikipedia_org" target="pt_wikipedia_org"/>
+<edge source="tantek_com" target="www_iloveraving_com"/>
+<edge source="single-market-economy_ec_europa_eu" target="www_earlywarningeurope_eu"/>
+<edge source="help_x_com" target="www_google_com"/>
+<edge source="tantek_com" target="v-2_org"/>
+<edge source="gmpg_org" target="www_minjungkim_com"/>
+<edge source="itch_io" target="lankyleigh_itch_io"/>
+<edge source="en_wikipedia_org" target="pdc_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="nov_wikipedia_org"/>
+<edge source="single-market-economy_ec_europa_eu" target="webgate_ec_europa_eu"/>
+<edge source="eo_wikipedia_org" target="ne_wikipedia_org"/>
+<edge source="immigration-portal_ec_europa_eu" target="home-affairs_ec_europa_eu"/>
+<edge source="en_wikipedia_org" target="tdd_wikipedia_org"/>
+<edge source="itch_io" target="nusan_itch_io"/>
+<edge source="www_ycombinator_com" target="fonts_googleapis_com"/>
+<edge source="tantek_com" target="www_bestkungfu_com"/>
+<edge source="en_wikipedia_org" target="la_wikipedia_org"/>
+<edge source="tantek_com" target="zeldman_com"/>
+<edge source="twitter_com" target="pbs_twimg_com"/>
+<edge source="en_wikipedia_org" target="fi_wikipedia_org"/>
+<edge source="tantek_com" target="kryogenix_org"/>
+<edge source="tantek_com" target="wiki_mozilla_org"/>
+<edge source="tantek_com" target="en_wikiquote_org"/>
+<edge source="itch_io" target="kc00l_itch_io"/>
+<edge source="eo_wikipedia_org" target="stq_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="dsb_wikipedia_org"/>
+<edge source="data_europa_eu" target="eur-lex_europa_eu"/>
+<edge source="tantek_com" target="webmention_io"/>
+<edge source="eo_wikipedia_org" target="ts_wikipedia_org"/>
+<edge source="itch_io" target="terrycavanagh_itch_io"/>
+<edge source="single-market-economy_ec_europa_eu" target="een_ec_europa_eu"/>
+<edge source="gmpg_org" target="www_meyerweb_com"/>
+<edge source="eo_wikipedia_org" target="kbd_wikipedia_org"/>
+<edge source="news_ycombinator_com" target="www_bdzmap_com"/>
+<edge source="tantek_com" target="www_spydersempire_com"/>
+<edge source="tantek_com" target="links_net"/>
+<edge source="digital-strategy_ec_europa_eu" target="www_linkedin_com"/>
+<edge source="itch_io" target="sirmilkman_itch_io"/>
+<edge source="eo_wikipedia_org" target="tdd_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="scn_wikipedia_org"/>
+<edge source="www_fandom_com" target="gijoe_fandom_com"/>
+<edge source="en_wikipedia_org" target="hif_wikipedia_org"/>
+<edge source="www_fanatical_com" target="chromewebstore_google_com"/>
+<edge source="en_wikipedia_org" target="upload_wikimedia_org"/>
+<edge source="news_ycombinator_com" target="www_useparallel_com"/>
+<edge source="gmpg_org" target="log_handakte_de"/>
+<edge source="tantek_com" target="www_taral_net"/>
+<edge source="holovaty_com" target="www_youtube_com"/>
+<edge source="github_com" target="shop_github_com"/>
+<edge source="data_europa_eu" target="www_instagram_com"/>
+<edge source="www_linkedin_com" target="tw_linkedin_com"/>
+<edge source="gmpg_org" target="w3_org"/>
+<edge source="itch_io" target="sam-thul_itch_io"/>
+<edge source="en_wikipedia_org" target="awa_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="eo_wikibooks_org"/>
+<edge source="single-market-economy_ec_europa_eu" target="worth-partnership_ec_europa_eu"/>
+<edge source="tantek_com" target="brittney_typepad_com"/>
+<edge source="en_wikipedia_org" target="www_wikimedia_org"/>
+<edge source="x_com" target="api_x_com"/>
+<edge source="eo_wikipedia_org" target="gcr_wikipedia_org"/>
+<edge source="blog_x_com" target="twittercommunity_com"/>
+<edge source="en_wikipedia_org" target="kge_wikipedia_org"/>
+<edge source="tantek_com" target="www_aaronsw_com"/>
+<edge source="gmpg_org" target="www_boogenstein_com"/>
+<edge source="en_wikipedia_org" target="bs_wikipedia_org"/>
+<edge source="data_europa_eu" target="cordis_europa_eu"/>
+<edge source="eo_wikipedia_org" target="bat-smg_wikipedia_org"/>
+<edge source="developer_x_com" target="preferencecenter_x_com"/>
+<edge source="tantek_com" target="mozdawg_blogspot_com"/>
+<edge source="www_fandom_com" target="uncharted_fandom_com"/>
+<edge source="news_ycombinator_com" target="www_ycombinator_com"/>
+<edge source="help_x_com" target="blog_twitter_com"/>
+<edge source="itch_io" target="papercookies_itch_io"/>
+<edge source="en_wikipedia_org" target="sk_wikipedia_org"/>
+<edge source="tantek_com" target="lori_lockergnome_com"/>
+<edge source="twitter_com" target="legal_twitter_com"/>
+<edge source="twitter_com" target="x_com"/>
+<edge source="tantek_com" target="w3_org"/>
+<edge source="en_wikipedia_org" target="tw_wikipedia_org"/>
+<edge source="twitter_com" target="support_x_com"/>
+<edge source="www_newscred_com" target="world_optimizely_com"/>
+<edge source="itch_io" target="thp_itch_io"/>
+<edge source="en_wikipedia_org" target="btm_wikipedia_org"/>
+<edge source="github_com" target="avatars_githubusercontent_com"/>
+<edge source="www_eubim_eu" target="stats_wp_com"/>
+<edge source="www_msn_com" target="api_msn_com"/>
+<edge source="en_wikipedia_org" target="got_wikipedia_org"/>
+<edge source="gmpg_org" target="www_weblogger_ch"/>
+<edge source="en_wikipedia_org" target="knc_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="be-tarask_wikipedia_org"/>
+<edge source="gmpg_org" target="creativecommons_org"/>
+<edge source="itch_io" target="studio-laaya_itch_io"/>
+<edge source="en_wikipedia_org" target="mt_wikipedia_org"/>
+<edge source="stats_wp_com" target="apps_apple_com"/>
+<edge source="gmpg_org" target="ryze_com"/>
+<edge source="en_wikipedia_org" target="km_wikipedia_org"/>
+<edge source="www_newscred_com" target="protect-de_mimecast_com"/>
+<edge source="itch_io" target="liamdevlabs_itch_io"/>
+<edge source="legalrequests_twitter_com" target="about_x_com"/>
+<edge source="eo_wikipedia_org" target="os_wikipedia_org"/>
+<edge source="www_fandom_com" target="www_metacritic_com"/>
+<edge source="en_wikipedia_org" target="kus_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="rw_wikipedia_org"/>
+<edge source="www_dataprivacyframework_gov" target="code_jquery_com"/>
+<edge source="itch_io" target="thirdspiritgames_itch_io"/>
+<edge source="en_wikipedia_org" target="tt_wikipedia_org"/>
+<edge source="itch_io" target="xena-spectrale_itch_io"/>
+<edge source="hackclub_com" target="social_dino_icu"/>
+<edge source="tantek_com" target="kottke_org"/>
+<edge source="en_wikipedia_org" target="lmo_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="lij_wikipedia_org"/>
+<edge source="digital-strategy_ec_europa_eu" target="eur-lex_europa_eu"/>
+<edge source="en_wikipedia_org" target="hy_wikipedia_org"/>
+<edge source="linkedin_com" target="be_linkedin_com"/>
+<edge source="itch_io" target="knifedemon_itch_io"/>
+<edge source="eo_wikipedia_org" target="bxr_wikipedia_org"/>
+<edge source="help_x_com" target="www_mozilla_org"/>
+<edge source="itch_io" target="campfire-studio-games_itch_io"/>
+<edge source="gmpg_org" target="pespmc1_vub_ac_be"/>
+<edge source="tantek_com" target="www_stopdesign_com"/>
+<edge source="www_medium_com" target="miro_medium_com"/>
+<edge source="gmpg_org" target="digital-web_com"/>
+<edge source="eo_wikipedia_org" target="simple_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="ee_wikipedia_org"/>
+<edge source="immigration-portal_ec_europa_eu" target="www_linkedin_com"/>
+<edge source="eo_wikipedia_org" target="mni_wikipedia_org"/>
+<edge source="news_ycombinator_com" target="www_workatastartup_com"/>
+<edge source="help_x_com" target="business_x_com"/>
+<edge source="tantek_com" target="www_simplegeek_com"/>
+<edge source="itch_io" target="elthen_itch_io"/>
+<edge source="github_com" target="desktop_github_com"/>
+<edge source="eo_wikipedia_org" target="dsb_wikipedia_org"/>
+<edge source="tantek_com" target="www_harrumph_com"/>
+<edge source="news_ycombinator_com" target="www_datocms_com"/>
+<edge source="creativecommons_org" target="opensource_creativecommons_org"/>
+<edge source="gmpg_org" target="www_nickfinck_com"/>
+<edge source="tantek_com" target="boingboing_net"/>
+<edge source="eo_wikipedia_org" target="tg_wikipedia_org"/>
+<edge source="help_x_com" target="legalrequests_twitter_com"/>
+<edge source="en_wikipedia_org" target="map-bms_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="nah_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="nn_wikipedia_org"/>
+<edge source="data_europa_eu" target="op_europa_eu"/>
+<edge source="single-market-economy_ec_europa_eu" target="sdw_ecb_europa_eu"/>
+<edge source="holovaty_com" target="w3c_github_io"/>
+<edge source="itch_io" target="delta-cat-studio_itch_io"/>
+<edge source="eo_wikipedia_org" target="ak_wikipedia_org"/>
+<edge source="www_linkedin_com" target="lu_linkedin_com"/>
+<edge source="en_wikipedia_org" target="uz_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="dga_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="bg_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="en_wikivoyage_org"/>
+<edge source="eo_wikipedia_org" target="roa-rup_wikipedia_org"/>
+<edge source="eubim_eu" target="www_vni_lv"/>
+<edge source="itch_io" target="eduardscarpato_itch_io"/>
+<edge source="www_linkedin_com" target="ru_linkedin_com"/>
+<edge source="gmpg_org" target="ijsm_org"/>
+<edge source="tantek_com" target="cassisproject_com"/>
+<edge source="stopdesign_com" target="37signals_com"/>
+<edge source="gmpg_org" target="www_journalspace_com"/>
+<edge source="www_glazman_org" target="www_blogger_com"/>
+<edge source="gmpg_org" target="www_mezzoblue_com"/>
+<edge source="www_ycombinator_com" target="bookface_ycombinator_com"/>
+<edge source="eo_wikipedia_org" target="chr_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="ss_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="li_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="diff_wikimedia_org"/>
+<edge source="www_timothychambers_net" target="www_manton_org"/>
+<edge source="eo_wikipedia_org" target="tum_wikipedia_org"/>
+<edge source="x_com" target="www_newscred_com"/>
+<edge source="tantek_com" target="shahine_com"/>
+<edge source="blog_x_com" target="docs_x_com"/>
+<edge source="en_wikipedia_org" target="hr_wikipedia_org"/>
+<edge source="blog_x_com" target="developer_x_com"/>
+<edge source="en_wikipedia_org" target="cdo_wikipedia_org"/>
+<edge source="solo_to" target="gist_github_com"/>
+<edge source="news_ycombinator_com" target="blog_helix_ml"/>
+<edge source="x_com" target="publish_x_com"/>
+<edge source="en_wikipedia_org" target="xal_wikipedia_org"/>
+<edge source="about_x_com" target="fonts_twitter_com"/>
+<edge source="eo_wikipedia_org" target="bn_wikipedia_org"/>
+<edge source="itch_io" target="rotheartgames_itch_io"/>
+<edge source="holovaty_com" target="www_nytimes_com"/>
+<edge source="tantek_com" target="rob_crabapples_net"/>
+<edge source="eo_wikipedia_org" target="la_wikipedia_org"/>
+<edge source="itch_io" target="craftpix_net"/>
+<edge source="help_x_com" target="publish_x_com"/>
+<edge source="hackclub_com" target="toolbox_hackclub_com"/>
+<edge source="www_medium_com" target="glyph_medium_com"/>
+<edge source="creativecommons_org" target="search_creativecommons_org"/>
+<edge source="eo_wikipedia_org" target="tay_wikipedia_org"/>
+<edge source="itch_io" target="fizzd_itch_io"/>
+<edge source="www_fandom_com" target="minecraft_fandom_com"/>
+<edge source="en_wikipedia_org" target="ckb_wikipedia_org"/>
+<edge source="tantek_com" target="www_instapundit_com"/>
+<edge source="github_com" target="archiveprogram_github_com"/>
+<edge source="t_co" target="abs_twimg_com"/>
+<edge source="eo_wikipedia_org" target="foundation_wikimedia_org"/>
+<edge source="tantek_com" target="sfbaybloggers_com"/>
+<edge source="about_x_com" target="help_x_com"/>
+<edge source="eo_wikipedia_org" target="is_wikipedia_org"/>
+<edge source="tantek_com" target="wmf_editthispage_com"/>
+<edge source="eo_wikipedia_org" target="ur_wikipedia_org"/>
+<edge source="www_medium_com" target="medium_com"/>
+<edge source="tantek_com" target="www_poeticgeek_net"/>
+<edge source="www_oaic_gov_au" target="www_youtube_com"/>
+<edge source="en_wikipedia_org" target="fo_wikipedia_org"/>
+<edge source="tantek_com" target="dbaron_org"/>
+<edge source="www_eubim_eu" target="www_eubim_eu"/>
+<edge source="holovaty_com" target="oldtownschool_org"/>
+<edge source="eo_wikipedia_org" target="pwn_wikipedia_org"/>
+<edge source="eubim_eu" target="gmpg_org"/>
+<edge source="eo_wikipedia_org" target="koi_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="nap_wikipedia_org"/>
+<edge source="tantek_com" target="brittney_pitas_com"/>
+<edge source="holovaty_com" target="social_holovaty_com"/>
+<edge source="tantek_com" target="holovaty_com"/>
+<edge source="help_x_com" target="developer_x_com"/>
+<edge source="en_wikipedia_org" target="donate_wikimedia_org"/>
+<edge source="eo_wikipedia_org" target="pt_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="ab_wikipedia_org"/>
+<edge source="chris_pirillo_com" target="fonts_gstatic_com"/>
+<edge source="en_wikipedia_org" target="cy_wikipedia_org"/>
+<edge source="itch_io" target="feverdreamjohnny_itch_io"/>
+<edge source="en_wikipedia_org" target="is_wikipedia_org"/>
+<edge source="tantek_com" target="www_jayfarrar_net"/>
+<edge source="research-and-innovation_ec_europa_eu" target="sfera2_sollab_eu"/>
+<edge source="kadyellebee_com" target="kadyellebee_etsy_com"/>
+<edge source="en_wikipedia_org" target="mg_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="nqo_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="id_wikipedia_org"/>
+<edge source="gmpg_org" target="www_timeistight_com"/>
+<edge source="en_wikipedia_org" target="sa_wikipedia_org"/>
+<edge source="www_glazman_org" target="www_cnn_com"/>
+<edge source="eo_wikipedia_org" target="sah_wikipedia_org"/>
+<edge source="tantek_com" target="www_reasonablyclever_com"/>
+<edge source="immigration-portal_ec_europa_eu" target="ec_europa_eu"/>
+<edge source="creativecommons_org" target="certificate_creativecommons_org"/>
+<edge source="gmpg_org" target="ultimorender_com_ar"/>
+<edge source="gmpg_org" target="www_feedster_com"/>
+<edge source="gmpg_org" target="www_lunenburg_org"/>
+<edge source="www_ycombinator_com" target="deals_ycombinator_com"/>
+<edge source="www_newscred_com" target="www_dataprivacyframework_gov"/>
+<edge source="github_com" target="www_instagram_com"/>
+<edge source="simplebits_com" target="simplebits_shop"/>
+<edge source="news_ycombinator_com" target="ammil_industries"/>
+<edge source="www_curseforge_com" target="overwolf_com"/>
+<edge source="eo_wikipedia_org" target="sm_wikipedia_org"/>
+<edge source="www_linkedin_com" target="ro_linkedin_com"/>
+<edge source="en_wikipedia_org" target="atj_wikipedia_org"/>
+<edge source="research-and-innovation_ec_europa_eu" target="op_europa_eu"/>
+<edge source="www_linkedin_com" target="jp_linkedin_com"/>
+<edge source="news_ycombinator_com" target="www_optery_com"/>
+<edge source="itch_io" target="tabithanikolai_itch_io"/>
+<edge source="stats_wp_com" target="discover_wordpress_com"/>
+<edge source="en_wikipedia_org" target="gu_wikipedia_org"/>
+<edge source="www_linkedin_com" target="ar_linkedin_com"/>
+<edge source="simplebits_com" target="instagram_com"/>
+<edge source="eo_wikipedia_org" target="avk_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="zh-yue_wikipedia_org"/>
+<edge source="eo_wikipedia_org" target="da_wikipedia_org"/>
+<edge source="tantek_com" target="gretchen_pirillo_com"/>
+<edge source="gmpg_org" target="www_wadny_com"/>
+<edge source="single-market-economy_ec_europa_eu" target="openfoodconference_eu"/>
+<edge source="tantek_com" target="www_subvert_com"/>
+<edge source="itch_io" target="nataku411_itch_io"/>
+<edge source="gmpg_org" target="www_laze_net"/>
+<edge source="x_com" target="grok_com"/>
+<edge source="en_wikipedia_org" target="tl_wikipedia_org"/>
+<edge source="en_wikipedia_org" target="nia_wikipedia_org"/>
+<edge source="about_x_com" target="investor_twitterinc_com"/>
+<edge source="gmpg_org" target="djryan_tripod_com"/>
+<edge source="www_glazman_org" target="ln_hixie_ch"/>
+<edge source="github_com" target="red-studio-ragnarok_github_io"/>
+<edge source="github_com" target="resources_github_com"/>
+<edge source="docs_x_com" target="github_com"/>
+<edge source="www_curseforge_com" target="discord_gg"/>
+<edge source="github_com" target="www_lwjgl_org"/>
+<edge source="eo_wikipedia_org" target="cu_wikipedia_org"/>
+<edge source="news_ycombinator_com" target="html2png_dev"/>
+<edge source="kadyellebee_com" target="theredkitchen_kdlb_com"/>
+<edge source="gmpg_org" target="www_acm_org"/>
+</graph>
+</graphml>

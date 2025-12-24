@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>GraphML Viewer</title>
+    <style>
+        body { margin: 0; overflow: hidden; background: #111; }
+        canvas { display: block; }
+    </style>
+</head>
+<body>
+<canvas id="graph"></canvas>
+
+<script>
+    async function loadGraphML(url) {
+        const resp = await fetch(url);
+        const text = await resp.text();
+        const parser = new DOMParser();
+        const xml = parser.parseFromString(text, "application/xml");
+
+        const nodes = [];
+        const edges = [];
+
+        xml.querySelectorAll("node").forEach(node => {
+            nodes.push({ id: node.getAttribute("id") });
+        });
+
+        xml.querySelectorAll("edge").forEach(edge => {
+            edges.push({
+                source: edge.getAttribute("source"),
+                target: edge.getAttribute("target")
+            });
+        });
+
+        return { nodes, edges };
+    }
+
+    // Draw graph with circles and edges
+    function drawGraph(canvas, nodes, edges) {
+        const ctx = canvas.getContext("2d");
+        const w = canvas.width;
+        const h = canvas.height;
+
+        ctx.clearRect(0, 0, w, h);
+
+        // Assign random positions if not already assigned
+        nodes.forEach(n => {
+            if (!n.x) {
+                n.x = Math.random() * w;
+                n.y = Math.random() * h;
+            }
+        });
+
+        // Draw edges
+        ctx.strokeStyle = 'rgba(255,255,255,0.3)';
+        edges.forEach(e => {
+            const s = nodes.find(n => n.id === e.source);
+            const t = nodes.find(n => n.id === e.target);
+            if (s && t) {
+                ctx.beginPath();
+                ctx.moveTo(s.x, s.y);
+                ctx.lineTo(t.x, t.y);
+                ctx.stroke();
+            }
+        });
+
+        // Draw nodes
+        ctx.fillStyle = '#ff5500';
+        nodes.forEach(n => {
+            ctx.beginPath();
+            ctx.arc(n.x, n.y, 3, 0, Math.PI * 2);
+            ctx.fill();
+        });
+    }
+
+    const canvas = document.getElementById("graph");
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+
+    loadGraphML('graph.graphml').then(graph => {
+        drawGraph(canvas, graph.nodes, graph.edges);
+    });
+
+    window.addEventListener('resize', () => {
+        canvas.width = window.innerWidth;
+        canvas.height = window.innerHeight;
+    });
+</script>
+</body>
+</html>

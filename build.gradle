@@ -1,0 +1,26 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(21)
+    }
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // HTML parser
+    implementation 'org.jsoup:jsoup:1.16.1'
+
+    implementation 'org.jgrapht:jgrapht-core:1.5.2'
+    implementation 'org.jgrapht:jgrapht-io:1.5.2'
+}
+
+application {
+    mainClass = 'com.strubium.gasstation.Main'
+}
