@@ -1,5 +1,7 @@
 package com.strubium.gasstation;
 
+import com.strubium.gasstation.logger.ProjectLogger;
+
 import java.io.IOException;
 import java.util.Set;
 import java.util.concurrent.ExecutorService;
@@ -75,6 +77,6 @@ public class Main {
         }
 
 
-        System.out.println("Crawl finished. Graph saved to internet_map.graphml");
+        ProjectLogger.LOGGER.info("Crawl finished. Graph saved to internet_map.graphml");
     }
 }

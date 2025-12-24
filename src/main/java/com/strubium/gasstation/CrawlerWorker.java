@@ -1,5 +1,6 @@
 package com.strubium.gasstation;
 
+import com.strubium.gasstation.logger.ProjectLogger;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -39,7 +40,7 @@ public class CrawlerWorker implements Runnable {
                 return;
             }
 
-            System.out.println("Crawling: " + url);
+            ProjectLogger.LOGGER.info("Crawling: " + url);
 
             Document doc = Jsoup.connect(url)
                     .userAgent("AdvancedJavaCrawler")
@@ -136,6 +137,6 @@ public class CrawlerWorker implements Runnable {
         phaser.arriveAndAwaitAdvance();
 
         executor.shutdown();
-        System.out.println("✅ Crawl finished.");
+        ProjectLogger.LOGGER.info("✅ Crawl finished.");
     }
 }

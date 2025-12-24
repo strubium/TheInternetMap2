@@ -1,5 +1,7 @@
 package com.strubium.gasstation;
 
+import com.strubium.gasstation.logger.ProjectLogger;
+
 import javax.xml.stream.*;
 import java.io.*;
 import java.util.*;
@@ -81,13 +83,13 @@ public class FastGraphMLExporter {
         List<String[]> edges = new ArrayList<>();
 
         parseGraphML(inputGraphFile, nodes, edges);
-        System.out.println("Parsed " + nodes.size() + " nodes and " + edges.size() + " edges");
+        ProjectLogger.LOGGER.info("Parsed " + nodes.size() + " nodes and " + edges.size() + " edges");
 
         Map<String, NodePos> positions =
                 generateForceLayoutBarnesHut(nodes, edges, width, height);
 
         exportToHTML(outputHtmlFile, nodes, edges, positions);
-        System.out.println("Exported to " + outputHtmlFile);
+        ProjectLogger.LOGGER.info("Exported to " + outputHtmlFile);
     }
 
 

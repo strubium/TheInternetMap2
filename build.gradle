@@ -17,8 +17,13 @@ dependencies {
     // HTML parser
     implementation 'org.jsoup:jsoup:1.16.1'
 
+    //Graph
     implementation 'org.jgrapht:jgrapht-core:1.5.2'
     implementation 'org.jgrapht:jgrapht-io:1.5.2'
+
+    // Logging
+    implementation 'org.slf4j:slf4j-api:1.7.32'
+    implementation 'ch.qos.logback:logback-classic:1.5.16'
 }
 
 application {

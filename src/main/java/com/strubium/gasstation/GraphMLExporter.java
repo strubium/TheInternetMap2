@@ -1,5 +1,6 @@
 package com.strubium.gasstation;
 
+import com.strubium.gasstation.logger.ProjectLogger;
 import org.jgrapht.Graph;
 import org.jgrapht.graph.DefaultEdge;
 
@@ -15,7 +16,7 @@ public class GraphMLExporter {
      * It takes snapshots of vertices and edges to avoid concurrent modification.
      */
     public void exportGraph(Graph<String, DefaultEdge> graph, String fileName) throws IOException {
-        System.out.println("Starting to export Graph");
+        ProjectLogger.LOGGER.info("Starting to export Graph");
 
         Set<String> verticesSnapshot = new HashSet<>();
         Set<DefaultEdge> edgesSnapshot = new HashSet<>();
@@ -48,6 +49,6 @@ public class GraphMLExporter {
             writer.write("</graph>\n</graphml>\n");
         }
 
-        System.out.println("Graph exported successfully!");
+        ProjectLogger.LOGGER.info("Graph exported successfully!");
     }
 }
